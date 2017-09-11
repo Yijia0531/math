@@ -1,0 +1,146 @@
+<question id="2008nianputonggaokaogonggongnongyi_13" score="5" type="fillblank">      
+<blank format="latex" num="1">设函数$y=f(x)$存在反函数$y=f^{-1}(x)$且函数$y=x-f(x)$的图象过点$(1,2)$,则函数$y=f^{-1}(x)-x$的图象一定过点___ .</blank>
+</question>
+
+
+
+<question id="2008nianputonggaokaogonggongnongyi_13" score="5" type="fillblank">  <blank format="latex" num="1">
+    <Sentence>
+      <logic>Function(f(x))</logic>
+      <logic>InverseFunction(rs_a,$y=f^{-1}(x)$)</logic>
+      <logic>Exist(f(x),rs_a)</logic>
+    </Sentence>
+    <Sentence>
+      <logic>Function(rs_b,$y=x-f(x)$)</logic>
+      <logic>GraphicOfFunction(rs_b,rs_c)</logic>
+      <logic>Point(rs_d)</logic>
+      <logic>Equal(rs_d,$(1,2)$)</logic>
+      <logic>Through(rs_c,rs_d)</logic>
+    </Sentence>
+    <Sentence>
+      <logic>Function(rs_e,$y=f^{-1}(x)-x$)</logic>
+      <logic>GraphicOfFunction(rs_e,rs_f)</logic>
+      <logic>Point(rs_g)</logic>
+      <logic>Asking1(rs_g)</logic>
+    </Sentence>
+  </blank>
+</question>
+
+<question id="yunnangunming2012-2013gaoershuxuelikeshijuan_08" score="5" type="select">       <text format="latex,html">已知向量$\vec{a}=(1,1,0),\vec{b}=(-1,0,2)$，且$k\vec{a}+\vec{b}$与$2\vec{a}-\vec{b}$互相垂直，则k的值是__</text>
+        <select format="latex" multiple="false">
+          <option value="A">1</option>
+          <option value="B">$\frac{1}{5}$</option>
+          <option value="C">$\frac{7}{5}$</option>
+          <option value="D">$\frac{3}{5}$</option>
+        </select>
+      </question>
+
+
+
+<question id="yunnangunming2012-2013gaoershuxuelikeshijuan_08" score="5" type="select">  <text format="latex,html">
+    <Sentence>
+      <logic>Vector($\vec{a}$)</logic>
+      <logic>Equal($\vec{a}$,$(1,1,0)$)</logic>
+    </Sentence>
+    <Sentence>
+      <logic>Vector($\vec{b}$)</logic>
+      <logic>Equal($\vec{b}$,$(-1,0,2)$)</logic>
+    </Sentence>
+    <Sentence>
+      <logic>Perpendicular($k\vec{a}+\vec{b}$,$2\vec{a}-\vec{b}$)</logic>
+    </Sentence>
+    <Sentence>
+      <logic>ValueOfParameter(k,rs_a)</logic>
+      <logic>Asking1(rs_a)</logic>
+    </Sentence>
+  </text>
+  <select format="latex" multiple="false">
+    <option value="A">1</option>
+    <option value="B">$\frac{1}{5}$</option>
+    <option value="C">$\frac{7}{5}$</option>
+    <option value="D">$\frac{3}{5}$</option>
+  </select>
+</question>
+
+<questions id="questions_07" score="12">      <text format="latex">已知函数$f(x)=\frac{e^{x+1}}{ax^{2}+4x+4}$,其中$a\in R$.</text>
+      <question id="2014jiebeijingsizhonggaosanshuxueermolikeshuxuejuan_18_1" type="shortanswer">
+        <text format="latex">若$a=0$,求函数$f(x)$的极值;</text>
+      </question> 
+      <question id="2014jiebeijingsizhonggaosanshuxueermolikeshuxuejuan_18_2" type="shortanswer">
+        <text format="latex">当$a\textgreater 1$时,试确定函数$f(x)$的单调区间.</text>
+      </question> 
+    </questions>
+
+
+
+<questions id="questions_07" score="12">  <text format="latex">
+    <Sentence>
+      <logic>Function(f(x),$\frac{e^{x+1}}{ax^{2}+4x+4}$)</logic>
+    </Sentence>
+    <Sentence>
+      <logic>BelongTo(a,R)</logic>
+    </Sentence>
+  </text>
+  <question id="2014jiebeijingsizhonggaosanshuxueermolikeshuxuejuan_18_1" type="shortanswer">
+    <text format="latex">
+      <Sentence>
+        <logic>Equal(a,0)</logic>
+      </Sentence>
+      <Sentence>
+        <logic>Asking(rs_a)</logic>
+        <logic>Function(f(x))</logic>
+        <logic>ExtremeValueOfFunction(f(x),rs_a)</logic>
+      </Sentence>
+    </text>
+  </question>
+  <question id="2014jiebeijingsizhonggaosanshuxueermolikeshuxuejuan_18_2" type="shortanswer">
+    <text format="latex">
+      <Sentence>
+        <logic>(Function(f(x)),MonotonicIntervalOfFunction(f(x),rs_b),Asking(rs_b)):-(GreaterThan(a,1))</logic>
+      </Sentence>
+    </text>
+  </question>
+</questions>
+
+<question id="2005niangaokao(beijingjuan)shuxue(like)_2" score="5" type="select">
+        <text format="latex">“$m=\frac{1}{2}$”是“直线$(m+2)x+3my+1=0$与直线$(m-2)x+(m+2y)-3=0$相互垂直”的___</text>  
+        <select format="latex" multiple="false">
+          <option value="A">充分必要条件</option>
+          <option value="B">充分而不必要条件</option>
+          <option value="C">必要而不充分条件</option>
+          <option value="D">既不充分也不必要条件</option>
+        </select>
+      </question>
+
+
+
+<question id="2005niangaokao(beijingjuan)shuxue(like)_2" score="5" type="select">
+  <text format="latex">
+    <Sentence>
+      <logic>LogicalRelationship((Equal(m,$\frac{1}{2}$)),(Line(rs_a,$(m+2)x+3my+1=0$),Line(rs_b,$(m-2)x+(m+2y)-3=0$),Perpendicular(rs_a,rs_b)),rs_c)</logic>
+      <logic>Asking1(rs_c)</logic>
+    </Sentence>
+  </text>
+  <select format="latex" multiple="false">
+    <option value="A">
+      <Sentence>
+        <logic>NecessaryAndSufficientCondition</logic>
+      </Sentence>
+    </option>
+    <option value="B">
+      <Sentence>
+        <logic>UnnecessaryAndSufficientCondition</logic>
+      </Sentence>
+    </option>
+    <option value="C">
+      <Sentence>
+        <logic>NecessaryNotSufficientCondition</logic>
+      </Sentence>
+    </option>
+    <option value="D">
+      <Sentence>
+        <logic>NeitherSufficientNorNecessaryConditions</logic>
+      </Sentence>
+    </option>
+  </select>
+</question>

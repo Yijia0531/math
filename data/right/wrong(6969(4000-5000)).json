@@ -1,0 +1,668 @@
+[
+  {
+    "original_text": "how do i write a system of equations for this?\nTom is 4 times as old as Todd. In 5 years Tom's age will be 2 years less than 3 times as old as Todd. How old is Tom?",
+    "ans": "32; 8",
+    "mapping_equations": [
+      "null",
+      "x=4*y",
+      "x+5=3*(y+5)-2",
+      "Question"
+    ],
+    "mapping_text": [
+      "how do i write a system of equations for this?",
+      "Tom is 4 times as old as Todd.",
+      "In 5 years Tom's age will be 2 years less than 3 times as old as Todd.",
+      "How old is Tom?"
+    ],
+    "id": "yahoo.answers.20090110190101AA6nzC4",
+    "correct": "true",
+    "text": " is 4 times as old as Todd. In 5 years Tom's age will be 2 years less than 3 times as old as Todd. How old is Tom?",
+    "flag": 0,
+    "equations": "unkn: x,y\r\nequ: x=4*y\r\nequ: x+5=3*(y+5)-2"
+  },
+  {
+    "original_text": "easy math help please?\nThe number of tropical fish that an aquarium can hold depends on the volume of the fish tank. The interior dimensions of the fish tank below are 39 cm, 38 cm, and 39 cm. Each fish requires 10,000 cubic centimeters of water. How many tropical fish will this fish tank hold?",
+    "ans": "57798; 5.7798",
+    "mapping_equations": [
+      "null",
+      "39*38*39=x",
+      "x/10000=y",
+      "Question"
+    ],
+    "mapping_text": [
+      "easy math help please?\nThe number of tropical fish that an aquarium can hold depends on the volume of the fish tank.",
+      "The interior dimensions of the fish tank below are 39 cm, 38 cm, and 39 cm.",
+      "Each fish requires 10,000 cubic centimeters of water.",
+      "How many tropical fish will this fish tank hold?"
+    ],
+    "id": "yahoo.answers.20090125093522AAfdnTN",
+    "correct": "true",
+    "text": " number of tropical fish that an aquarium can hold depends on the volume of the fish tank. The interior dimensions of the fish tank below are 39 cm, 38 cm, and 39 cm. Each fish requires 10,000 cubic centimeters of water. How many tropical fish will this fish tank hold?",
+    "flag": 0,
+    "equations": "unkn: x,y\r\nequ: 39*38*39=x\r\nequ: x/10000=y"
+  },
+  {
+    "original_text": "what is the probability?\nthe probability that a student at a university is a male is .48, that a student is a business major is .14, and that a student is a male and a business major is .06. What is the probability that a randomly selected student from the university is a male or a business major?",
+    "ans": "0.56",
+    "mapping_equations": [
+      "null",
+      "0.48+0.14-0.06=x",
+      "Question"
+    ],
+    "mapping_text": [
+      "what is the probability?",
+      "the probability that a student at a university is a male is .48, that a student is a business major is .14, and that a student is a male and a business major is .06.",
+      "What is the probability that a randomly selected student from the university is a male or a business major?"
+    ],
+    "id": "yahoo.answers.20090208205839AA2RufI",
+    "correct": "true",
+    "text": "The probabilityat a student at a university is a male is .480, that a student is a business major is .140, and that a student is a male and a business major is .060. What is the probability that a randomly selected student from the university is a male or a business major?",
+    "flag": 0,
+    "equations": "unkn: x\r\nequ: 0.48+0.14-0.06=x"
+  },
+  {
+    "original_text": "I need help with a math problem?\nThe sum of 2 numbers is 115. The Difference is 21. Find The Numbers.",
+    "ans": "68; 47",
+    "mapping_equations": [
+      "null",
+      "x+y=115",
+      " x-y=21",
+      "question"
+    ],
+    "mapping_text": [
+      "I need help with a math problem?",
+      "The sum of 2 numbers is 115.",
+      "The Difference is 21.",
+      "Find The Numbers."
+    ],
+    "id": "yahoo.answers.20090316212043AAY8WDv",
+    "correct": "true",
+    "text": "he sum of 2 numbers is 115. The Difference is 21. Find The Numbers.",
+    "flag": 0,
+    "equations": "unkn: x,y\r\nequ: x+y=115\r\nequ: x-y=21"
+  },
+  {
+    "original_text": "Can you help me with probability?\n500 people enter a competition, each buy one ticket for a prize draw to win a holiday. The tickets numbered 1 to 500 will are put into a barrel and the winning ticket will be drawn.\r\n\r\nOne person has the ticket numbered 350. What is the probability that and what is the probability that the winning ticket will be more than 350?",
+    "ans": "150; 0.3",
+    "mapping_equations": [
+      "null",
+      "500-350=x&&x/500=y"
+    ],
+    "mapping_text": [
+      "Can you help me with probability?",
+      "500 people enter a competition, each buy one ticket for a prize draw to win a holiday. The tickets numbered 1 to 500 will are put into a barrel and the winning ticket will be drawn.\r\n\r\nOne person has the ticket numbered 350."
+    ],
+    "id": "yahoo.answers.20090406233235AAHVhM7",
+    "correct": "true",
+    "text": "500 people enter a competition, each buy one ticket for a prize draw to win a holiday. The tickets numbered 1 to 500 will are put into a barrel and the winning ticket will be drawn. One person has the ticket numbered 350. What is the probability that and what is the probability that the winning ticket will be more than 350?",
+    "flag": 0,
+    "equations": "unkn: x,y\r\nequ: 500-350=x\r\nequ: x/500=y"
+  },
+  {
+    "original_text": "How do u do these math questions i need your help i dont get the questions?\n3.two towns have a difference in population of 2500,and a total combined population of 4300.find the poplution of each town 4.a triangle has a base of 11cm.the other two sides are equal to each other and the perimeter is 35cm.find the length of the two equal sides 5.a trapezoid has a base of 30cm.the two sides adjacent to the base are both 10cm shorter than the top.the perimeter is 76cm.find the length of the top please show all work thanks",
+    "ans": "3400; 900",
+    "mapping_equations": [
+      "null",
+      "x-y=2500",
+      "x+y=4300",
+      "question",
+      "11+2z=35",
+      "question",
+      "30+2*(m-10)+m=76",
+      "question"
+    ],
+    "mapping_text": [
+      "How do u do these math questions i need your help i dont get the questions?",
+      "3.two towns have a difference in population of 2500,",
+      "and a total combined population of 4300.",
+      "find the poplution of each town",
+      "4.a triangle has a base of 11cm.the other two sides are equal to each other and the perimeter is 35cm.",
+      "find the length of the two equal sides ",
+      "5.a trapezoid has a base of 30cm.the two sides adjacent to the base are both 10cm shorter than the top.the perimeter is 76cm.",
+      "find the length of the top please show all work thanks"
+    ],
+    "id": "yahoo.answers.20090423191011AAc4pi6",
+    "correct": "False",
+    "text": " towns have a difference in population of 2500,and  a total combined population of 4300.fin d the poplution of each town 4.t",
+    "flag": 0,
+    "equations": "unkn: x,y\r\nequ: x-y=2500\r\nequ: x+y=4300"
+  },
+  {
+    "original_text": "i tried a million times to solve some one please help me?\nOn a train, it took 3/4 hour to travel a distance\r\n    of 52 1/2 miles. What was the average speed of\r\n    the train?",
+    "ans": "70",
+    "mapping_equations": [
+      "null",
+      " 52.5/0.75=x",
+      "Question"
+    ],
+    "mapping_text": [
+      "i tried a million times to solve some one please help me?",
+      "On a train, it took 3/4 hour to travel a distance\r\n    of 52 1/2 miles.",
+      "What was the average speed of\r\n    the train?"
+    ],
+    "id": "yahoo.answers.20090602080828AAZVPBI",
+    "correct": "true",
+    "text": "n a train, it took 3/4 hour to travel a distance\rof 52 1/2 miles. What was the average speed of\rthe train?",
+    "flag": 0,
+    "equations": "unkn: x\r\nequ: 52.5/0.75=x"
+  },
+  {
+    "original_text": "Word problem for math?\nJeremy and Lana were comparing the number of hours each of them had worked during the past week. They noticed that between them they had worked 66 hours with Lana working 6 more hours than Jeremy. How many hours did each work?\r\n\r\nI know that the first equation is x + y = 66. But can't get the rest of the questions, a little help.",
+    "ans": "36; 30",
+    "mapping_equations": [
+      "null",
+      "x=y+6&&y+x=66",
+      "question",
+      "null"
+    ],
+    "mapping_text": [
+      "Word problem for math?\nJeremy and Lana were comparing the number of hours each of them had worked during the past week.",
+      "They noticed that between them they had worked 66 hours with Lana working 6 more hours than Jeremy.",
+      "How many hours did each work?",
+      "I know that the first equation is x + y = 66. But can't get the rest of the questions, a little help."
+    ],
+    "id": "yahoo.answers.20090923215711AA3CDb6",
+    "correct": "true",
+    "text": "Jeremy and Lana were comparing the number of hours each of them had worked during the past week. They noticed that between them they had worked 66 hours with Lana working 6 more hours than Jeremy. How many hours did each work?",
+    "flag": 0,
+    "equations": "unkn: x,y\r\nequ: x=y+6\r\nequ: y+x=66"
+  },
+  {
+    "original_text": "a farmer plans to cover a 70 yd by 125 yd rectangular field with enriched soil 3 inches deep.?\na farmer plans to cover a 70 yd by 125 yd rectangular field with enriched soil 3 inches deep. each truckload of soil costs $280 and has volume 85 cubic yards. \r\n\r\nhow many truckloads of soil does he need? \r\nwhat is the total cost of the soil?",
+    "ans": "8.578; 2520",
+    "mapping_equations": [
+      "70*125*(3/12)/85=x&&280*x=y",
+      "question"
+    ],
+    "mapping_text": [
+      "a farmer plans to cover a 70 yd by 125 yd rectangular field with enriched soil 3 inches deep. each truckload of soil costs $280 and has volume 85 cubic yards.",
+      "how many truckloads of soil does he need? \r\nwhat is the total cost of the soil?"
+    ],
+    "id": "yahoo.answers.20091118101743AA4SPvY",
+    "correct": "true",
+    "text": "A farmer plans to cover a 70 yd by 125 yd rectangular field with enriched soil 3 inches deep. Ech truckload of soil costs $280 and has volume 85 cubic yards. \rHhow many truckloads of soil does he need?Wwhat is the total cost of the soil",
+    "flag": 0,
+    "equations": "unkn: x,y\r\nequ: 70*125*(3/12)/85=x\r\nequ: 280*x=y"
+  },
+  {
+    "original_text": "Math problem?\nA deck of cards has 4 yellow, 6 violet, and 5 white cards. you pick 4 cards from the deck. cards are not returned to the deck after they are picked. What is the probability that the firdt card id white, the second card is violet, the third card is violet, and the fourth card is yellow",
+    "ans": "0.018315018315",
+    "mapping_equations": [
+      "(5/15)*(6/14)*(5/13)*(4/12)=x",
+      "Question"
+    ],
+    "mapping_text": [
+      "A deck of cards has 4 yellow, 6 violet, and 5 white cards. you pick 4 cards from the deck. cards are not returned to the deck after they are picked.",
+      "What is the probability that the firdt card id white, the second card is violet, the third card is violet, and the fourth card is yellow"
+    ],
+    "id": "yahoo.answers.1006030214849",
+    "correct": "true",
+    "text": "A deck of cards has 4 yellow, 6 violet, and 5 white cards. You pick 4 cards from the deck. Cards are not returned to the deck after they are picked. What is the probability that the firdt card id white, the second card isolet, andthe third card is violet, and the fpirth card is yellow.",
+    "flag": 0,
+    "equations": "unkn: x\r\nequ: (5/15)*(6/14)*(5/13)*(4/12)=x"
+  },
+  {
+    "original_text": "Math Question!?\nEloise made the trip on Sunday, and Christian made the same trip on Monday. Eloise traveled at 15 miles per hour. Christian traveled at 30 miles per hour, so his time was 3 hours less than Eloise's time. How far did they travel? define a variable; write an equation;solve; answer the question.",
+    "ans": "90",
+    "mapping_equations": [
+      " z/30+3=z/15",
+      "Question"
+    ],
+    "mapping_text": [
+      "Eloise traveled at 15 miles per hour. Christian traveled at 30 miles per hour, so his time was 3 hours less than Eloise's time. ",
+      " How far did they travel? define a variable; write an equation;solve; answer the question."
+    ],
+    "id": "yahoo.answers.1006041029776",
+    "correct": "true",
+    "text": "Eloise made the trip on Sunday, and Christian made the same trip on Monday. Eloise traveled at 15 miles per hour. Christian traveled at 30 miles per hour, so his time was 3 hours less than Eloise's time. How far did they travel? define a variable; write an equation; solve; answer the question.",
+    "flag": 0,
+    "equations": "unkn: z\r\nequ: z/30+3=z/15"
+  },
+  {
+    "original_text": "The average of 3, 16 and 5?\nMATHS QUESTION",
+    "ans": "8",
+    "mapping_equations": [
+      "x=(3+16+5)/3",
+      "null"
+    ],
+    "mapping_text": [
+      "The average of 3, 16 and 5?",
+      "MATHS QUESTION"
+    ],
+    "id": "yahoo.answers.20070419023256AArtp7o",
+    "correct": "true",
+    "text": "The average of 3, 16 and 5?",
+    "flag": 0,
+    "equations": "unkn: x\r\nequ: x=(3+16+5)/3"
+  },
+  {
+    "original_text": "Math problem help?\nThe price of a stock rose $0.09 on Monday and rose again $0.12 on Tuesday. If the closing price on Tuesday was $1.47, what was the opening price on Monday?",
+    "ans": "1.26",
+    "mapping_equations": [
+      "null",
+      "1.47-0.09-0.12=x",
+      "Question"
+    ],
+    "mapping_text": [
+      "Math problem help?",
+      "The price of a stock rose $0.09 on Monday and rose again $0.12 on Tuesday. If the closing price on Tuesday was $1.47,",
+      "what was the opening price on Monday?"
+    ],
+    "id": "yahoo.answers.20070602232827AATd4kJ",
+    "correct": "true",
+    "text": " price of a stock rose $0.09 on Monday and rose again $0.12 on Tuesday. If the closing price on Tuesday was $1.47, what was the opening price on Monday?",
+    "flag": 0,
+    "equations": "unkn: x\r\nequ: 1.47-0.09-0.12=x"
+  },
+  {
+    "original_text": "What is the weight of a small marble?\nThe total weight of 5 big marbles is the same as 7 small marbles is the same as 7 small marbles. A big marble is 2.84kg heavier than a small marble. What is the weight of a small marble ?",
+    "ans": "7.1; 9.94; 49.7",
+    "mapping_equations": [
+      "null",
+      "5*(x+2.84)=7*x",
+      "question"
+    ],
+    "mapping_text": [
+      "What is the weight of a small marble?",
+      "The total weight of 5 big marbles is the same as 7 small marbles is the same as 7 small marbles.A big marble is 2.84kg heavier than a small marble.",
+      " What is the weight of a small marble ?"
+    ],
+    "id": "yahoo.answers.20070731024359AArNIpR",
+    "correct": "false",
+    "text": " total weight of 5 big marbles is the same as 7 small marbles is the same as 7 small marbles. A big marble is 2.84kg heavier than a small marble. What is the weight of a small marble ?",
+    "flag": 0,
+    "equations": "unkn: x,y,z\r\nequ: x+2.84=y\r\nequ: 5*(x+2.84)=7*x\r\nequ: 5*(7.1+2.84)=z"
+  },
+  {
+    "original_text": "can you tell me what 17.25% of 8.25 is?\nalso can you tell me what 17.25% of 7.39 is?\r\nthanks",
+    "ans": "1.423125; 1.274775",
+    "mapping_equations": [
+      "8.25*0.1725=y",
+      " 7.39*0.1725=m"
+    ],
+    "mapping_text": [
+      "an you tell me what 17.25% of 8.25 is?",
+      "also can you tell me what 17.25% of 7.39 is?"
+    ],
+    "id": "yahoo.answers.20070905033143AAFZEpA",
+    "correct": "true",
+    "text": "Can you tell me what 17.25% of 8.25 is? Can you tell me what 17.25% of 7.39 is?",
+    "flag": 0,
+    "equations": "unkn: y,m\r\nequ: 8.25*0.1725=y\r\nequ: 7.39*0.1725=m"
+  },
+  {
+    "original_text": "Arnel is 1/3 as old as his mother.In 4 yrs.,he will be as old as his mother was 20 yrs ago.Find Arnel's age.\nanswer it with solution please..^_^..thanks..",
+    "ans": "12; 36",
+    "mapping_equations": [
+      "x+4=3*x-20",
+      "question",
+      "null"
+    ],
+    "mapping_text": [
+      "Arnel is 1/3 as old as his mother.In 4 yrs.,he will be as old as his mother was 20 yrs ago.",
+      "Find Arnel's age.",
+      "answer it with solution please..^_^..thanks.."
+    ],
+    "id": "yahoo.answers.20070916011626AAsp5Cy",
+    "correct": "false",
+    "text": "Arnel is 1/3 as old as his mother.In 4 yrs, he will be as old as his mother was 20 yrs ago. Find Arnel's age.",
+    "flag": 0,
+    "equations": "unkn: x,y\r\nequ: 3*x=y\r\nequ: x+4=3*x-20"
+  },
+  {
+    "original_text": "math help???\nA traffic light is red for 30 seconds, yellow for 5 seconds, and green for 40 seconds. What is the probability that when you reach the light, the light is red, the light is yellow, the light is not red.",
+    "ans": "0.4; 0.0666666666667; 0.6",
+    "mapping_equations": [
+      "null",
+      "30/(30+5+40)=x&&5/(30+5+40)=y&&(5+40)/(30+5+40)=z",
+      "Question"
+    ],
+    "mapping_text": [
+      "math help???",
+      "A traffic light is red for 30 seconds, yellow for 5 seconds, and green for 40 seconds.",
+      "What is the probability that when you reach the light, the light is red, the light is yellow, the light is not red."
+    ],
+    "id": "yahoo.answers.20071013191144AA8uYIK",
+    "correct": "true",
+    "text": "raffic light is red for 30 seconds, yellow for 5 seconds, and green for 40 seconds. What is the probability that when you reach the light, the light is red, the light is yellow, the light is not red.",
+    "flag": 0,
+    "equations": "unkn: x,y,z\r\nequ: 30/(30+5+40)=x\r\nequ: 5/(30+5+40)=y\r\nequ: (5+40)/(30+5+40)=z"
+  },
+  {
+    "original_text": "In The 2002 winter olympics, germany won 2 more gold medals than the US If the total number of gold medals...?\nfor both is 22 find the number of gold medals that each team won. ???",
+    "ans": "10; 12",
+    "mapping_equations": [
+      "null",
+      "x+2=y&&x+x+2=22",
+      "question"
+    ],
+    "mapping_text": [
+      "In The 2002 winter olympics, ",
+      "germany won 2 more gold medals than the US If the total number of gold medals...?\nfor both is 22",
+      "find the number of gold medals that each team won. ???"
+    ],
+    "id": "yahoo.answers.20071130082522AAAqYpi",
+    "correct": "true",
+    "text": "In The 2002 winter Olympics, Germany won 2 more gold medals than the US If the total number of gold medals  both is 22 fi,nd the number of gold medals that each team won. ??",
+    "flag": 0,
+    "equations": "unkn: x,y\r\nequ: x+2=y\r\nequ: x+x+2=22"
+  },
+  {
+    "original_text": "8th grade math help?\nIf a doctor prescribed 36 pills and directed you to take them every 4 hours, how many days would they last?",
+    "ans": "6",
+    "mapping_equations": [
+      "null",
+      "36/(24/4)=x",
+      "Question"
+    ],
+    "mapping_text": [
+      "8th grade math help?",
+      "If a doctor prescribed 36 pills and directed you to take them every 4 hours,",
+      "how many days would they last?"
+    ],
+    "id": "yahoo.answers.20080121183556AAetC2k",
+    "correct": "false",
+    "text": "a doctor prescribed 36 pills and directed you to take them every 4 hours, how many days would they last?",
+    "flag": 0,
+    "equations": "unkn: x\r\nequ: 24/4=x"
+  },
+  {
+    "original_text": "Please help!! Optimization problem!!!?\nA store buys stereos from a supply company for $63 each. Then they sell them for $99. At this price, the store is averaging 23 sales/week. Studies show that for every $2 decrease in price, the store will sell an additional 5 stereos. What price should the store use to MAXimize their profits?!\r\n\r\nPlease help!!!!\r\nThank you!!!",
+    "ans": "6.7; 87",
+    "mapping_equations": [
+      "null",
+      "(99-63-2*x)*(23+5*x)=y",
+      "question"
+    ],
+    "mapping_text": [
+      "Please help!! Optimization problem!!!?",
+      "A store buys stereos from a supply company for $63 each. Then they sell them for $99. At this price, the store is averaging 23 sales/week. Studies show that for every $2 decrease in price, the store will sell an additional 5 stereos.",
+      "What price should the store use to MAXimize their profits?!"
+    ],
+    "id": "yahoo.answers.20080206055401AA0eadj",
+    "correct": "false",
+    "text": "tore buys stereos from a supply company for $63 each. Then they sell them for $99. At this price, the store is averaging 23 sales/week. Studies show that for every $2 decrease in price, the store will sell an additional 5 stereos. What price should the store use to MAXmaxze their profits?!\r\n",
+    "flag": 0,
+    "equations": "unkn: x,y\r\nequ: (99-63-2*x)*(23+5*x)=y\r\nequ: 134=20*x\r\nequ: 99-(2*6)=y"
+  },
+  {
+    "original_text": "Word Problems :(?\nokay, i have a test tomorrow, and i totally blanked on how to do this!\r\n\r\nThis is the question:\r\nMarc sold 361 tickets for the school play.  Student tickets were $3 and adult tickets swere $5.  THe money Marc raised totalled $1409.  How many adult tickets and student tickets did Marc sell?\r\n\r\nhelp please!",
+    "ans": "198; 163",
+    "mapping_equations": [
+      "null",
+      "x+y=361",
+      "1409=3*x+5*y",
+      "question"
+    ],
+    "mapping_text": [
+      "Word Problems :(?\nokay, i have a test tomorrow, and i totally blanked on how to do this!\r\n\r\nThis is the question:",
+      "Marc sold 361 tickets for the school play.",
+      "Student tickets were $3 and adult tickets swere $5.  THe money Marc raised totalled $1409.",
+      "How many adult tickets and student tickets did Marc sell?"
+    ],
+    "id": "yahoo.answers.20080312210134AA3kK72",
+    "correct": "true",
+    "text": "c sold 361 tickets for the school play.  Sudent tickets were $3 and adult tickets swere $5.  TH honey Marc raised totalled $1409.  Hw many adult tickets and student tickets did Marc sell?\r\n\r",
+    "flag": 0,
+    "equations": "unkn: x,y\r\nequ: x+y=361\r\nequ: 1409=3*x+5*y"
+  },
+  {
+    "original_text": "HELP! Math- Please Help ME!?\nResearchers marked and released 36 pike in a pond. Later they counted 20 pikes, 12 of which were marked. Estimate the pike population. \r\n\r\n\r\n--\r\n\r\nHow many two-letter permutations can be made from the letters L , M , N, O , and P?\r\n\r\n--\r\n\r\nHow many three letter combinations can be made from the letters in the word BLACK?",
+    "ans": "60; 10",
+    "mapping_equations": [
+      "null",
+      "12/20=36/x",
+      "5*4=y",
+      "5*4*3=z"
+    ],
+    "mapping_text": [
+      "HELP! Math- Please Help ME!?",
+      "Researchers marked and released 36 pike in a pond. Later they counted 20 pikes, 12 of which were marked.",
+      "How many two-letter permutations can be made from the letters L , M , N, O , and P?\r\n\r\n--\r\n\r\n,",
+      "How many three letter combinations can be made from the letters in the word BLACK?"
+    ],
+    "id": "yahoo.answers.20080528110546AArqXzu",
+    "correct": "false",
+    "text": "earchers marked and released 36 pike in a pond. Later they counted 20 pikes, 12 of which were marked. Estimate the pike population. \r\n\rHow many two-letter permutations can be made from the letters L , M , N, O , and P?\r\n\r  many three letter combinations can be made from the letters in the word BLAblack",
+    "flag": 0,
+    "equations": "unkn: x,y\r\nequ: 12/20=36/x\r\nequ: (5*4*3)/(3*2*1)=y"
+  },
+  {
+    "original_text": "I need help converting ceratin recurring decimals into fractions/?\nI know that things like 0.717171 is 71/99. but what would something like 0.471717171 be?",
+    "ans": "0.471717171717",
+    "mapping_equations": [
+      "1000*x-10*x=471.717171&&990*x=467"
+    ],
+    "mapping_text": [
+      "but what would something like 0.471717171 be?"
+    ],
+    "id": "yahoo.answers.20080622052655AAYQbAU",
+    "correct": "true",
+    "text": "I know that things like 0.717171 is 71/99. but what would something like 0.471717171 be?",
+    "flag": 0,
+    "equations": "unkn: x\r\nequ: 1000*x-10*x=471.717171\r\nequ: 990*x=467"
+  },
+  {
+    "original_text": "The first side of a triangle is 6m shorter than the second side. ?\nThe third side is 3 times as long as the first side. The perimeter of the triangle is 206m. Find the length of each side.   ",
+    "ans": "40; 46; 120",
+    "mapping_equations": [
+      "x+6=y",
+      "z=3*x",
+      "x+y+z=206",
+      "Question"
+    ],
+    "mapping_text": [
+      "The first side of a triangle is 6m shorter than the second side.",
+      "The third side is 3 times as long as the first side.",
+      "The perimeter of the triangle is 206m.",
+      "Find the length of each side."
+    ],
+    "id": "yahoo.answers.20080917154627AAj2AM2",
+    "correct": "true",
+    "text": "The first side of a triangle is 6m shorter than the second side. \n\nThe third side is 3 times as long as the first side. The perimeter of the triangle is 206m. Find the length of each side.",
+    "flag": 0,
+    "equations": "unkn: x,y,z\r\nequ: x+y+z=206\r\nequ: x+6=y\r\nequ: z=3*x"
+  },
+  {
+    "original_text": "just need help finding the help with this?\nThe gas tank in Giorgio's car holds 23 gal when full. The car gets 25 mi/gal. How far can he travel on 4 full tanks?\r\n\r\nI divide right",
+    "ans": "575; 2300",
+    "mapping_equations": [
+      "null",
+      "25*23=x",
+      "x*4=y"
+    ],
+    "mapping_text": [
+      "just need help finding the help with this?",
+      "The gas tank in Giorgio's car holds 23 gal when full. The car gets 25 mi/gal.",
+      "How far can he travel on 4 full tanks?"
+    ],
+    "id": "yahoo.answers.20080924235625AAZRPd0",
+    "correct": "true",
+    "text": " gas tank in Giorgio's car holds 23 gal when full. The car gets 25 mi/gal. How far can he travel on 4 full tanks?\r\n\r",
+    "flag": 0,
+    "equations": "unkn: x,y\r\nequ: 25*23=x\r\nequ: x*4=y"
+  },
+  {
+    "original_text": "Help with finite word problem Please?\nSoybean meal is 12% protein, cornmeal is 6% protein. How many pounds of each be mixed together in order to get 240lb mixture that is 9% protein",
+    "ans": "120; 120",
+    "mapping_equations": [
+      "x+y=240&&0.12*x+0.06*y=240*0.09"
+    ],
+    "mapping_text": [
+      "Soybean meal is 12% protein, cornmeal is 6% protein. How many pounds of each be mixed together in order to get 240lb mixture that is 9% protein"
+    ],
+    "id": "yahoo.answers.20090127071050AAt63wM",
+    "correct": "false",
+    "text": "bean meal is 12% protein, cornmeal is 6% protein. How many pounds of each be mixed together in order to get 240lb mixture that is 9% protein",
+    "flag": 0,
+    "equations": "unkn: x,y\r\nequ: 12*x+6*y=2160\r\nequ: 2*x+y=360\r\nequ: x+y=240"
+  },
+  {
+    "original_text": "Any good math people? well can you answer a supposedly 3rd grade math question?\nJay uses 12 ounces of flour for muffins and 16 ounces for cookies. then he uses one half of what is left for pancakes, leaving 12 ounces of flour. How much flour did he start with?\r\n\r\n\r\nAnd they claim this is a third grade math question. pshh",
+    "ans": "52",
+    "mapping_equations": [
+      "(x-28)/2=12",
+      "question",
+      "null"
+    ],
+    "mapping_text": [
+      "Jay uses 12 ounces of flour for muffins and 16 ounces for cookies. then he uses one half of what is left for pancakes, leaving 12 ounces of flour.",
+      "How much flour did he start with?",
+      "And they claim this is a third grade math question. pshh"
+    ],
+    "id": "yahoo.answers.20090127153106AAayTA4",
+    "correct": "true",
+    "text": " uses 12 ounces of flour for muffins and 16 ounces for cookies. theT he uses one half of what is left for pancakes, leaving 12 ounces of flour. How much flour did he start with?\r\n\r",
+    "flag": 0,
+    "equations": "unkn: x\r\nequ: (x-28)/2=12"
+  },
+  {
+    "original_text": "helpp with math questionn?\nWhich term of the arithmetic sequence 1, 5, 9, 13..........  is 173? \r\n\r\nthanks",
+    "ans": "13; 44; 172; 43",
+    "mapping_equations": [
+      "null",
+      "1+4*(x-1)=173"
+    ],
+    "mapping_text": [
+      "helpp with math questionn?",
+      "Which term of the arithmetic sequence 1, 5, 9, 13..........  is 173?"
+    ],
+    "id": "yahoo.answers.20090128104340AAIzQ56",
+    "correct": "false",
+    "text": "Which term of the arithmetic sequence 1, 5, 9, 13....  is 173?",
+    "flag": 0,
+    "equations": "unkn: y,z,m\r\nequ: 1+12=y\r\nequ: 1+4*(x-1)=173\r\nequ: 173-1=z\r\nequ: z/4=m"
+  },
+  {
+    "original_text": "I NEED ALOT OF HELP!!!?\nFind the angle of elevation of the sun from the ground to the top of a tree when a tree that is 10 yards tall casts a shadow 14 yards long. Round to the nearest degree.  \r\n A. 54  \r\nB. 36  \r\nC. 46  \r\nD. 44",
+    "ans": "0.714285714286",
+    "mapping_equations": [
+      "tan(x)=10/14"
+    ],
+    "mapping_text": [
+      "Find the angle of elevation of the sun from the ground to the top of a tree when a tree that is 10 yards tall casts a shadow 14 yards long."
+    ],
+    "id": "yahoo.answers.20090321210522AAccFP5",
+    "correct": "false",
+    "text": "d the angle of elevation of the sun from the ground to the top of a tree when a tree that is 10 yards tall casts a shadow 14 yards long. Round to the nearest degree.  \r\n A.54  \r\nB 36  \r\nC.46  \r\nD.44",
+    "flag": 0,
+    "equations": "unkn: x\r\nequ: (10/14)=x"
+  },
+  {
+    "original_text": "find the original fraction- mathematics?\nIf the numerator of a fraction is multiplied by a number 2 greater than the denominator, the product of the resulting fraction and the reciprocal of the original fractions is 3/2 the original numerator or 3/7 less than 11/7 times the original numerator. Find the original fraction.",
+    "ans": "6; 7",
+    "mapping_equations": [
+      "null",
+      "x*(y+2)/y*y/x=3*x/2&&(y+2)=3*x/2",
+      "Question"
+    ],
+    "mapping_text": [
+      "\nIf the numerator of a fraction is multiplied by a number 2 greater than the denominator, the product of the resulting fraction and the reciprocal of the original fractions is 3/2 the original numerator or 3/7 less than 11/7 times the original numerator.",
+      " Find the original fraction."
+    ],
+    "id": "yahoo.answers.20091103073722AAP63Cr",
+    "correct": "true",
+    "text": "If the numerator of a fraction is multiplied by a number 2 greater than the denominator, the product of the resulting fraction and the reciprocal of the original fractions is 3/2 the original numerator or 3/7 less than 11/7 times the original numerator. Find the original fraction.",
+    "flag": 0,
+    "equations": "unkn: x,y\r\nequ: x*(y+2)/y*y/x=3*x/2\r\nequ: (y+2)=3*x/2"
+  },
+  {
+    "original_text": "Hockey and Pucks? What hockey and pucks?\n5 pucks and 3 hockey sticks cost $23.\r\n5 pucks and 1 hockey stick cost $20.\r\nHow much does 1 puck cost?",
+    "ans": "3.7; 1.5",
+    "mapping_equations": [
+      "null",
+      " 5*x+3*y=23",
+      "5*x+y=20",
+      "question"
+    ],
+    "mapping_text": [
+      "Hockey and Pucks? What hockey and pucks?",
+      "\n5 pucks and 3 hockey sticks cost $23.\r\n",
+      "5 pucks and 1 hockey stick cost $20.",
+      "\r\nHow much does 1 puck cost?"
+    ],
+    "id": "yahoo.answers.20091230183627AAsE8u5",
+    "correct": "false",
+    "text": "5 pucks and 3 hockey sticks cost $23. \n5 pucks and 1 hockey stick cost $20. How much does 1 puck cost?",
+    "flag": 0,
+    "equations": "unkn: x,y\r\nequ: 5*x+3*y=23\r\nequ: 5*x+y=20\r\nequ: 2*y=3"
+  },
+  {
+    "original_text": "Problem Solving? 7th Grade?\nTom wants to sell his weight bench for a 15% profit over his cost. He paid $232 for it. If he gets his asking price, how much money will he make in profit?\r\n\r\nPossible Answers\r\n\r\n        $266.80\r\n \t$34.80\r\n \t$37.12\r\n \t$269.12",
+    "ans": "0.15; 34.8",
+    "mapping_equations": [
+      "null",
+      "0.15*232=y",
+      "question",
+      "null"
+    ],
+    "mapping_text": [
+      "Problem Solving? 7th Grade?",
+      "\nTom wants to sell his weight bench for a 15% profit over his cost. He paid $232 for it. If he gets his asking price, ",
+      "how much money will he make in profit?\r\n\r\n",
+      "Possible Answers\r\n\r\n        $266.80\r\n \t$34.80\r\n \t$37.12\r\n \t$269.12"
+    ],
+    "id": "yahoo.answers.20100218135027AAB2H96",
+    "correct": "true",
+    "text": "om wants to sell his weight bench for a 15% profit over his cost. He paid $232 for it. If he gets his asking price, how much money will he make in profit?\r ( )   $266\t8(B)\n \t$34\t8(C)\n \t$37\t1(D)\n \t$269",
+    "flag": 0,
+    "equations": "unkn: y\r\nequ: 0.15*232=y"
+  },
+  {
+    "original_text": "An insanely hard math question please help!?\nHow do you set up and solve this problem?  I'm so confused..\r\n\r\nA radiator contains 10 qaurts of fluid, 30% of which is antifreeze.  How much fluid should be drained and replaced with prue antifreeze so that the new mixture is 40% antifreeze?",
+    "ans": "1.42857142857; 0.9999800004",
+    "mapping_equations": [
+      "null",
+      "x+0.3*(10-x)=4&&1/0.7=1.4286*y"
+    ],
+    "mapping_text": [
+      "An insanely hard math question please help!?\nHow do you set up and solve this problem?  I'm so confused..",
+      "\r\n\r\nA radiator contains 10 qaurts of fluid, 30% of which is antifreeze.  How much fluid should be drained and replaced with prue antifreeze so that the new mixture is 40% antifreeze?"
+    ],
+    "id": "yahoo.answers.20100920214231AAglSfe",
+    "correct": "true",
+    "text": "adiator contains 10 qaurut of fluid, 30% of which is antifreeze.  Hw much fluid should be drained and replaced with prueu ntifreeze so that the new mixture is 40% antifreeze?",
+    "flag": 0,
+    "equations": "unkn: x,y\r\nequ: x+0.3*(10-x)=4\r\nequ: 1/0.7=1.4286*y"
+  },
+  {
+    "original_text": "Can you help me with this math promblem that i didnt understand?\nCan you help me with this math promblem that i didnt understand?\r\nThere is a sale tax of $8on an item that cost $82before tax.A second item costs $123 before tax.what is the second item?",
+    "ans": "135",
+    "mapping_equations": [
+      "null",
+      "123+8/82*123=x",
+      "Question"
+    ],
+    "mapping_text": [
+      "Can you help me with this math promblem that i didnt understand?\nCan you help me with this math promblem that i didnt understand?",
+      "\r\nThere is a sale tax of $8on an item that cost $82before tax.A second item costs $123 before tax.",
+      "what is the second item?"
+    ],
+    "id": "yahoo.answers.20101113090615AAmWoER",
+    "correct": "true",
+    "text": "There is a sale tax of $8on an item that cost $82 before tax. A second item costs $123 before tax. What is the second item?",
+    "flag": 0,
+    "equations": "unkn: x\r\nequ: 123+8/82*123=x"
+  },
+  {
+    "original_text": "Here's a riddle!...10 points 4 the first right answer!?\nokay here it is. a ribbon is 56 cms long. It was cut into 2 pieces. one piece was 3 times longer than the other piece. How long was the shorter and longer piece? First person with right answer gets...u guessed it 10 points!",
+    "ans": "42; 14",
+    "mapping_equations": [
+      "null",
+      "x+y=56&&x=3*y",
+      "question",
+      "null"
+    ],
+    "mapping_text": [
+      "Here's a riddle!...10 points 4 the first right answer!?\n",
+      "okay here it is. a ribbon is 56 cms long. It was cut into 2 pieces. one piece was 3 times longer than the other piece. ",
+      "How long was the shorter and longer piece?",
+      " First person with right answer gets...u guessed it 10 points!"
+    ],
+    "id": "yahoo.answers.1006050425920",
+    "correct": "true",
+    "text": "ibbon is 56 cms long. It was cut into 2 pieces. one piece was 3 times longer than the other piece. How long was the shorter and longer piece? Fi",
+    "flag": 0,
+    "equations": "unkn: x,y\r\nequ: x=3*y\r\nequ: x+y=56"
+  }
+]

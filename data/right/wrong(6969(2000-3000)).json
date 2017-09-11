@@ -1,0 +1,476 @@
+[
+  {
+    "text": "offee maker is on sale for $30.60. \r\n\r the price of the coffee maker is marked down 15%, what was the ORIGINAL price?",
+    "mapping_text": [
+      "A coffee maker is on sale for $30.60.If the price of the coffee maker is marked down 15%",
+      "what was the ORIGINAL price?"
+    ],
+    "mapping_equations": [
+      "x=30.60/(1-0.15)",
+      "Question"
+    ],
+    "id": "yahoo.answers.20080821173625AA02w8m",
+    "equations": "unkn: x\r\nequ: x=30.60/(1-0.15)",
+    "ans": "36",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "If a coffee maker is on sale for $30.60. Application Problem.?\nA coffee maker is on sale for $30.60. \r\n\r\nIf the price of the coffee maker is marked down 15%, what was the ORIGINAL price?"
+  },
+  {
+    "text": " furniture store refinishes chairs. Employees use one of two methods to refinish each chair. Method I takes 1.5 hours and the material costs $9. Method II takes 2 hours and the material costs $7. Next week, they plan to spend 234 hours in labor and $1014 in material for finishing chairs. How many chairs should they plan to refinish with each method?",
+    "mapping_text": [
+      "Tricky Algebra Question?\nA furniture store refinishes chairs. Employees use one of two methods to refinish each chair.",
+      "Method I takes 1.5 hours and the material costs $9.Method II takes 2 hours and the material costs $7.Next week, they plan to spend 234 hours in labor and $1014 in material for finishing chairs.",
+      "How many chairs should they plan to refinish with each method?"
+    ],
+    "mapping_equations": [
+      "null",
+      "1.5*x+2*y=234&&9*x+7*y=1014",
+      "Question"
+    ],
+    "id": "yahoo.answers.20090201193904AAdtpYv",
+    "equations": "unkn: x,y\r\nequ: 1.5*x+2*y=234\r\nequ: 9*x+7*y=1014",
+    "ans": "52; 78",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "Tricky Algebra Question?\nA furniture store refinishes chairs. Employees use one of two methods to refinish each chair. Method I takes 1.5 hours and the material costs $9. Method II takes 2 hours and the material costs $7. Next week, they plan to spend 234 hours in labor and $1014 in material for finishing chairs. How many chairs should they plan to refinish with each method?"
+  },
+  {
+    "text": "A bag of 30 tulip bulbs purchased from a nursery contains 12 red tulip bulbs, 10 yellow tulip bulbs and 8 purple tulip bulbs. what is the probability that one bulb is red and the other yellow?",
+    "mapping_text": [
+      "probability question?",
+      "A bag of 30 tulip bulbs purchased from a nursery contains 12 red tulip bulbs, 10 yellow tulip bulbs and 8 purple tulip bulbs.",
+      "what is the probability that one bulb is red and the other yellow?"
+    ],
+    "mapping_equations": [
+      "null",
+      "x=(30*29)/(2*1)&&y=12*10",
+      "Question"
+    ],
+    "id": "yahoo.answers.20090309124042AAKqUvN",
+    "equations": "unkn: x,y,z\r\nequ: x=(30*29)/(2*1)\r\nequ: y=12*10\r\nequ: z=y/x",
+    "ans": "435; 120; 0.275862069",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "probability question?\nA bag of 30 tulip bulbs purchased from a nursery contains 12 red tulip bulbs, 10 yellow tulip bulbs and 8 purple tulip bulbs.\r\nwhat is the probability that one bulb is red and the other yellow?....the answer from back of the book is 0.276..can u explain the math behind the answer?\r\nThanks"
+  },
+  {
+    "text": "a circle has a radius of 12 feet, what's it's circumference most nearly?\r\n\r",
+    "mapping_text": [
+      "If a circle has a radius of 12 feet,",
+      "what's it's circumference most nearly?",
+      "\r\n\r\nA 24 feet\r\nB 72 feet\r\nC 75 feet\r\nD 36 feet\r\n\r\nPlease show the steps, gee thanks"
+    ],
+    "mapping_equations": [
+      "2*3.14*12=x",
+      "Question",
+      "null"
+    ],
+    "id": "yahoo.answers.20090331203501AAJGHtb",
+    "equations": "unkn: x\r\nequ: 2*3.14*12=x",
+    "ans": "75.36",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "If a circle has a radius of 12 feet?\nIf a circle has a radius of 12 feet, what's it's circumference most nearly?\r\n\r\nA 24 feet\r\nB 72 feet\r\nC 75 feet\r\nD 36 feet\r\n\r\nPlease show the steps, gee thanks"
+  },
+  {
+    "text": "n a triangle ABC angle B is 5 times angle A and Angle C is 15 degrees less than 4 times Angle A. Find the size of the angles.",
+    "mapping_text": [
+      "Can anyone help me with this math problem?",
+      "In a triangle ABC angle B is 5 times angle A ",
+      "Angle C is 15 degrees less than 4 times Angle A.",
+      "Find the size of the angles."
+    ],
+    "mapping_equations": [
+      "null",
+      "y=5*x",
+      "z=4*x-15",
+      "Question"
+    ],
+    "id": "yahoo.answers.20091222225816AAdb7kN",
+    "equations": "unkn: x,y,z\r\nequ: x+y+z=180\r\nequ: y=5*x\r\nequ: z=4*x-15",
+    "ans": "19.5; 97.5; 63",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "Can anyone help me with this math problem?\nIn a triangle ABC angle B is 5 times angle A and Angle C is 15 degrees less than 4 times Angle A. Find the size of the angles."
+  },
+  {
+    "text": " have two summer jobs. in the first job, you work 28 hours per week and earn  $7.25 per hour. in the second job, you earn $6.50 per hour and can work as many hours as you want. if you want to earn $255 per week, how many hours must you work at your second job? pl",
+    "mapping_text": [
+      "algebra 2 problem help?\nyou have two summer jobs.",
+      "in the first job, you work 28 hours per week and earn  $7.25 per hour.",
+      "in the second job, you earn $6.50 per hour and can work as many hours as you want.",
+      "if you want to earn $255 per week, ",
+      "how many hours must you work at your second job?"
+    ],
+    "mapping_equations": [
+      "null",
+      "28*7.25=x",
+      "y/6.50=z",
+      "x+y=255",
+      "Question"
+    ],
+    "id": "yahoo.answers.20090212002355AARvo0g",
+    "equations": "unkn: x,y,z\r\nequ: 28*7.25=x\r\nequ: x+y=255\r\nequ: y/6.50=z",
+    "ans": "203; 52; 8",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "algebra 2 problem help?\nyou have two summer jobs. in the first job, you work 28 hours per week and earn  $7.25 per hour. in the second job, you earn $6.50 per hour and can work as many hours as you want. if you want to earn $255 per week, how many hours must you work at your second job? please show work, i am a slow learner. thanks!!"
+  },
+  {
+    "text": "Write an equation and a solution for the problem. A health food store sells oatmeal for $3.60 per pound and bran flakes for $4.80 per pound. How many pounds of each should be used to get a mixture of 30 pounds that sells for $4.00 a pound?",
+    "mapping_text": [
+      "Word Problem in Math... 10 pts.?\nWrite an equation and a solution for the problem.",
+      " A health food store sells oatmeal for $3.60 per pound and bran flakes for $4.80 per pound. How many pounds of each should be used to get a mixture of 30 pounds that sells for $4.00 a pound?get a mixture of 30 pounds",
+      "\r\n\r\nThanx! I WILL award points!"
+    ],
+    "mapping_equations": [
+      "null",
+      "x+y=30&&(3.6*x+4.8*y)=4*30",
+      "null"
+    ],
+    "id": "yahoo.answers.20100427080343AA9gzfT",
+    "equations": "unkn: x,y\r\nequ: x+y=30\r\nequ: (3.6*x+4.8*y)=4*30",
+    "ans": "20; 10",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "Word Problem in Math... 10 pts.?\nWrite an equation and a solution for the problem. A health food store sells oatmeal for $3.60 per pound and bran flakes for $4.80 per pound. How many pounds of each should be used to get a mixture of 30 pounds that sells for $4.00 a pound?\r\n\r\nThanx! I WILL award points!"
+  },
+  {
+    "text": " gasoline gauge on a van initially read 1/8 full. When 13 gallons were added to the tank the gauge it read 2/3 full. How many more gallons are needed to fill the tank?\r\n\r",
+    "mapping_text": [
+      "Are you good at word problems?",
+      "\nThe gasoline gauge on a van initially read 1/8 full. When 13 gallons were added to the tank the gauge it read 2/3 full.",
+      " How many more gallons are needed to fill the tank?"
+    ],
+    "mapping_equations": [
+      "null",
+      "1/8*x+13=2/3*x",
+      "Question"
+    ],
+    "id": "yahoo.answers.20130611181436AAuGwEP",
+    "equations": "unkn: x,y\r\nequ: 1/8*x+13=2/3*x\r\nequ: 1/3*x=y",
+    "ans": "24; 8",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "Are you good at word problems?\nThe gasoline gauge on a van initially read 1/8 full. When 13 gallons were added to the tank the gauge it read 2/3 full. How many more gallons are needed to fill the tank?\r\n\r\nPlease show work."
+  },
+  {
+    "text": "ume that the student attends math class with probability 0.6, skips accounting class with probability 0.35, and attends both with probability 0.35.\r\n\r t is the probability that the student attends at least one class on Monday?",
+    "mapping_text": [
+      "I cant figure this out, can someone help me?",
+      "\nAssume that the student attends math class with probability 0.6, skips accounting class with probability 0.35, and attends both with probability 0.35.",
+      "\r\n\r\nWhat is the probability that the student attends at least one class on Monday?"
+    ],
+    "mapping_equations": [
+      "null",
+      "1-0.35=x&&0.6+x-0.35=y",
+      "Question"
+    ],
+    "id": "yahoo.answers.20060927192131AAbxjhj",
+    "equations": "unkn: x,y\r\nequ: 1-0.35=x\r\nequ: 0.6+x-0.35=y",
+    "ans": "0.65; 0.9",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "I cant figure this out, can someone help me?\nAssume that the student attends math class with probability 0.6, skips accounting class with probability 0.35, and attends both with probability 0.35.\r\n\r\nWhat is the probability that the student attends at least one class on Monday?"
+  },
+  {
+    "text": "Erin's age is Three times Warren's. In 4 years she will be twice as old as he will be. How old is each now?",
+    "mapping_text": [
+      "Erin's age is Three times Warren's.",
+      " In 4 years she will be twice as old as he will be.",
+      " How old is each now?",
+      "\nI think the answer is 2 and 8 but I have no clue how to write in question form.  I got 2 and 8 because in four years they would be 6 and 12 can someone tell me how to write out the equation??"
+    ],
+    "mapping_equations": [
+      "x=3*y",
+      "x+4=2*(y+4)",
+      "Question",
+      "null"
+    ],
+    "id": "yahoo.answers.20061229092156AAMwouv",
+    "equations": "unkn: x,y\r\nequ: x=3*y\r\nequ: x+4=2*(y+4)",
+    "ans": "12; 4",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "Erin's age is Three times Warren's. In 4 years she will be twice as old as he will be. How old is each now?\nI think the answer is 2 and 8 but I have no clue how to write in question form.  I got 2 and 8 because in four years they would be 6 and 12 can someone tell me how to write out the equation??"
+  },
+  {
+    "text": "the sum of two numbers is 11. their difference is 5. find the numbers?",
+    "mapping_text": [
+      "the sum of two numbers is 11.",
+      "their difference is 5.",
+      " find the numbers.?\n",
+      "Algebra 2"
+    ],
+    "mapping_equations": [
+      "x+y=11",
+      "x-y=5",
+      "Question",
+      "null"
+    ],
+    "id": "yahoo.answers.20070108190354AAuLYG9",
+    "equations": "unkn: x,y\r\nequ: x+y=11\r\nequ: x-y=5",
+    "ans": "8; 3",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "the sum of two numbers is 11.their difference is 5. find the numbers.?\nAlgebra 2"
+  },
+  {
+    "text": "A teacher has 60 plastic pentagons and octogons.Their sides together equal 354. How many of each shape is there?",
+    "mapping_text": [
+      "A teacher has 60plastic pentagons and octogons.",
+      "Their sides together equal 354.",
+      "How many of each shape is there?",
+      "\nIcant seem 2 figure is out your help is appreciated"
+    ],
+    "mapping_equations": [
+      "x+y=60",
+      "5*x+8*y=354",
+      "Question",
+      "null"
+    ],
+    "id": "yahoo.answers.20070220133243AAK6Xjc",
+    "equations": "unkn: x,y\r\nequ: x+y=60\r\nequ: 5*x+8*y=354",
+    "ans": "42; 18",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "A teacher has 60plastic pentagons and octogons.Their sides together equal 354.How many of each shape is there?\nIcant seem 2 figure is out your help is appreciated"
+  },
+  {
+    "text": "otal amount of 3500 was invested some at 7% per annum and the rest at 10% per annum. In one year the total interest earned was 305$. How much was invested in each rate?) C",
+    "mapping_text": [
+      "Math question Need Help Thank You?\ni have a question about linear systems its a word problem its asking ",
+      "(a total amount of 3500 was invested ",
+      "some at 7% per annum and the rest at 10% per annum. In one year the total interest earned was 305$.",
+      " How much was invested in each rate?) ",
+      "Can someone show me how to do this help would be appreciated THANK YOU!!"
+    ],
+    "mapping_equations": [
+      "null",
+      "3500-x=y",
+      "0.07*x+0.10*y=305",
+      "Question",
+      "null"
+    ],
+    "id": "yahoo.answers.20070613221938AASrFFJ",
+    "equations": "unkn: x,y\r\nequ: 3500-x=y\r\nequ: 0.07*x+0.10*y=305",
+    "ans": "1500; 2000",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "Math question Need Help Thank You?\ni have a question about linear systems its a word problem its asking (a total amount of 3500 was invested some at 7% per annum and the rest at 10% per annum. In one year the total interest earned was 305$. How much was invested in each rate?) Can someone show me how to do this help would be appreciated THANK YOU!!"
+  },
+  {
+    "text": "determine the range. 21, 10, 12, 7, 8?",
+    "mapping_text": [
+      "determine the range. 21,10,12,7,8?",
+      "\nthis is math problem"
+    ],
+    "mapping_equations": [
+      "21-7=x",
+      "null"
+    ],
+    "id": "yahoo.answers.20071014194033AAVsKaW",
+    "equations": "unkn: x\r\nequ: 21-7=x",
+    "ans": "14",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "determine the range. 21,10,12,7,8?\nthis is math problem"
+  },
+  {
+    "text": " sum of 3 numbers is 6.  The 3rd number is the sum of the first and the second numbe.  the first number is one more than the third number.  Find the 3 numbers .",
+    "mapping_text": [
+      "Solve this word problems?",
+      "\nthe sum of 3 numbers is 6. ",
+      " The 3rd number is the sum of the first and the second numbe. ",
+      " the first number is one more than the third number. ",
+      " Find the 3 numbers"
+    ],
+    "mapping_equations": [
+      "null",
+      "x+y+z=6",
+      "z=x+y",
+      "x=z+1",
+      "Question"
+    ],
+    "id": "yahoo.answers.20071213192834AAD81Z3",
+    "equations": "unkn: x,y,z\r\nequ: x+y+z=6\r\nequ: z=x+y\r\nequ: x=z+1",
+    "ans": "4; -1; 3",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "Solve this word problems?\nthe sum of 3 numbers is 6.  The 3rd number is the sum of the first and the second numbe.  the first number is one more than the third number.  Find the 3 numbers"
+  },
+  {
+    "text": "In-ground pool is being built. 11 ft by 22 ft wide. 5' 6'' deep. The sides and bottom are made from poured concrete 4'' wide. Determine the number of cubic yards of concrete used.",
+    "mapping_text": [
+      "\r\n\r\n\r\nIn-ground pool is being built. 11ft by 22ft wide. 5'6'' deep. The sides and bottom are made from poured concrete 4'' wide. ",
+      "Determine the number of cubic yards of concrete used.",
+      "\r\n\r\nI know it will be easy once I see how it's done. If somebody can give calculations for one wall and explain how it is done that would be great."
+    ],
+    "mapping_equations": [
+      "x=11*22*(5+6/12)&&y=4/12",
+      "Question",
+      "null"
+    ],
+    "id": "yahoo.answers.20080128133501AAKz54T",
+    "equations": "unkn: x,y,z,m\r\nequ: x=11*22*(5+6/12)\r\nequ: y=4/12\r\nequ: z=(11+2*y)*(22+2*y)*(5+6/12+2*y)\r\nequ: m=z-x",
+    "ans": "1331; 0.3333333; 1542.38; 211.38",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "Determing the number of cubic yards needed?\nSo I need to be pointed in the right direction here. Its been a long time since i have done this kinda math and my self study book is not great for telling you how to do questions.\r\n\r\n\r\nIn-ground pool is being built. 11ft by 22ft wide. 5'6'' deep. The sides and bottom are made from poured concrete 4'' wide. Determine the number of cubic yards of concrete used.\r\n\r\nI know it will be easy once I see how it's done. If somebody can give calculations for one wall and explain how it is done that would be great."
+  },
+  {
+    "text": "Linda has some pencils to give to 4 classmates. If she gives 7 pencils to each one he will have remainder of 4 pencils. If she gives 5 pencils to each one, she will have remainder of 1. how many pencils does she have?",
+    "mapping_text": [
+      "\r\nLinda has some pencils to give to 4 classmates. If she gives  7 pencils to each one ,she will have remainder of 4 pencils.",
+      " If she gives 5 pencils to each one, she will have remainder of 1.",
+      " how many pencils does she have?"
+    ],
+    "mapping_equations": [
+      "4*7+4=x",
+      "4*5+1=y",
+      "Question"
+    ],
+    "id": "yahoo.answers.20080220070347AA9qebX",
+    "equations": "unkn: x,y\r\nequ: 28+4=x\r\nequ: 20+1=y",
+    "ans": "32; 21",
+    "correct": "False",
+    "flag": 0,
+    "original_text": "how to do maths remainder problem?\nWhat is a number, when divided by 7 gives remainder 2, when divided by 8 gives remainder 7?\r\nLinda has some pencils to give to 4 classmates. If she gives  7 pencils to each one ,she will have remainder of 4 pencils. If she gives 5 pencils to each one, she will have remainder of 1. how many pencils does she have?"
+  },
+  {
+    "text": "t will it cost to carpet a room with indoor/outdoor carpet if the room is 10 feet wide and 12 feet long? The carpet costs 12.51 per square yard.",
+    "mapping_text": [
+      "Math Question?",
+      "\nwhat will it cost",
+      " to carpet a room with indoor/outdoor carpet if the room is 10 feet wide and 12 feet long? The carpet costs 12.51 per square yard."
+    ],
+    "mapping_equations": [
+      "null",
+      "Question",
+      "10*12/9=x&&x*12.51=y"
+    ],
+    "id": "yahoo.answers.20080603185300AA9jZp8",
+    "equations": "unkn: x,y\r\nequ: 10*12/9=x\r\nequ: x*12.51=y",
+    "ans": "13.333; 166.8",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "Math Question?\nwhat will it cost to carpet a room with indoor/outdoor carpet if the room is 10 feet wide and 12 feet long? The carpet costs 12.51 per square yard."
+  },
+  {
+    "text": "if a movie starts at 11:30  and it last 2 1/4 hours, what time will it be over?",
+    "mapping_text": [
+      "if a movie starts at 11:30  and it last 2 1/4 hours ",
+      "what time will it be over?\n"
+    ],
+    "mapping_equations": [
+      "1/4*60=x&&30+x=y",
+      "Question"
+    ],
+    "id": "yahoo.answers.20091119185440AAjzg8H",
+    "equations": "unkn: x,y\r\nequ: 1/4*60=x\r\nequ: 30+x=y",
+    "ans": "15; 45",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "if a movie starts at 11:30  and it last 2 1/4 hours what time will it be over?\n"
+  },
+  {
+    "text": "his year's total sales for All-Star Producers are $649,608. During this same time frame, computer equipment sales accounted for $335,508 of the firm's total sales revenue. \n\r\nWhat is the percentage of sales for computer equipment compared to total sal es? If necessary, round your answer to the nearest tenth of a percen",
+    "mapping_text": [
+      "This year's total sales for All-Star Producers are $649,608. During this same time frame, computer equipment sales accounted for $335,508 of the firm's total sales revenue.",
+      "\r\n\r\nWhat is the percentage of sales for computer equipment compared to total sales? If necessary, round your answer to the nearest tenth of a percent."
+    ],
+    "mapping_equations": [
+      "y=335508/649608",
+      "Question"
+    ],
+    "id": "yahoo.answers.20091226034003AAM81TE",
+    "equations": "unkn: y\r\nequ: y=335508/649608",
+    "ans": "0.516477629586",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "Math question problem, best answer 10 points !!!?\nThis year's total sales for All-Star Producers are $649,608. During this same time frame, computer equipment sales accounted for $335,508 of the firm's total sales revenue.\r\n\r\nWhat is the percentage of sales for computer equipment compared to total sales? If necessary, round your answer to the nearest tenth of a percent."
+  },
+  {
+    "text": "A square with a side of 10 is increased to a side of 12. By how much is the diagonal increased?",
+    "mapping_text": [
+      "\nA square with a side of 10 is increased to a side of 12.",
+      " By how much is the diagonal increased?"
+    ],
+    "mapping_equations": [
+      "10^2+10^2=x^2&&12^2+12^2=z^2",
+      "Question"
+    ],
+    "id": "yahoo.answers.20100624154857AAdGYyF",
+    "equations": "unkn: z,x,n\r\nequ: 10^2+10^2=x^2\r\nequ: 12^2+12^2=z^2\r\nequ: z-x=n",
+    "ans": "14.142; 16.971; 2.829",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "A square with a side of 10 is increased to a side of 12. By how much is the diagonal increased?\nA square with a side of 10 is increased to a side of 12. By how much is the diagonal increased?"
+  },
+  {
+    "text": "er dividing 34 80, by a number, Jose got a quotient of 263 with a remainder of 88. What number did he use as a divisor?Ple",
+    "mapping_text": [
+      "How can we solve for a missing divisor?",
+      "\nThis is the question:After dividing 34 804 by a number, Jose got a quotient of 263 with a remainder of 88.",
+      " What number did he use as a divisor?",
+      "Please show your solutions."
+    ],
+    "mapping_equations": [
+      "null",
+      "34804/x=263+(88/x)",
+      "Question",
+      "null"
+    ],
+    "id": "yahoo.answers.20100725003156AAkbfuu",
+    "equations": "unkn: x\r\nequ: 34804/x=263+(88/x)",
+    "ans": "132",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "How can we solve for a missing divisor?\nThis is the question:After dividing 34 804 by a number, Jose got a quotient of 263 with a remainder of 88. What number did he use as a divisor?Please show your solutions."
+  },
+  {
+    "text": " are riding in a taxicab. At 1.5 miles, the fare meter in $4.55. At 3.2 miles, the fare is $7.78. How far can you travel if you have $35.00? Round your answer to the nearest tenth of a mile.",
+    "mapping_text": [
+      "MATH HELP!!!!! PLEASE!!!?",
+      "\nYou are riding in a taxicab. At 1.5 miles, the fare meter in $4.55.",
+      "At 3.2 miles, the fare is $7.78. ",
+      "How far can you travel if you have $35.00?",
+      " Round your answer to the nearest tenth of a mile."
+    ],
+    "mapping_equations": [
+      "null",
+      "4.55=1.5*x+y",
+      "7.78=3.2*x+y",
+      "35=z*y+y",
+      "null"
+    ],
+    "id": "yahoo.answers.20120621091028AAVnIaX",
+    "equations": "unkn: x,y,z\r\nequ: 4.55=1.5*x+y\r\nequ: 7.78=3.2*x+y\r\nequ: 35=z*y+y",
+    "ans": "1.9; 1.7; 17.5",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "MATH HELP!!!!! PLEASE!!!?\nYou are riding in a taxicab. At 1.5 miles, the fare meter in $4.55. At 3.2 miles, the fare is $7.78. How far can you travel if you have $35.00? Round your answer to the nearest tenth of a mile."
+  },
+  {
+    "text": "lo bought a desktop computer and a laptop computer. Before finance charges, the laptop cost $200  less than the desktop. He paid for the computers using two different financing plans. For the desktop the interest rate was 9% per year, and for the laptop it was 7% per year. The total finance charges for one year were $306 . How much did each computer cost before finance charges?",
+    "mapping_text": [
+      "Help with an Algebra word problem involving interest rates.?\nPablo bought a desktop computer and a laptop computer.",
+      " Before finance charges, the laptop cost $200  less than the desktop.",
+      " He paid for the computers using two different financing plans. For the desktop the interest rate was 9% per year, and for the laptop it was 7% per year. The total finance charges for one year were $306 . ",
+      "How much did each computer cost before finance charges?"
+    ],
+    "mapping_equations": [
+      "null",
+      "x=y-200",
+      "z=9*y/100&&(16*y-1400)/100=306",
+      "Question"
+    ],
+    "id": "yahoo.answers.20120905233129AAHgrYY",
+    "equations": "unkn: x,y,z\r\nequ: x=y-200\r\nequ: z=9*y/100\r\nequ: (16*y-1400)/100=306",
+    "ans": "1800; 2000; 180",
+    "correct": "True",
+    "flag": 0,
+    "original_text": "Help with an Algebra word problem involving interest rates.?\nPablo bought a desktop computer and a laptop computer. Before finance charges, the laptop cost $200  less than the desktop. He paid for the computers using two different financing plans. For the desktop the interest rate was 9% per year, and for the laptop it was 7% per year. The total finance charges for one year were $306 . How much did each computer cost before finance charges?"
+  }
+]

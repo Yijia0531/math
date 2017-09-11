@@ -1,0 +1,840 @@
+[
+  {
+    "flag": 0,
+    "correct": "False",
+    "id": "yahoo.answers.20100905115653AAzcYhQ",
+    "equations": "unkn: x,z\r\nequ: 24*(1+0.08)=x\r\nequ: 24*0.08=z",
+    "text": "ia Fay bought 4 Dunlop tires at a local Goodyear store. The salesperson told her that her mileage would increase by 8%. Before this purchase, Maria was getting 24 mpg. What should her mileage be with the new tires to the nearest hundredth? \r\n",
+    "mapping_equations": [
+      "null",
+      "24*(1+0.08)=x",
+      "Question",
+      "null"
+    ],
+    "mapping_text": [
+      "Can you please help me with percentage word problem?\nMaria Fay bought 4 Dunlop tires at a local Goodyear store.",
+      "The salesperson told her that her mileage would increase by 8%. Before this purchase, Maria was getting 24 mpg.",
+      "What should her mileage be with the new tires to the nearest hundredth? \r\n",
+      "Mileage  mpg   \r\n\r\nThank you sooo much for explaining it to were I can understand it and future ones!! Thank you sooo much again you math smart people!!!"
+    ],
+    "ans": "25.92; 1.92",
+    "original_text": "Can you please help me with percentage word problem?\nMaria Fay bought 4 Dunlop tires at a local Goodyear store. The salesperson told her that her mileage would increase by 8%. Before this purchase, Maria was getting 24 mpg. What should her mileage be with the new tires to the nearest hundredth? \r\n    Mileage  mpg   \r\n\r\nThank you sooo much for explaining it to were I can understand it and future ones!! Thank you sooo much again you math smart people!!!"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20110311022306AAelMKd",
+    "equations": "unkn: x,y,m,z,n,o\r\nequ: x-y=10.5\r\nequ: y+(z-1)*m-y=10.5\r\nequ: (z-1)*m=10.5\r\nequ: z/2*(2*y+(z-1)*m)=54\r\nequ: z/2*(2*y+10.5)=54\r\nequ: z/4*(2*y+(z-2)*m)=24\r\nequ: z/4*(2*y+n)=30\r\nequ: 9*m=2*y+10.5\r\nequ: z/2*(9*m)=54\r\nequ: o=m+10.5\r\nequ: m=12-10.5",
+    "text": "The number of terms in an A.P is even. The sum of odd numbered terms is 24 and even numbered terms is 30. If the last term exceeds the first term by 10.5. Find the number of terms. Also find the common difference.",
+    "mapping_equations": [
+      "null",
+      "x-y=10.5 && y+(z-1)*m-y=10.5 && (z-1)*m=10.5 && z/2*(2*y+(z-1)*m)=54 && z/2*(2*y+10.5)=54 && z/4*(2*y+(z-2)*m)=24 && z/4*(2*y+n)=30 && 9*m=2*y+10.5 && z/2*(9*m)=54 && o=m+10.5 && m=12-10.5",
+      "Question",
+      "null"
+    ],
+    "mapping_text": [
+      "Arithmetic Progression Question!!! PLZZ HELP!!?\n",
+      "The number of terms in an A.P is even. The sum of odd numbered terms is 24 and even numbered terms is 30. If the last term exceeds the first term by 10.5.",
+      "Find the number of terms. Also find the common difference.",
+      "Please help me out with this question."
+    ],
+    "ans": "12; 1.5; 8; 1.5; 12; 12",
+    "original_text": "Arithmetic Progression Question!!! PLZZ HELP!!?\nThe number of terms in an A.P is even. The sum of odd numbered terms is 24 and even numbered terms is 30. If the last term exceeds the first term by 10.5. Find the number of terms. Also find the common difference.   Please help me out with this question."
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20110326123909AAgxg74",
+    "equations": "unkn: x\r\nequ: (3500*90)/3000=x",
+    "text": "ommunity college has 3,000 students and 90 instructors. The college plans that enrollment will be 3,500 next year. How many new instructors should be hired if the college wants to keep the same student to instructor ratio?",
+    "mapping_equations": [
+      "null",
+      "(3500*90)/3000=x",
+      "Question"
+    ],
+    "mapping_text": [
+      "Math Help Please ASAP?\n",
+      "A community college has 3,000 students and 90 instructors. The college plans that enrollment will be 3,500 next year.",
+      "How many new instructors should be hired if the college wants to keep the same student to instructor ratio?"
+    ],
+    "ans": "105",
+    "original_text": "Math Help Please ASAP?\nA community college has 3,000 students and 90 instructors. The college plans that enrollment will be 3,500 next year. How many new instructors should be hired if the college wants to keep the same student to instructor ratio?"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20110610123846AA6BKi8",
+    "equations": "unkn: y\r\nequ: y=100*y+100*y\r\nequ: 200*y=396",
+    "text": " trains leave stations 396 miles apart at the same time and travel toward each other. One train travels at 100 miles per hour while the other travels at 100 miles per hour. How long will it take for the two trains to meet?\r\n\r",
+    "mapping_equations": [
+      "null",
+      "200*y=396",
+      "y=100*y+100*y",
+      "Question",
+      "null"
+    ],
+    "mapping_text": [
+      "solving a rate problem with linear equations.?\n",
+      "Two trains leave stations 396 miles apart at the same time and travel toward each other.",
+      "One train travels at 100 miles per hour while the other travels at 100 miles per hour.",
+      "How long will it take for the two trains to meet?",
+      "\r\n\r\nDo not do any rounding.\r\n\r\nExplain how to do it please."
+    ],
+    "ans": "1.98",
+    "original_text": "solving a rate problem with linear equations.?\nTwo trains leave stations 396 miles apart at the same time and travel toward each other. One train travels at 100 miles per hour while the other travels at 100 miles per hour. How long will it take for the two trains to meet?\r\n\r\nDo not do any rounding.\r\n\r\nExplain how to do it please."
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20130501140034AAgfUxL",
+    "equations": "unkn: m\r\nequ: z.017=m/205\r\nequ: 205*z.017=m\r\nequ: 205*(0.488)=m",
+    "text": "From a boat on the lake, the angle of elevation to the top of a cliff is 26 If the base of the cliff is 205 feet from the boat, how high is the cliff (to the nearest foot)?",
+    "mapping_equations": [
+      "z.017=m/205 && 205*z.017=m && 205*(0.488)=m",
+      "Question"
+    ],
+    "mapping_text": [
+      "From a boat on the lake, the angle of elevation to the top of a cliff is 26°1'.",
+      "If the base of the cliff is 205 feet from the boat, how high is the cliff (to the nearest foot)?"
+    ],
+    "ans": "100.04",
+    "original_text": "From a boat on the lake, the angle of elevation to the top of a cliff is 26°1'...?\nFrom a boat on the lake, the angle of elevation to the top of a cliff is 26°1'. If the base of the cliff is 205 feet from the boat, how high is the cliff (to the nearest foot)?"
+  },
+  {
+    "flag": 0,
+    "correct": "False",
+    "id": "yahoo.answers.1006041509435",
+    "equations": "unkn: x,y\r\nequ: 3*x+y=9\r\nequ: 12*x+8*y=48\r\nequ: 4*y=12",
+    "text": "resa sells two sizes of outdoor doghouses:large and small.  The large size requires 12 board-feet of lumber and takes 3 hours to build.  The small size requires 8 board-feet of lumber and takes 1 hour to build.  Theresa can use 48 board-feet of lumber each day and plans to spend at most 9 hours pr day building dog houses.  Theresa sells her large dog house for $70 each and her small one for $30 each.  What numbers of each kind should she make per day in order to maximize her income from sales?",
+    "mapping_equations": [
+      "null",
+      "3*x+y=9 && 12*x+8*y=48 && z=70*x+30*y",
+      "Question"
+    ],
+    "mapping_text": [
+      "Does anyone know Algebra?\nTheresa sells two sizes of outdoor doghouses:large and small.",
+      "The large size requires 12 board-feet of lumber and takes 3 hours to build.  The small size requires 8 board-feet of lumber and takes 1 hour to build.  Theresa can use 48 board-feet of lumber each day and plans to spend at most 9 hours pr day building dog houses. Theresa sells her large dog house for $70 each and her small one for $30 each.",
+      "What numbers of each kind should she make per day in order to maximize her income from sales?"
+    ],
+    "ans": "2; 3",
+    "original_text": "Does anyone know Algebra?\nTheresa sells two sizes of outdoor doghouses:large and small.  The large size requires 12 board-feet of lumber and takes 3 hours to build.  The small size requires 8 board-feet of lumber and takes 1 hour to build.  Theresa can use 48 board-feet of lumber each day and plans to spend at most 9 hours pr day building dog houses.  Theresa sells her large dog house for $70 each and her small one for $30 each.  What numbers of each kind should she make per day in order to maximize her income from sales?"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20060713185632AAGZmF1",
+    "equations": "unkn: x,y,z\r\nequ: 3*x=y\r\nequ: 5*x=z\r\nequ: y+z=128",
+    "text": "A homeowner needs 128oz of a solution made up of 3 parts of insecticide A and 5 parts of insecticide B.  The solution is then mixed with water. How many ounces of each insecticide should be used?",
+    "mapping_equations": [
+      "null",
+      "3*x=y && 5*x=z && y+z=128",
+      "null",
+      "Question",
+      "null"
+    ],
+    "mapping_text": [
+      "*Business Algebra*?\nThis is the other homework problem I am stuck on:",
+      "A homeowner needs 128oz of a solution made up of 3 parts of insecticide A and 5 parts of insecticide B.",
+      "The solution is then mixed with water.",
+      "How many ounces of each insecticide should be used?",
+      "Answer:48 of A,80 of B.Which formula do I follow to get this answer?Thanks!"
+    ],
+    "ans": "16; 48; 80",
+    "original_text": "*Business Algebra*?\nThis is the other homework problem I am stuck on: A homeowner needs 128oz of a solution made up of 3 parts of insecticide A and 5 parts of insecticide B.  The solution is then mixed with water.How many ounces of each insecticide should be used?Answer:48 of A,80 of B.Which formula do I follow to get this answer?Thanks!"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20060927135616AAAbX9F",
+    "equations": "unkn: y,m\r\nequ: 2*10=y\r\nequ: y+18=m",
+    "text": "which means the same as 2 tens and 18 ones?28, 38, 318,2018?",
+    "mapping_equations": [
+      "2*10=y && y+18=m",
+      "null"
+    ],
+    "mapping_text": [
+      "which means the same as 2 tens and 18 ones?",
+      "28,38, 318,2018?\n"
+    ],
+    "ans": "20; 38",
+    "original_text": "which means the same as 2 tens and 18 ones?28,38, 318,2018?\n"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20061207153625AALgM9u",
+    "equations": "unkn: x,y,o\r\nequ: 200*(1+0.03)=x\r\nequ: x*(1+0.03)=y\r\nequ: 212.18-2.75=o",
+    "text": "Martha places $200 in a checking account that will earn 3% interest compounded annually. If she closes the account after two years and incurs a closing charge of $2.75, how much money will she have?",
+    "mapping_equations": [
+      "null",
+      "200*(1+0.03)=x && x*(1+0.03)=y && 212.18-2.75=o",
+      "Question"
+    ],
+    "mapping_text": [
+      "PLEASE HELP...i am stupid when it come's to math.?\n",
+      "Martha places $200 in a checking account that will earn 3% interest compounded annually. If she closes the account after two years and incurs a closing charge of $2.75,",
+      "how much money will she have?"
+    ],
+    "ans": "206; 212.18; 209.43",
+    "original_text": "PLEASE HELP...i am stupid when it come's to math.?\nMartha places $200 in a checking account that will earn 3% interest compounded annually. If she closes the account after two years and incurs a closing charge of $2.75, how much money will she have?"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20070128103454AASrmL2",
+    "equations": "unkn: x,y,z\r\nequ: 3*25=x\r\nequ: x-8=y\r\nequ: y-5=z",
+    "text": "shall saw an average of 25 daily for the 3 day period.He saw 8 elephants on the first day and 5 on the secondy day.How Hany elephants did he see on the third day?",
+    "mapping_equations": [
+      "null",
+      "3*25=x",
+      "x-8=y && y-5=z",
+      "Question"
+    ],
+    "mapping_text": [
+      "Math homework help!?\n",
+      "Marshall saw an average of 25 daily for the 3 day period.",
+      "He saw 8 elephants on the first day and 5 on the secondy day.",
+      "How many elephants did he see on the third day?"
+    ],
+    "ans": "75; 67; 62",
+    "original_text": "Math homework help!?\nMarshall saw an average of 25 daily for the 3 day period.He saw 8 elephants on the first day and 5 on the secondy day.How many elephants did he see on the third day?"
+  },
+  {
+    "flag": 0,
+    "correct": "False",
+    "id": "yahoo.answers.20070201171329AAClNH0",
+    "equations": "unkn: x,y\r\nequ: 476-(-753)=x\r\nequ: 753-6=y",
+    "text": "If the city of Rome was founded in 753 BC and it was finally sacked in 476 AD, how long did it last?",
+    "mapping_equations": [
+      "null",
+      "476-(-753)=x",
+      "Question",
+      "-753*7=y"
+    ],
+    "mapping_text": [
+      "Basic CHRONOLOGY..please HELP...?\n",
+      "If the city of Rome was founded in 753 BC and it was finally sacked in 476 AD,",
+      "how long did it last?",
+      "If 1 AUC (Ab Urbe Condita) is equal to 753 BC, what year would 7AUC be in our calendar?"
+    ],
+    "ans": "1229; 747",
+    "original_text": "Basic CHRONOLOGY..please HELP...?\nIf the city of Rome was founded in 753 BC and it was finally sacked in 476 AD, how long did it last?\r\n\r\nIf 1 AUC (Ab Urbe Condita) is equal to 753 BC, what year would 7AUC be in our calendar?\r\n\r\nTHANKS A LOT! ^_^"
+  },
+  {
+    "flag": 0,
+    "correct": "False",
+    "id": "yahoo.answers.20070220074805AAzN4WC",
+    "equations": "unkn: x\r\nequ: 2300/20=x",
+    "text": "im driving 2300 miles,ocar gets 20 miles per gallon highway \r\nr, ghly 300 per tank\r\nc,  someone help me out on the cost\r\ni",
+    "mapping_equations": [
+      "2300/300=x",
+      "Question",
+      "null"
+    ],
+    "mapping_text": [
+      "sorry my car gets 20 mpg, 300 miles per tank of gas, im driving 2300 miles?",
+      "can someone help me out on the cost",
+      "\r\ni need to know if its easier to fly or drive\r\nthanks"
+    ],
+    "ans": "115",
+    "original_text": "sorry my car gets 20 mpg, 300 miles per tank of gas, im driving 2300 miles?\nsorry about that im so stupid\r\nim driving 2300 miles\r\nmy car gets 20 miles per gallon highway \r\nroughly 300 per tank\r\ncan someone help me out on the cost\r\ni need to know if its easier to fly or drive\r\nthanks"
+  },
+  {
+    "flag": 0,
+    "correct": "False",
+    "id": "yahoo.answers.20070514130149AAXs19z",
+    "equations": "unkn: x,y\r\nequ: 50/1=48/x*y\r\nequ: 50*x=48",
+    "text": "Oil and Gas. An outboard motor calls for a fuel mixture that has a gasoline-to-oil ratio of 50 to 1 How many pints of oil should be added to 6 gallons of gasoline?",
+    "mapping_equations": [
+      "null",
+      "50/1=48/x",
+      "Question"
+    ],
+    "mapping_text": [
+      "Help with a algebra word problem. Please just give me the formula.?\nOil and Gas.",
+      "An outboard motor calls for a fuel mixture that has a gasoline-to-oil ratio of 50 to 1",
+      "How many pints of oil should be added to 6 gallons of gasoline?"
+    ],
+    "ans": "0.96; 1",
+    "original_text": "Help with a algebra word problem. Please just give me the formula.?\nOil and Gas. An outboard motor calls for a fuel mixture that has a gasoline-to-oil ratio of 50 to 1 How many pints of oil should be added to 6 gallons of gasoline?"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20070603085338AAMIpZZ",
+    "equations": "unkn: x,y\r\nequ: (90-x)/(90-y)=3/4\r\nequ: (180-x)/(180-y)=9/10",
+    "text": " ratio of the complements of two angles is 3:4,   and the ratio of their supplements is 9:10 .   Find the two original angles",
+    "mapping_equations": [
+      "null",
+      "(90-x)/(90-y)=3/4",
+      "(180-x)/(180-y)=9/10",
+      "Question"
+    ],
+    "mapping_text": [
+      "Math question!!!!?\nstudying for exams and i completely blanked out on how to do this problem, can someone please just set it up for me.\r\n\r\n",
+      "The ratio of the complements of two angles is 3:4,",
+      "and the ratio of their supplements is 9:10.",
+      "Find the two original angles"
+    ],
+    "ans": "45; 30",
+    "original_text": "Math question!!!!?\nstudying for exams and i completely blanked out on how to do this problem, can someone please just set it up for me.\r\n\r\nThe ratio of the complements of two angles is 3:4, and the ratio of their supplements is 9:10.  Find the two original angles"
+  },
+  {
+    "flag": 0,
+    "correct": "False",
+    "id": "yahoo.answers.20070703053945AAlAgfR",
+    "equations": "unkn: x,y\r\nequ: (3^-3)=x\r\nequ: 3^-9=y",
+    "text": "o the negative 6th power times 3 to the negative 3rd power.  H",
+    "mapping_equations": [
+      "null",
+      "(3^-6)*(3^-3)=x",
+      "null"
+    ],
+    "mapping_text": [
+      "math Question?\n",
+      "3 to the negative 6th power times 3 to the negative 3rd power.",
+      "How do I come about in  getting my answer step by step?"
+    ],
+    "ans": "0.037037037037; 5.08052634253e-05",
+    "original_text": "math Question?\n3 to the negative 6th power times 3 to the negative 3rd power.  How do I come about in  getting my answer step by step?"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20070808164203AA7VoqP",
+    "equations": "unkn: x,y,m,n\r\nequ: x=2*y-3\r\nequ: m=8*x\r\nequ: n=8*y\r\nequ: m+n=450",
+    "text": "Two cars leave Nicville travelling in opposite directions.  The speed of the faster car is 3 km/h less than.ce that of the slower car.  After 8 hours the cars are 540 KM apart.  How fast is each car traveling.",
+    "mapping_equations": [
+      "null",
+      "x=2*y-3",
+      "m=8*x && n=8*y && m+n=450",
+      "Question"
+    ],
+    "mapping_text": [
+      "Two cars leave Nicville travelling in opposite directions.",
+      "The speed of the faster car is 3 km/h less than...\ntwice that of the slower car.",
+      "After 8 hours the cars are 540 KM apart.",
+      "How fast is each car traveling."
+    ],
+    "ans": "44; 23.5; 352; 188",
+    "original_text": "Two cars leave Nicville travelling in opposite directions.  The speed of the faster car is 3 km/h less than...\ntwice that of the slower car.  After 8 hours the cars are 540 KM apart.  How fast is each car traveling."
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20070930100450AAqIJpv",
+    "equations": "unkn: y,m\r\nequ: 0.9=y\r\nequ: 0.05=m",
+    "text": "What's 90% as a fraction? And whats 5% as a fraction.",
+    "mapping_equations": [
+      "null",
+      "0.9=y",
+      "0.05=m",
+      "null"
+    ],
+    "mapping_text": [
+      "Math Problem (Easy)?\n",
+      "What's 90% as a fraction?",
+      "And whats 5% as a fraction.",
+      "BUT tell me how you got this. lol 10 points for winner"
+    ],
+    "ans": "0.9; 0.05",
+    "original_text": "Math Problem (Easy)?\nWhat's 90% as a fraction? And whats 5% as a fraction. BUT tell me how you got this. lol 10 points for winner"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20071126122150AA6Egog",
+    "equations": "unkn: x,y,z\r\nequ: x=6+y\r\nequ: 1/2*z=y\r\nequ: 0.25*x+0.05*y+0.1*z=3.00",
+    "text": "Suppose you have six more quarters than nickels and half as many nickels as dimes, all totaling $3.00. How many of each coin do you have?",
+    "mapping_equations": [
+      "null",
+      "x=6+y && 1/2*z=y && 0.25*x+0.05*y+0.1*z=3.00",
+      "Question"
+    ],
+    "mapping_text": [
+      "veryyyyyyyy hard?\n",
+      "Suppose you have six more quarters than nickels and half as many nickels as dimes, all totaling $3.00.",
+      "How many of each coin do you have?       \r\n\r\na       11 quarters, 9 dimes, and 5 nickels\r\n\r\n b      10 quarters, 8 dimes, and 4 nickels\r\n\r\n c      9 quarters, 6 dimes, and 3 nickels\r\n\r\n d      8 quarters, 4 dimes, and 2 nickels"
+    ],
+    "ans": "3; 6; 9",
+    "original_text": "veryyyyyyyy hard?\nSuppose you have six more quarters than nickels and half as many nickels as dimes, all totaling $3.00. How many of each coin do you have?       \r\n\r\na       11 quarters, 9 dimes, and 5 nickels\r\n\r\n b      10 quarters, 8 dimes, and 4 nickels\r\n\r\n c      9 quarters, 6 dimes, and 3 nickels\r\n\r\n d      8 quarters, 4 dimes, and 2 nickels"
+  },
+  {
+    "flag": 0,
+    "correct": "False",
+    "id": "yahoo.answers.20080130144113AATo5Wj",
+    "equations": "unkn: x\r\nequ: 1000*00.2=1000*x",
+    "text": "t is 20% out of 1000?\r\nC",
+    "mapping_equations": [
+      "1000*0.2=x",
+      "null"
+    ],
+    "mapping_text": [
+      "what is 20% out of 1000?",
+      "Could you tell me how you got it please and thank you!"
+    ],
+    "ans": "0.2",
+    "original_text": "what is 20% out of 1000?\nWhat is 20% out of 1000?\r\nCould you tell me how you got it please and thank you!"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20080417232454AA14kNb",
+    "equations": "unkn: x,y\r\nequ: 5*x+15*x+5=65\r\nequ: y=3/3",
+    "text": "ee people picked 65 apples altogether. At the first tree they each picked the same number of apples. At the second tree they each picked 3 times as many as they picked at tthe first tree. When they finished at the third tree, the group had 5 times as many apples as they had when they started at that tree. At the fourth tree the group picked just 5 apples.\r\n\r w many apples did each person pick at the first tree?",
+    "mapping_equations": [
+      "null",
+      "5*x+15*x+5=65 && y=3/3",
+      "Question"
+    ],
+    "mapping_text": [
+      "Interesting, hard question.?\n",
+      "Three people picked 65 apples altogether. At the first tree they each picked the same number of apples. At the second tree they each picked 3 times as many as they picked at tthe first tree. When they finished at the third tree, the group had 5 times as many apples as they had when they started at that tree. At the fourth tree the group picked just 5 apples.\r\n\r\n",
+      "many apples did each person pick at the first tree?"
+    ],
+    "ans": "3; 1",
+    "original_text": "Interesting, hard question.?\nThree people picked 65 apples altogether. At the first tree they each picked the same number of apples. At the second tree they each picked 3 times as many as they picked at tthe first tree. When they finished at the third tree, the group had 5 times as many apples as they had when they started at that tree. At the fourth tree the group picked just 5 apples.\r\n\r\nHow many apples did each person pick at the first tree?"
+  },
+  {
+    "flag": 0,
+    "correct": "False",
+    "id": "yahoo.answers.20080509182956AATslcE",
+    "equations": "unkn: x,y\r\nequ: 8/20=x\r\nequ: 12/20=y",
+    "text": "re are 20 diamonds in a box. Out of them 8 are fake and 12 are real. One person takes out 5 diamonds. What is the probability the second person gets a real diamond on the first pick?",
+    "mapping_equations": [
+      "null",
+      "(12/20)*(20-5)/(20-55)=x",
+      "Question"
+    ],
+    "mapping_text": [
+      "probability?\n",
+      "There are 20 diamonds in a box. Out of them 8 are fake and 12 are real. One person takes out 5 diamonds.",
+      "What is the probability the second person gets a real diamond on the first pick?"
+    ],
+    "ans": "0.4; 0.6",
+    "original_text": "probability?\nThere are 20 diamonds in a box. Out of them 8 are fake and 12 are real. One person takes out 5 diamonds. What is the probability the second person gets a real diamond on the first pick?"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20080514160600AAuziZt",
+    "equations": "unkn: x,y\r\nequ: 4*x+5*y=483\r\nequ: x+y=103",
+    "text": "Brad has two summer jobs. He earns $4 per hour baby-sitting and $5 per hour doing yard work. In July he worked 103 hours and earned $483. How many hours of baby-sitting did Brad do? And how many hours of Yeard work did brad do?",
+    "mapping_equations": [
+      "null",
+      "4*x+5*y=483 && x+y=103",
+      "Question"
+    ],
+    "mapping_text": [
+      "Algebra Word Problem convert to equation?\nI don't need the answer I just need it converted into an equation.\r\n\r\nBrad has two summer jobs.",
+      "He earns $4 per hour baby-sitting and $5 per hour doing yard work. In July he worked 103 hours and earned $483.",
+      "How many hours of baby-sitting did Brad do? And how many hours of Yeard work did brad do?"
+    ],
+    "ans": "32; 71",
+    "original_text": "Algebra Word Problem convert to equation?\nI don't need the answer I just need it converted into an equation.\r\n\r\nBrad has two summer jobs. He earns $4 per hour baby-sitting and $5 per hour doing yard work. In July he worked 103 hours and earned $483. How many hours of baby-sitting did Brad do? And how many hours of Yeard work did brad do?"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20080519181639AArVdfE",
+    "equations": "unkn: x,y,z,m,n\r\nequ: x*(60)/40=x*(y)/15\r\nequ: x*(y)=15*x*(60)/40\r\nequ: 15*x*(60)/40=3*(3)/16\r\nequ: y=z*(3*(3)/16)\r\nequ: 180-19=m\r\nequ: 161+60=n",
+    "text": "re is a triangle with one angle 60deg rees and theside opp that angle is 40 centimeters..another side is 15 centimeters. how many different triangles can be made?\r\n\r",
+    "mapping_equations": [
+      "null",
+      "x*(60)/40=x*(y)/15 && x*(y)=15*x*(60)/40 && 15*x*(60)/40=3*(3)/16 && y=z*(3*(3)/16) && 180-19=m && 161+60=n",
+      "Question",
+      "null"
+    ],
+    "mapping_text": [
+      "question on ambiguous case triangle...please explain?\n",
+      "there is a triangle with one angle 60degrees and theside opp that angle is 40 centimeters..another side is 15 centimeters.",
+      "how many different triangles can be made?",
+      "\r\n\r\ni dont getthis at all.."
+    ],
+    "ans": "0.025; 22.5; 40; 161; 221",
+    "original_text": "question on ambiguous case triangle...please explain?\nthere is a triangle with one angle 60degrees and theside opp that angle is 40 centimeters..another side is 15 centimeters. how many different triangles can be made?\r\n\r\ni dont getthis at all.."
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20080623085300AAZBhT4",
+    "equations": "unkn: y,x\r\nequ: 100=y*(90)^2\r\nequ: x=y*(10)^2",
+    "text": "The kinetic energy of a moving object varies directly with the square of its velocity. If a car moves at 90 mph has kinetic energy 100 units, how many units of kinetic energy does the same car have at 10 mph?",
+    "mapping_equations": [
+      "null",
+      "100=y*(90)^2 && x=y*(10)^2"
+    ],
+    "mapping_text": [
+      "What is the answer to this question?\nThe kinetic energy of a moving object varies directly with the square of its velocity.",
+      "If a car moves at 90 mph has kinetic energy 100 units, how many units of kinetic energy does the same car have at 10 mph?"
+    ],
+    "ans": "1.234567901; 0.0123456790123",
+    "original_text": "What is the answer to this question?\nThe kinetic energy of a moving object varies directly with the square of its velocity. If a car moves at 90 mph has kinetic energy 100 units, how many units of kinetic energy does the same car have at 10 mph?"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20080623155049AAKkn98",
+    "equations": "unkn: x,y,z,m,n\r\nequ: 72*0.3=x\r\nequ: 70*0.35=y\r\nequ: 62*0.2=z\r\nequ: 75*0.15=m\r\nequ: x+y+z+m=n",
+    "text": "rsework is weighted at 30% and my grade was 72\r\nIno-French exam is weighted at 35% and my grade was 70\r\nO, l is weighted at 20% and my grade was 62\r\nIno-English exam is weighted at 15% and my grade was 75\r\n\r, ase could someone tell me what my overall grade is then?? I",
+    "mapping_equations": [
+      "null",
+      "72*0.3=x",
+      "70*0.35=y",
+      "62*0.2=z",
+      "75*0.15=m",
+      "x+y+z+m=n",
+      "null"
+    ],
+    "mapping_text": [
+      "Maths boffins i need your help!! trying to work out my overall uni grade!!?\nHi guys, i want to check something with all those who are good at maths. I need to work out the average of the whole module, but i don't know how to do it as each element is weighted differently.\r\n\r\n",
+      "Coursework is weighted at 30% and my grade was 72\r\n",
+      "Into-French exam is weighted at 35% and my grade was 70\r\n",
+      "Oral is weighted at 20% and my grade was 62\r\n",
+      "Into-English exam is weighted at 15% and my grade was 75\r\n\r\n",
+      "Please could someone tell me what my overall grade is then??",
+      "I would really appreciate it!!! thanks in advance xx"
+    ],
+    "ans": "21.6; 24.5; 12.4; 11.25; 69.75",
+    "original_text": "Maths boffins i need your help!! trying to work out my overall uni grade!!?\nHi guys, i want to check something with all those who are good at maths. I need to work out the average of the whole module, but i don't know how to do it as each element is weighted differently.\r\n\r\nCoursework is weighted at 30% and my grade was 72\r\nInto-French exam is weighted at 35% and my grade was 70\r\nOral is weighted at 20% and my grade was 62\r\nInto-English exam is weighted at 15% and my grade was 75\r\n\r\nPlease could someone tell me what my overall grade is then?? I would really appreciate it!!! thanks in advance xx"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20081013070505AALqCsq",
+    "equations": "unkn: x\r\nequ: 0.15*(20)+0.10*(x)=00.12*(20+x)",
+    "text": "An alloy of tin is 15% tin and weighs 20 pounds. A second alloy is 10% tin. How much (to the nearest tenth lb.) of the second alloy must be added to the first alloy to get a 12% mixture.",
+    "mapping_equations": [
+      "null",
+      "0.15*(20)+0.10*(x)=0.12*(20+x)"
+    ],
+    "mapping_text": [
+      "Can someone help explain the steps to this problem?\n",
+      "An alloy of tin is 15% tin and weighs 20 pounds. A second alloy is 10% tin. How much (to the nearest tenth lb.) of the second alloy must be added to the first alloy to get a 12% mixture.\r\n\r\n? pounds"
+    ],
+    "ans": "30",
+    "original_text": "Can someone help explain the steps to this problem?\nAn alloy of tin is 15% tin and weighs 20 pounds. A second alloy is 10% tin. How much (to the nearest tenth lb.) of the second alloy must be added to the first alloy to get a 12% mixture.\r\n\r\n? pounds"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20081028001531AAo3y9Y",
+    "equations": "unkn: x,y,z\r\nequ: 2.5*7.33333333333=x\r\nequ: 55/3=y\r\nequ: 18.3333333333-7.33333333333=z",
+    "text": "Devin throws a football 7 1/3 yards. Carl throws it 2 1/2 times farther. How much farther did Carl's throw travel than Devin's? A. 2 1/2 yards\nB. 3 1/3 yards\nC. 11 yards\nD. 18 1/3 yards",
+    "mapping_equations": [
+      "null",
+      "2.5*7.33333333333=x",
+      "18.3333333333-7.33333333333=z"
+    ],
+    "mapping_text": [
+      "Math question..... HELP just one question for you math wizzes?\nsomeone chime in and answer this and please dont guess  i need the answer for school tommarrow morning\r\n\r\n",
+      "Devin throws a football 7 1/3 yards. Carl throws it 2 1/2 times farther.",
+      "How much farther did Carl's throw travel than Devin's?\r\n\r\nA. 2 1/2 yards\r\nB. 3 1/3 yards\r\nC. 11 yards\r\nD. 18 1/3 yards"
+    ],
+    "ans": "18.333333; 18.3333333333; 11",
+    "original_text": "Math question..... HELP just one question for you math wizzes?\nsomeone chime in and answer this and please dont guess  i need the answer for school tommarrow morning\r\n\r\nDevin throws a football 7 1/3 yards. Carl throws it 2 1/2 times farther. How much farther did Carl's throw travel than Devin's?\r\n\r\nA. 2 1/2 yards\r\nB. 3 1/3 yards\r\nC. 11 yards\r\nD. 18 1/3 yards"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20081203160303AAita5h",
+    "equations": "unkn: x,y\r\nequ: 2*x+3=y\r\nequ: 2*(2*x+3)+x=79",
+    "text": "In a certain isosceles triangle, to find the length og one of the equal sides you must double the base and add 3. if the perimeter is 79, whats the dimensions\n let x represent!",
+    "mapping_equations": [
+      "null",
+      "2*x+3=y && 2*(2*x+3)+x=79",
+      "Question",
+      "null"
+    ],
+    "mapping_text": [
+      "math help!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!?\n",
+      "In a certain isosceles triangle, to find the length og one of the equal sides you must double the base and add 3.if the perimeter is 79,",
+      "whats the dimensions\r\n let x represent!\r\n\r\n\r\n",
+      "please solve it with explainations...and tell me how u got it...\r\nif u do that u will sure to get 10 points\r\n"
+    ],
+    "ans": "14.6; 32.2",
+    "original_text": "math help!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!?\nIn a certain isosceles triangle, to find the length og one of the equal sides you must double the base and add 3. if the perimeter is 79,whats the dimensions\r\n let x represent!\r\n\r\n\r\nplease solve it with explainations...and tell me how u got it...\r\nif u do that u will sure to get 10 points\r\n"
+  },
+  {
+    "flag": 0,
+    "correct": "False",
+    "id": "yahoo.answers.20090207235601AACra1O",
+    "equations": "unkn: x,y,z\r\nequ: 14000-x=y\r\nequ: (14000-x)=840\r\nequ: 14000-4666.67=z",
+    "text": "A mom put 14000 towards her kids college education. Part of the money went into a CD account with 4% interest and the rest of the money in a savings bond account with 7% interest. After 1 year she has 840 in interest. How much money went into each account?",
+    "mapping_equations": [
+      "null",
+      "14000-x=y",
+      "0.04*x+0.07*y=840",
+      "Question"
+    ],
+    "mapping_text": [
+      "help with this percentage math  problem?\n",
+      "A mom put 14000 towards her kids college education.",
+      "Part of the money went into a CD account with 4% interest and the rest of the money in a savings bond account with 7% interest. After 1 year she has 840 in interest.",
+      "How much money went into each account?"
+    ],
+    "ans": "13160; 840; 9333.33",
+    "original_text": "help with this percentage math  problem?\nA mom put 14000 towards her kids college education. Part of the money went into a CD account with 4% interest and the rest of the money in a savings bond account with 7% interest. After 1 year she has 840 in interest. How much money went into each account?"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20090217151137AAW0wL3",
+    "equations": "unkn: x,y,z\r\nequ: (1/3)*6=x\r\nequ: 2/6=y\r\nequ: (1/3)*(1/3)=z",
+    "text": "On a cube, two sides have an 8, one third of the sides have a 5, one sixth have a 3, and one sixth have a 4? What is the probability of tossing a 5?",
+    "mapping_equations": [
+      "(1/3)*6=x && 2/6=y && (1/3)*(1/3)=z",
+      "Question",
+      "null"
+    ],
+    "mapping_text": [
+      "On a cube, two sides have an 8, one third of the sides have a 5, one sixth have a 3, and one sixth have a 4.?\n",
+      "What is the probability of tossing a 5?",
+      "\r\n\r\nExplain..."
+    ],
+    "ans": "2; 0.333333333333; 0.111111111111",
+    "original_text": "On a cube, two sides have an 8, one third of the sides have a 5, one sixth have a 3, and one sixth have a 4.?\nWhat is the probability of tossing a 5?\r\n\r\nExplain..."
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20090224020911AAEqM1i",
+    "equations": "unkn: x,y\r\nequ: 1.13*59=x\r\nequ: 60*1.1=y",
+    "text": "113% of 59 is how much?",
+    "mapping_equations": [
+      "1.13*59=x",
+      "null",
+      " 60*1.1=y"
+    ],
+    "mapping_text": [
+      "113% of 59 is how much? ",
+      "What about estimated?\nhow to estimate.",
+      " how come when i estimate 133% to 100% (which is one) and times by 60 it is 60..?not right"
+    ],
+    "ans": "66.67; 66",
+    "original_text": "113% of 59 is how much? What about estimated?\nhow to estimate. how come when i estimate 133% to 100% (which is one) and times by 60 it is 60..? not right"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20090324132445AAHVBqJ",
+    "equations": "unkn: x,y,z\r\nequ: 10*x+8*y+7*z=3272\r\nequ: x+y+z=400\r\nequ: z=2*y",
+    "text": " his team popcorn fundraiser sale, Maike sold caramel corn for $10, buttered microwave popcorn for $8, and lightly buttered microwave popcorn for $7.  By the end of the fundraiser, he had sold 400 items and made $3,272.  If he sold twice as many lightly buttered microwave popcorn boxes as the buttered popcorn, how many of each type of popcorn did he sale?",
+    "mapping_equations": [
+      "null",
+      "10*x+8*y+7*z=3272&&x+y+z=400",
+      "z=2*y",
+      "Question"
+    ],
+    "mapping_text": [
+      "Does anyone know how to do this math word problem?\n",
+      "For his team popcorn fundraiser sale, Maike sold caramel corn for $10, buttered microwave popcorn for $8, and lightly buttered microwave popcorn for $7. By the end of the fundraiser, he had sold 400 items and made $3,272.",
+      "If he sold twice as many lightly buttered microwave popcorn boxes as the buttered popcorn,",
+      "how many of each type of popcorn did he sale?"
+    ],
+    "ans": "127; 91; 182",
+    "original_text": "Does anyone know how to do this math word problem?\nFor his team popcorn fundraiser sale, Maike sold caramel corn for $10, buttered microwave popcorn for $8, and lightly buttered microwave popcorn for $7.  By the end of the fundraiser, he had sold 400 items and made $3,272.  If he sold twice as many lightly buttered microwave popcorn boxes as the buttered popcorn, how many of each type of popcorn did he sale?"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20090425201341AAeJ5gf",
+    "equations": "unkn: x,y,z\r\nequ: -1=(-2+x)/2\r\nequ: 2=(1+y)/2\r\nequ: 4=(3+z)/2",
+    "text": "phere has cener C (-1,2,4 )  and diamter [AB] where A is (-2,1,3 ).  Find the coordinates of B and the radius of the sphere...\r",
+    "mapping_equations": [
+      "null",
+      "-1=(-2+x)/2 && 2=(1+y)/2 && 4=(3+z)/2",
+      "Question",
+      "null"
+    ],
+    "mapping_text": [
+      "I need help with geometry...?\n",
+      "A sphere has cener C (-1,2,4) and diamter [AB] where A is (-2,1,3).",
+      "Find the coordinates of B and the radius of the sphere...\r\n\r\n",
+      "I know how to find the radius using the distance formula...its the sqare root of 3...but I don't know how to find the coordinates of B...can anyone please help....\r\n\r\nThanks"
+    ],
+    "ans": "0; 3; 5",
+    "original_text": "I need help with geometry...?\nA sphere has cener C (-1,2,4) and diamter [AB] where A is (-2,1,3). Find the coordinates of B and the radius of the sphere...\r\n\r\nI know how to find the radius using the distance formula...its the sqare root of 3...but I don't know how to find the coordinates of B...can anyone please help....\r\n\r\nThanks"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20090905015515AA4701S",
+    "equations": "unkn: x,y\r\nequ: 2/6=x\r\nequ: 1/3*1/2=y",
+    "text": "Bob and Marge are about to play a game with the following rules. They take turns rolling a standard fair die, starting with Homer. The game ends when someone rolls a 5 or 6. That person wins the game. Find the probability that Bob will win the game. Suppose that the game ends in a draw if ever two 1's come up in a row. With this change to the rules, find the probability that Bob will win the game.",
+    "mapping_equations": [
+      "null",
+      "2/6=x",
+      "Question",
+      "1/3*1/2=y"
+    ],
+    "mapping_text": [
+      "Probability - Rolling a dice game?\nBob and Marge are about to play a game with the following rules. They take turns rolling a standard fair die, starting with Homer. ",
+      "The game ends when someone rolls a 5 or 6. That person wins the game.\r\n\r\n",
+      "Find the probability that Bob will win the game.\r\n\r\n",
+      "Suppose that the game ends in a draw if ever two 1's come up in a row. With this change to the rules, find the probability that Bob will win the game."
+    ],
+    "ans": "0.333333333333; 0.166666666667",
+    "original_text": "Probability - Rolling a dice game?\nBob and Marge are about to play a game with the following rules. They take turns rolling a standard fair die, starting with Homer. The game ends when someone rolls a 5 or 6. That person wins the game.\r\n\r\nFind the probability that Bob will win the game.\r\n\r\nSuppose that the game ends in a draw if ever two 1's come up in a row. With this change to the rules, find the probability that Bob will win the game."
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20091112230447AAnDzZF",
+    "equations": "unkn: x,y,z\r\nequ: x+y+z=137\r\nequ: y=2*x+4\r\nequ: z=3*x-5",
+    "text": "sum of three numbers is 137. The second number is 4 more than two times the first number. The third number is 5 less than three times the first number.\r\nFin  the three numbers\"\r\n\r",
+    "mapping_equations": [
+      "null",
+      "x+y+z=137",
+      "y=2*x+4",
+      "z=3*x-5",
+      "Question",
+      "null"
+    ],
+    "mapping_text": [
+      "can you help me with my math? (algebra)?\nThe question is:\r\n\r\n\"",
+      "The sum of three numbers is 137.",
+      "The second number is 4 more than two times the first number.",
+      "The third number is 5 less than three times the first number.\r\n",
+      "Find the three numbers",
+      "\"\r\n\r\nThanks guys."
+    ],
+    "ans": "23; 50; 64",
+    "original_text": "can you help me with my math? (algebra)?\nThe question is:\r\n\r\n\"The sum of three numbers is 137. The second number is 4 more than two times the first number. The third number is 5 less than three times the first number.\r\nFind the three numbers\"\r\n\r\nThanks guys."
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20100522131918AASE1Xy",
+    "equations": "unkn: x,y\r\nequ: 10^2=x\r\nequ: 11^2=y",
+    "text": " number 117 falls between two consecutive perfect squares. Enter the two perfect squares.",
+    "mapping_equations": [
+      "10^2=x && 11^2=y",
+      "Question"
+    ],
+    "mapping_text": [
+      "Approximate 117 to the nearest tenth. Then find the approximate negative square root of 117.?\nThe number 117 falls between two consecutive perfect squares.",
+      "Enter the two perfect squares."
+    ],
+    "ans": "100; 121",
+    "original_text": "Approximate 117 to the nearest tenth. Then find the approximate negative square root of 117.?\nThe number 117 falls between two consecutive perfect squares. Enter the two perfect squares."
+  },
+  {
+    "flag": 0,
+    "correct": "False",
+    "id": "yahoo.answers.20071106074644AAMmRdR",
+    "equations": "",
+    "text": "The manager of a large apartment complex knows from experience that 100 units will be occupied ife rent is 300 dollars per month. A market survey suggests that, on the average, one additional unit will remain vacant for each 6 dollar increase in rent. Similarly, one additional unit will be occupied for each 6 dollar decrease in rent. What rent should the manager charge to maximize revenue?",
+    "mapping_equations": [
+      "y=(300+x)*(100-x/6)",
+      "Question"
+    ],
+    "mapping_text": [
+      "The manager of a large apartment complex knows from experience that 100 units will be occupied if the rent is 300 dollars per month. A market survey suggests that, on the average, one additional unit will remain vacant for each 6 dollar increase in rent. Similarly, one additional unit will be occupied for each 6 dollar decrease in rent.",
+      "What rent should the manager charge to maximize revenue?"
+    ],
+    "ans": "450",
+    "original_text": "brief calc- The manager of a large apartment complex knows from experience that 100 units will be occupied if?\nThe manager of a large apartment complex knows from experience that 100 units will be occupied if the rent is 300 dollars per month. A market survey suggests that, on the average, one additional unit will remain vacant for each 6 dollar increase in rent. Similarly, one additional unit will be occupied for each 6 dollar decrease in rent. What rent should the manager charge to maximize revenue?"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20060809181852AARf0zO",
+    "equations": "unkn: x,z\r\nequ: x=11*10*9*8*7/1*2*3*4*5\r\nequ: 11*3*2*7=z",
+    "text": "a basketball coach has 11 . only 5 on the court at once how many teams of 5 can he make interchangeable",
+    "mapping_equations": [
+      "x=11*10*9*8*7/1*2*3*4*5 && 11*3*2*7=z",
+      "null"
+    ],
+    "mapping_text": [
+      "trig.. abasketball coach has 11 . only 5 on the court at once how many teams of 5 can he make interchangeabley\n",
+      "you have to use all 11"
+    ],
+    "ans": "6652800; 462",
+    "original_text": "trig.. abasketball coach has 11 . only 5 on the court at once how many teams of 5 can he make interchangeabley\nyou have to use all 11"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20070514074958AAjUXYt",
+    "equations": "unkn: x\r\nequ: 6/10*6/10*6/10=x",
+    "text": "If there is a 60% chance Team A beats Team B in 1/4 finals and goes to semifinal and a 60% chance it wins in semis and goes to final and a 60% chance it wins the final. what is the overall chance Team A wins a tournament at the time prior to quaterfinal? Obviously if Team A loses at any stage it leaves the tournament.",
+    "mapping_equations": [
+      "null",
+      "6/10*6/10*6/10=x",
+      "Question",
+      "null"
+    ],
+    "mapping_text": [
+      "Probability question!?\n",
+      "If there is a 60% chance Team A beats Team B in 1/4 finals and goes to semifinal and a 60% chance it wins in semis and goes to final and a 60% chance it wins the final",
+      "what is the overall chance Team A wins a tournament at the time prior to quaterfinal?",
+      "Obviously if Team A loses at any stage it leaves the tournament."
+    ],
+    "ans": "0.216",
+    "original_text": "Probability question!?\nIf there is a 60% chance Team A beats Team B in 1/4 finals and goes to semifinal and a 60% chance it wins in semis and goes to final and a 60% chance it wins the final what is the overall chance Team A wins a tournament at the time prior to quaterfinal? Obviously if Team A loses at any stage it leaves the tournament."
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20080625023429AA5PzBo",
+    "equations": "unkn: x,y,z\r\nequ: 8*x+4.5*y+6*z=2320\r\nequ: x+y+z=405\r\nequ: y=2*x",
+    "text": "A movie theater charges $8 for adults, $4.50 for children and $6 for senior citizens. One day, the theater sold 405 tickets and $2320 in receipts. There are twice as many children's tickets sold as adult tickets. How many adults, children and senior citizens went to the theater that day?",
+    "mapping_equations": [
+      "null",
+      "8*x+4.5*y+6*z=2320 && x+y+z=405",
+      "y=2*x",
+      "Question",
+      "null"
+    ],
+    "mapping_text": [
+      "Systems of linear equations in three variables?\nCan someone solve this problem please with solution?:\r\n\r\n",
+      "A movie theater charges $8 for adults, $4.50 for children and $6 for senior citizens. One day, the theater sold 405 tickets and $2320 in receipts.",
+      "There are twice as many children's tickets sold as adult tickets.",
+      "How many adults, children and senior citizens went to the theater that day?\r\n\r\n",
+      "Thanks to those who will answer! ^^"
+    ],
+    "ans": "110; 220; 75",
+    "original_text": "Systems of linear equations in three variables?\nCan someone solve this problem please with solution?:\r\n\r\nA movie theater charges $8 for adults, $4.50 for children and $6 for senior citizens. One day, the theater sold 405 tickets and $2320 in receipts. There are twice as many children's tickets sold as adult tickets. How many adults, children and senior citizens went to the theater that day?\r\n\r\nThanks to those who will answer! ^^"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20080710184932AARjSTd",
+    "equations": "unkn: x,y\r\nequ: 1/2*x*y=63\r\nequ: x=2*y-4",
+    "text": "anner is in the shape of a right triangle of area 63 in.^2 The height of the banner is 4in  less than twice the width of the banner. Find the height and width of the banner. \\\r",
+    "mapping_equations": [
+      "null",
+      "1/2*x*y=63",
+      "x=2*y-4",
+      "Question",
+      "null"
+    ],
+    "mapping_text": [
+      "math help please??\n",
+      "A banner is in the shape of a right triangle of area 63 in.^2.",
+      "The height of the banner is 4in less than twice the width of the banner.",
+      "Find the height and width of the banner. \\\r\n\r\n",
+      "Thanks for any help!"
+    ],
+    "ans": "14; 9",
+    "original_text": "math help please??\nA banner is in the shape of a right triangle of area 63 in.^2. The height of the banner is 4in less than twice the width of the banner. Find the height and width of the banner. \\\r\n\r\nThanks for any help!"
+  },
+  {
+    "flag": 0,
+    "correct": "True",
+    "id": "yahoo.answers.20080911220302AAjPcIW",
+    "equations": "",
+    "text": "Find all triple of consecutive integers such that 11 times the largest if the integers is at least 46 more.an the product of the other two.\r\n\r",
+    "mapping_equations": [
+      "x=4 && y=5 && z=6 or x=6 && y=7 && z=8",
+      "null"
+    ],
+    "mapping_text": [
+      "Find all triple of consecutive integers such that 11 times the largest if the integers is at least 46 more.?\nat least 46 more than the product of the other two.\r\n\r\n",
+      "Please help me :D"
+    ],
+    "ans": "4; 5; 6 or 6; 7; 8",
+    "original_text": "Find all triple of consecutive integers such that 11 times the largest if the integers is at least 46 more.?\nat least 46 more than the product of the other two.\r\n\r\nPlease help me :D"
+  }
+]

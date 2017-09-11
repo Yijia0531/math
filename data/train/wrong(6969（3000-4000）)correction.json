@@ -1,0 +1,521 @@
+[
+  {
+    "mapping_text": [
+      "What is 4 divided by square root of 5?\n"
+      ],
+    "ans": "1.78890876565",
+    "mapping_equations": [
+      "4/2.236=x"
+    ],
+    "equations": "unkn: x\r\nequ: 4/2.236=x",
+    "id": "yahoo.answers.20131014223959AAfQpVZ",
+    "correct": "True",
+    "original_text": "What is 4 divided by square root of 5?\nWhat is 4 divided by square root of 5?",
+    "flag": 0,
+    "text": "What is 4 divided by square root of 5?"
+  },
+  {
+    "mapping_text": [
+      "Imogenes car traveled 440 mi averaging a certain speed. If the car had gone 4 mph faster, the trip would've taken 1 hr less. Find avg speed?"
+    ],
+    "ans": "11; 40",
+    "mapping_equations": [
+      "x=440/y&&x-1=440/(y+4)"
+    ],
+    "equations": "unkn: x,y\r\nequ: x=440/y\r\nequ: x-1=440/(y+4)",
+    "id": "yahoo.answers.20140929152725AA84Q7U",
+    "correct": "True",
+    "original_text": "Imogenes car traveled 440 mi averaging a certain speed. If the car had gone 4 mph faster, the trip would've taken 1 hr less. Find avg speed?\n",
+    "flag": 0,
+    "text": "Imogenes car traveled 440 mi averaging a certain speed. If the car had gone 4 mph faster, the trip would've taken 1 hr less. Find avg speed?"
+  },
+  {
+    "mapping_text": [
+      "word math help?\n",
+      "A group of sheeps and chickens have a total of 99 feet and heads (counting together, i.e. it's *wrong* to say there are 99 feet and 99 heads, we only know the total amount of feet + heads). \n",
+      "There are two times more chickens than sheeps. \n",
+      "How many animals of each type (sheeps and chickens) are there in this group?\n\n",
+      "my solution was 33 animals total, 22 chickens and 11 sheeps but it's incorrect"
+    ],
+    "ans": "18; 9",
+    "mapping_equations": [
+      "null",
+      "3*x+5*y=99",
+      "x=2*y",
+	  "Question",
+      "null"
+    ],
+    "equations": "unkn: x,y\r\nequ: 3*x+5*y=99\r\nequ: x=2*y",
+    "id": "yahoo.answers.20141018175928AARPbs1",
+    "correct": "True",
+    "original_text": "word math help?\nA group of sheeps and chickens have a total of 99 feet and heads (counting together, i.e. it's *wrong* to say there are 99 feet and 99 heads, we only know the total amount of feet + heads). \nThere are two times more chickens than sheeps. \nHow many animals of each type (sheeps and chickens) are there in this group?\n\nmy solution was 33 animals total, 22 chickens and 11 sheeps but it's incorrect",
+    "flag": 0,
+    "text": "roup of sheeps and chickens have a total of 99 feet and heads (cThere are two times more chickens than sheeps. \nHow many animals of each type (sheeps and chickens) are there in this group?\n\nm"
+  },
+  {
+    "mapping_text": [
+      "Does anyone know what the largest number less than 200 that is divisible by 29? has to be a 3 digit number and end in 1."
+    ],
+    "ans": "174; 261",
+    "mapping_equations": [
+      "y=29*9"
+    ],
+    "equations": "unkn: x,y\r\nequ: x=29*6\r\nequ: y=29*9",
+    "id": "yahoo.answers.20080116145525AA7ij0G",
+    "correct": "True",
+    "original_text": "Does anyone know what the largest number less than 200 that is divisible by 29?\nIt has to be a 3 digit number and end in 1",
+    "flag": 0,
+    "text": "Does anyone know what the largest number less than 200 that is divisible by 29? has to be a 3 digit number and end in 1."
+  },
+  {
+    "mapping_text": [
+      "The perimeter of a church window is 80 inches. If the window is in the shape of a square, what is the length?\n",
+      "A. 40 inches  \r\nB. 60 inches\r\nC. 20 inches\r\nD. 15 inches"
+    ],
+    "ans": "20",
+    "mapping_equations": [
+      "80/4=x","null"
+    ],
+    "equations": "unkn: x\r\nequ: 80/4=x",
+    "id": "yahoo.answers.20080312075741AA3o1Z3",
+    "correct": "True",
+    "original_text": "The perimeter of a church window is 80 inches. If the window is in the shape of a square, what is the length?\nA. 40 inches  \r\nB. 60 inches\r\nC. 20 inches\r\nD. 15 inches",
+    "flag": 0,
+    "text": "The perimeter of a church window is 80 inches. If the window is in the shape of a square, what is the length? A. 40 inches  \nB. 60 inches\nC. 20 inches\nD. 15 inches"
+  },
+  {
+    "mapping_text": [
+      "Sequence question, boucing ball problem?\n",
+      "A rubber ball is dropped from a height of 1458 feet. Each time it rebounds 1/3 of the height from which it last fell. How far has the ball traveled by the time it strikes the ground for the 6th time."
+    ],
+    "ans": "2910",
+    "mapping_equations": [
+      "null",
+	  "1458+972+324+108+36+6=x"
+    ],
+    "equations": "unkn: x\r\nequ: 1458+972+324+108+36+12=x",
+    "id": "yahoo.answers.20081006192054AAUS76m",
+    "correct": "False",
+    "original_text": "Sequence question, boucing ball problem?\nA rubber ball is dropped from a height of 1458 feet. Each time it rebounds 1/3 of the height from which it last fell. How far has the ball traveled by the time it strikes the ground for the 6th time.",
+    "flag": 0,
+    "text": "ubber ball is dropped from a height of 1458 feet. Each time it rebounds 1/3 of the height from which it last fell. How far has the ball traveled by the time it strikes the ground for the 6th time.?"
+  },
+  {
+    "mapping_text": [
+      "10 Points for best answer to this math question.?\n",
+      "Social Security numbers are in the form ###-##-####, where each symbol represents a number 0 through 9. How many Social Security numbers are possible using this format?"
+    ],
+    "ans": "1000000000",
+    "mapping_equations": [
+	"null",
+    "10^9=x"
+    ],
+    "equations": "unkn: x\r\nequ: 10^9=x",
+    "id": "yahoo.answers.20090209155727AAk9AsF",
+    "correct": "True",
+    "original_text": "10 Points for best answer to this math question.?\nSocial Security numbers are in the form ###-##-####, where each symbol represents a number 0 through 9. How many Social Security numbers are possible using this format?",
+    "flag": 0,
+    "text": "ial Security numbers are in the form ###-##-####, where each symbol represents a number 0 through 9. How many Social Security numbers are possible using this format?"
+  },
+  {
+    "mapping_text": [
+      "Geometry help please?\n",
+      "Marneshia, who is 1.366 meters in height, stands at the base of the Eiffel Tower. Marneshia's shadow 2.2 meters in length. The Eiffel Tower stands approximately 276m tall. What is the length of the Eiffel Tower's shadow, rounded to the nearest meter?",
+	  "\r\n\r\ni REALLY dont get this, hep?"
+    ],
+    "ans": "444.509516837",
+    "mapping_equations": [
+	"null",
+    "1.366/2.2=276/x",
+	"null"
+    ],
+    "equations": "unkn: x\r\nequ: 1.366/2.2=276/x",
+    "id": "yahoo.answers.20100617160625AAcGdry",
+    "correct": "True",
+    "original_text": "Geometry help please?\nMarneshia, who is 1.366 meters in height, stands at the base of the Eiffel Tower. Marneshia's shadow 2.2 meters in length. The Eiffel Tower stands approximately 276m tall. What is the length of the Eiffel Tower's shadow, rounded to the nearest meter?\r\n\r\ni REALLY dont get this, hep?",
+    "flag": 0,
+    "text": "neshia, who is 1.366 meters in height, stands at the base of the Eiffel Tower. Marneshia's shadow 2.2 meters in length. The Eiffel Tower stands approximately 276m tall. What is the length of the Eiffel Tower's shadow, rounded to the nearest meter?\r\n\r"
+  },
+  {
+    "mapping_text": [
+      "Alice leaves her house, driving east at 45 miles per hour (mph). Thirty minutes later, her husband Dave notices she forgot her cell phone and sets off after her. How fast must Dave travel in order to catch up with Alice 3 hours after he leaves?",
+      "49 mph\r\nB.50.5 mph\r\nC 52.5 mph\r\nD.54 mph\r\ny"
+    ],
+    "ans": "52.5",
+    "mapping_equations": [
+      "45*3.5=x*3",
+	  "null"
+    ],
+    "equations": "unkn: x\r\nequ: 45*3.5=x*3",
+    "id": "yahoo.answers.20101121143629AAenSg3",
+    "correct": "True",
+    "original_text": "how to solve these type of questions?\nAlice leaves her house, driving east at 45 miles per hour (mph). Thirty minutes later, her husband Dave notices she forgot her cell phone and sets off after her. How fast must Dave travel in order to catch up with Alice 3 hours after he leaves?\r\nA. 49 mph\r\nB. 50.5 mph\r\nC. 52.5 mph\r\nD. 54 mph\r\nyeah need step on how to solve it. thanks.",
+    "flag": 0,
+    "text": "Alice leaves her house, driving east at 45 miles per hour (mph). Thirty minutes later, her husband Dave notices she forgot her cell phone and sets off after her. How fast must Dave travel in order to catch up with Alice 3 hours after he leaves? 49 mph\r\nB.50.5 mph\r\nC 52.5 mph\r\nD.54 mph\r\ny"
+  },
+  {
+    "mapping_text": [
+      "10 points to who gets this one question?\n",
+      "Kip has a tool shed with a rectangular floor that measures 12 feet by 11 feet. He would like to cover the floor in linoleum squares. Which is the largest square size he could use so that he does not have to trim any of the squares?",
+      "\r\n\r\n\r\n\tA.\t2 in. × 2 in.\r\n\tB.\t3 in. × 3 in.\r\n\tC.\t12 in. × 12 in.\r\n\tD.\t16 in. × 16 in."
+    ],
+    "ans": "8.25; 12; 11",
+    "mapping_equations": [
+	"null",
+    "12*11*12*12/(2*2)=x&&12*11*12*12/(3*3)=y&&12*11*12*12/(12*12)=z&&12*11*12*12/(16*16)=l",
+    "null"
+    ],
+    "equations": "unkn: x,y,z\r\nequ: 132/16=x\r\nequ: 144/12=y\r\nequ: 132/12=z",
+    "id": "yahoo.answers.20130527154431AAYxASK",
+    "correct": "False",
+    "original_text": "10 points to who gets this one question?\nKip has a tool shed with a rectangular floor that measures 12 feet by 11 feet. He would like to cover the floor in linoleum squares. Which is the largest square size he could use so that he does not have to trim any of the squares?\r\n\r\n\r\n\tA.\t2 in. × 2 in.\r\n\tB.\t3 in. × 3 in.\r\n\tC.\t12 in. × 12 in.\r\n\tD.\t16 in. × 16 in.",
+    "flag": 0,
+    "text": "Kip has a tool shed with a rectangular floor that measures 12 feet by 11 feet. He would like to cover the floor in linoleum squares. Which is the largest square size he could use so that he does not have to trim any of the squares? \tA.\t2 in. x 2 in. \tB.\t3 in. x 3 in. \tC.\t12 in. x 12 in. \tD.\t16 in. x 16 in."
+  },
+  {
+    "mapping_text": [
+      "Find the house numbers?\n",
+      "There are 3 houses on one side of the street (meaning, the house numbers differ by 2).The product of the 3 house numbers is 60 times their sum.",
+      "What are the 3 house numbers?"
+    ],
+    "ans": "11.565 or -15.565",
+    "mapping_equations": [
+      "null",
+      "x*(x+2)*(x+4)=60*(x+x+2+x+4)",
+	  "Question"
+    ],
+    "equations": "unkn: x\r\nequ: x*(x+2)*(x+4)=60*(x+x+2+x+4)",
+    "id": "yahoo.answers.20060725083820AAdrS4J",
+    "correct": "True",
+    "original_text": "Find the house numbers?\nThere are 3 houses on one side of the street (meaning, the house numbers differ by 2). The product of the 3 house numbers is 60 times their sum. What are the 3 house numbers?",
+    "flag": 0,
+    "text": "re are 3 houses on one side of the street (meaning, the house numbers differ by 2). The product of the 3 house numbers is 60 times their sum. What are the 3 house numbers?"
+  },
+  {
+    "mapping_text": [
+      "Please help with a systems of equations math problem!!?\n",
+      "You travel from Point A to Point B, a distance of 1210 km by bus and train. The train travels at 90km/h, and the bus travels at 80km/h. If the total trip takes 14 hours, how far did you travel by both means of transportation?",
+      "Please try and show as much of the work as possible!! Thanks"
+    ],
+    "ans": "5; 9",
+    "mapping_equations": [
+      "null",
+      "x+y=14&&x*80+y*90=1210",
+      "null"
+    ],
+    "equations": "unkn: x,y\r\nequ: x+y=14\r\nequ: x*80+y*90=1210",
+    "id": "yahoo.answers.20061130165953AA2fueb",
+    "correct": "True",
+    "original_text": "Please help with a systems of equations math problem!!?\nYou travel from Point A to Point B, a distance of 1210 km by bus and train. The train travels at 90km/h, and the bus travels at 80km/h. If the total trip takes 14 hours, how far did you travel by both means of transportation? Please try and show as much of the work as possible!! Thanks",
+    "flag": 0,
+    "text": "You travel from Point A to Point B, a distance of 1210 km by bus and train. The train travels at 90km/h, and the bus travels at 80km/h. If the total trip takes 14 hours, how far did you travel by both means of transportation?"
+  },
+  {
+    "mapping_text": [
+      "The average (arithmetic mean) weight of 6 crates of cantaloupes is 61 pounds. If three of the crates weigh 72,\n59, and 70 pounds, respectively, which of the following could be the weights, in pounds, of the other three crates?",
+      " \r\n\r. 49, 56, and 60  \r\n b 51, 53, and 54  \r\n c 53, 57, and 58  \r\n d 54, 56, and 60  \r\n e e. 57, 57, and 57"
+    ],
+    "ans": "165",
+    "mapping_equations": [
+      "x=366-(70+59+72)",
+	  "null"
+    ],
+    "equations": "unkn: x\r\nequ: x=366-(70+59+72)",
+    "id": "yahoo.answers.20070207111858AAdLrFT",
+    "correct": "True",
+    "original_text": "The average (arithmetic mean) weight of 6 crates of cantaloupes is 61 pounds. If three of the crates weigh 72,\n59, and 70 pounds, respectively, which of the following could be the weights, in pounds, of the other three crates? \r\n\r\na. 49, 56, and 60  \r\n b. 51, 53, and 54  \r\n c. 53, 57, and 58  \r\n d. 54, 56, and 60  \r\n e. 57, 57, and 57",
+    "flag": 0,
+    "text": "The average (arithmetic mean) weight of 6 crates of cantaloupes is 61 pounds. If three of the crates weigh 72,  and 70 pounds, respectively, which of the following could be the weights, in pounds, of the other three crates? \r\n\r. 49, 56, and 60  \r\n b 51, 53, and 54  \r\n c 53, 57, and 58  \r\n d 54, 56, and 60  \r\n e e. 57, 57, and 57"
+  },
+  {
+    "mapping_text": [
+      "area of a triangle....?\n",
+      "I have a question asking me to find the area of a triangle with side lengths of 13, 20, and 21.... \r\n\r\n",
+      "Can someone tell me how to do this?\r\n\r\n\r\n\r\nthankssss"
+    ],
+    "ans": "27; 126",
+    "mapping_equations": [
+      "null",
+      "(13+20+21)/2=x&&sqrt(x*(x-13)*(x-20)*(x-21))=y",
+	  "null"
+    ],
+    "equations": "unkn: x,y\r\nequ: (13+20+21)/2=x\r\nequ: sqrt(x*(x-13)*(x-20)*(x-21))=y",
+    "id": "yahoo.answers.20070503171110AAk8Iz3",
+    "correct": "True",
+    "original_text": "area of a triangle....?\nI have a question asking me to find the area of a triangle with side lengths of 13, 20, and 21.... \r\n\r\nCan someone tell me how to do this?\r\n\r\n\r\n\r\nthankssss",
+    "flag": 0,
+    "text": "d the area of a triangle with side lengths of 13, 20, and 21.... "
+  },
+  {
+    "mapping_text": [
+      "What is the mean speed?\n",
+      "A car travels from A to B (22km) in 30 minutes, then rest for 10 minutes in B. Then the journey continues from B to C (58km) in 45 minutes. What is the mean speed? Is the 10 minutes included in the calculation?"
+    ],
+    "ans": "80; 1.417; 56.4573041637",
+    "mapping_equations": [
+      "Question",
+      "22+58=x&&y=(30+10+45)/60&&x/y=z"
+         ],
+    "equations": "unkn: x,y,z\r\nequ: 22+58=x\r\nequ: y=(30+10+45)/60\r\nequ: x/y=z",
+    "id": "yahoo.answers.20070724024526AAeINNW",
+    "correct": "True",
+    "original_text": "What is the mean speed?\nA car travels from A to B (22km) in 30 minutes, then rest for 10 minutes in B. Then the journey continues from B to C (58km) in 45 minutes. What is the mean speed? Is the 10 minutes included in the calculation?",
+    "flag": 0,
+    "text": "A car travels from A to B (22km) in 30 minutes, then rest for 10 minutes in B. Then the journey continues from B to C (58km) in 45 minutes. What is the mean speed?"
+  },
+  {
+    "mapping_text": [
+      "Out of the first 100 customers, how many will receive a bumper sticker and a 10% discount?\nEvery fourth customer at a store gets a free bumper sticker, and every tenth customer gets a 10% discount.",
+      " a. 25  b. 10 c.0  d.5"
+    ],
+    "ans": "5",
+    "mapping_equations": [
+      "100*1/4=x&&100/10=y",
+	  "null"
+    ],
+    "equations": "unkn: x\r\nequ: 100/20=x",
+    "id": "yahoo.answers.20070808030514AAfTEB9",
+    "correct": "False",
+    "original_text": "Out of the first 100 customers, how many will receive a bumper sticker and a 10% discount?\nEvery fourth customer at a store gets a free bumper sticker, and every tenth customer gets a 10% discount.   a. 25  b. 10 c.0  d.5",
+    "flag": 0,
+    "text": "Out of the first 100 customers, how many will receive a bumper sticker and a 10% discount? ry fourth customer at a store gets a free bumper sticker, and every tenth customer gets a 10% discount.   a. \n25  b. 10 c.0  d.5"
+  },
+  {
+    "mapping_text": [
+      "there are 7 girls on a bus. each girl carries 7 bags. each bag contains 7 cats. each cat gives birth to 7 kittens each. considering every person/animal has the correct amont of legs, how many legs are on the bus."
+    ],
+    "ans": "1582",
+    "mapping_equations": [
+    "7*(2)+7*7*7*(4)+7*7*7*7*(4)=x"
+    ],
+    "equations": "unkn: x\r\nequ: 7*(2)+49*(4)+343*(4)=x",
+    "id": "yahoo.answers.20080217095409AAFWB3R",
+    "correct": "False",
+    "original_text": "can you solve this math problem?\nthere are 7 girls on a bus. each girl carries 7 bags. each bag contains 7 cats. each cat gives birth to 7 kittens each. considering every person/animal has the correct amont of legs, how many legs are on the bus.",
+    "flag": 0,
+    "text": "there are 7 girls on a bus. each girl carries 7 bags. each bag contains 7 cats. each cat gives birth to 7 kittens each. considering every person/animal has the correct amont of legs, how many legs are on the bus."
+  },
+  {
+    "mapping_text": [
+      "Can someone help me with this math problem?\n",
+      "The area of a rectangular garden is 4472 ft. (2) (to the second power.) If the length of the garden is 86 feet, what is its width?"
+    ],
+    "ans": "52",
+    "mapping_equations": [
+      "null",
+      "(4472)=(86)*(x)"
+    ],
+    "equations": "unkn: x\r\nequ: (4472)=(86)*(x)",
+    "id": "yahoo.answers.20080528141108AA05MDn",
+    "correct": "True",
+    "original_text": "Can someone help me with this math problem?\nThe area of a rectangular garden is 4472 ft. (2) (to the second power.) If the length of the garden is 86 feet, what is its width?",
+    "flag": 0,
+    "text": "The area of a rectangular garden is 4472 ft. (2) (to the second power.) If the length of the garden is 86 feet, what is its width?"
+  },
+  {
+    "mapping_text": [
+      "Four boys washed a car for 50 cents. They didn't know how to divide the money equally, so the car owner said,\"I will give the four of you 4/5 of the total amount. And the first one to tell me how much it is, I will give1/2 of the other 1/5.\" What did the smart boy earn?"
+    ],
+    "ans": "15",
+    "mapping_equations": [
+      "10+5=x"
+    ],
+    "equations": "unkn: x\r\nequ: 10+5=x",
+    "id": "yahoo.answers.20080603194457AA2NPs1",
+    "correct": "True",
+    "original_text": "Four boys washed a car for 50 cents. They didn't know how to divide the money equally, so the car owner said,\n\"I will give the four of you 4/5 of the total amount. And the first one to tell me how much it is, I will give1/2 of the other 1/5.\" What did the smart boy earn?",
+    "flag": 0,
+    "text": "Four boys washed a car for 50 cents. They didn't know how to divide the money equally, so the car owner said,\"I will give the four of you 4/5 of the total amount. And the first one to tell me how much it is, I will give1/2 of the other 1/5.\" What did the smart boy earn?"
+  },
+  {
+    "mapping_text": [
+      "The total length of all the edges of the cuboid?\n","The length is 6 cm, the height is 3 cm and the width is 4 cm. What is the total length of all the edges of the cuboid?"
+    ],
+    "ans": "52",
+    "mapping_equations": [
+      "null",
+      "4*(6)+4*(3)+4*(4)=x"
+    ],
+    "equations": "unkn: x\r\nequ: 4*(6)+4*(3)+4*(4)=x",
+    "id": "yahoo.answers.20080606114325AAVlVRH",
+    "correct": "True",
+    "original_text": "The total length of all the edges of the cuboid?\nThe length is 6 cm, the height is 3 cm and the width is 4 cm. What is the total length of all the edges of the cuboid?",
+    "flag": 0,
+    "text": " length is 6 cm, the height is 3 cm and the width is 4 cm. What is the total length of all the edges of the cuboid?"
+  },
+  {
+    "mapping_text": [
+      "Landing with a speed of 81.9 m/s?\n","Landing with a speed of 81.9 m/s and traveling due south a jet comes to rest in 949m. Assuming the jet slows with constant acceleration, find the magnitude and direction of its acceleration"
+    ],
+    "ans": "23.1746031746; 3.53404109659",
+    "mapping_equations": [
+      "null",
+      "81.9/2*x=949&&81.90/x=y"
+    ],
+    "equations": "unkn: x,y\r\nequ: 81.9/2*x=949\r\nequ: 81.90/x=y",
+    "id": "yahoo.answers.20080927210415AAMSut9",
+    "correct": "True",
+    "original_text": "Landing with a speed of 81.9 m/s?\nLanding with a speed of 81.9 m/s and traveling due south a jet comes to rest in 949m. Assuming the jet slows with constant acceleration, find the magnitude and direction of its acceleration",
+    "flag": 0,
+    "text": "ding with a speed of 81.9 m/s and traveling due south a jet comes to rest in 949m. Assuming the jet slows with constant acceleration, find the magnitude and direction of its acceleration"
+  },
+  {
+    "mapping_text": [
+      "We toss 3 coins 100,000 times. How many times do we expect to see \"Exactly 1 Head\" appearing?",
+      " 12,500 \r\nB 37,500 \r\nC 3,750 \r\nD 50,000\r\n\r"
+    ],
+    "ans": "0.375; 37500",
+    "mapping_equations": [
+      "3*(1/2)^3=x&&100000*x=y",
+	  "null"
+    ],
+    "equations": "unkn: x,y\r\nequ: 3*(1/2)^3=x\r\nequ: 100000*x=y",
+    "id": "yahoo.answers.20100608143351AAlH5Ol",
+    "correct": "True",
+    "original_text": "We toss 3 coins 100,000 times. How many times do we expect to see \"Exactly 1 Head\" appearing?\nA. 12,500\r\nB. 37,500\r\nC. 3,750\r\nD. 50,000\r\n\r\nThanks!",
+    "flag": 0,
+    "text": "We toss 3 coins 100,000 times. How many times do we expect to see \"Exactly 1 Head\" appearing? 12,500 \r\nB 37,500 \r\nC 3,750 \r\nD 50,000\r\n\r"
+  },
+  {
+    "mapping_text": [
+      "30% of the tickets sold by a movie theatre for a friday night show were chilren's tickets at 4$ each. The rest of the tickets were sold at the full price of $8.50. The movie theatre collected $252 for the children's tickets.","How many tickets did they sell in all?"
+    ],
+    "ans": "63; 210",
+    "mapping_equations": [
+      "252/4=x&&x/y=30/100",
+      "Question"
+    ],
+    "equations": "unkn: x,y\r\nequ: 252/4=x\r\nequ: x/y=30/100",
+    "id": "yahoo.answers.20080510173616AA8mXil",
+    "correct": "True",
+    "original_text": "Math Problem!SOS!!!?\nOkay,so here's the problem.:\r\n30% of the tickets sold by a movie theatre for a friday night show were chilren's tickets at 4$ each.The rest of the tickets were sold at the full price of $8.50.The movie theatre collected $252 for the children's tickets.How many tickets did they sell in all?If you have the answer,please tell me HOW you got your answer.It can be in either words or sentence problem.Thanks!",
+    "flag": 0,
+    "text": "30% of the tickets sold by a movie theatre for a friday night show were chilren's tickets at 4$ each. The rest of the tickets were sold at the full price of $8.50. The movie theatre collected $252 for the children's tickets. How many tickets did they sell in all?"
+  },
+  {
+    "mapping_text": [
+      "if a squared approximately equals to 3000?\nthen which represents a to the fourth",
+      "\r\n\r\nA. 9000\r\n\r\nB 900, 000\r\n\r\nC 9,000,000\r\n\r\nD 3000 to the fourth\r\n\r\nE. 6000"
+    ],
+    "ans": "9000000",
+    "mapping_equations": [
+      "x^2=3000&&x^4=y",
+      "null"
+    ],
+    "equations": "unkn: y\r\nequ: x^2=3000\r\nequ: x^4=y",
+    "id": "yahoo.answers.20080624104603AABplDT",
+    "correct": "True",
+    "original_text": "if a squared approximately equals to 3000?\nthen which represents a to the fourth\r\n\r\nA. 9000\r\n\r\nB 900, 000\r\n\r\nC 9,000,000\r\n\r\nD 3000 to the fourth\r\n\r\nE. 6000",
+    "flag": 0,
+    "text": "If a squared approximately equals to 3000, n which represents a to the fourth\r\n\r\nA9000\r\n\r\nB00, 00\r\n\r 9,000,000\r\n\r 3000 to the fourth\r\n\r\nE6000"
+  },
+  {
+    "mapping_text": [
+      "In triangle ABC, the measure of angle A is 14 degrees less than five times the measure of angle B, and the meae of angle C is 33 degrees more than the measure of angle B.",
+      "the measure of angle A is 14 degrees less than five times the measure of angle B,",
+      " What is the measure, in degrees, of angle C?"
+    ],
+    "ans": "101; 23; 56",
+    "mapping_equations": [
+      "x=5*y-14&&z=y+33&&x+y+z=180",
+      "x=5*y-14",
+      "Question"
+    ],
+    "equations": "unkn: x,y,z\r\nequ: x=5*y-14\r\nequ: z=y+33\r\nequ: x+y+z=180",
+    "id": "yahoo.answers.20100120090235AACvclR",
+    "correct": "True",
+    "original_text": "In triangle ABC, the measure of angle A is 14 degrees less than five times the measure of angle B, and the mea?\nIn triangle ABC, the measure of angle A is 14 degrees less than five times the measure of angle B, and the measure of angle C is 33 degrees more than the measure of angle B. What is the measure, in degrees, of angle C?",
+    "flag": 0,
+    "text": "In triangle ABC, the measure of angle A is 14 degrees less than five times the measure of angle B, and the meae of angle C is 33 degrees more than the measure of angle B. What is the measure, in degrees, of angle C?"
+  },
+  {
+    "mapping_text": [
+      "Can someone help me with this math problem please please!!!!?!?!?!?!?Please show work?\n",
+      "Problem: Everyone in a class of 30 students take math and history. Seven students received an “A” in history, 13 received an “A” in math, and 4 received an “A” in both courses. How many students receive an “A” in either course?"
+    ],
+    "ans": "9; 3; 12",
+    "mapping_equations": [
+	"null",
+    "13-4=x&&7-4=y&&x+y=z"
+    ],
+    "equations": "unkn: x,y,z\r\nequ: 13-4=x\r\nequ: 7-4=y\r\nequ: x+y=z",
+    "id": "yahoo.answers.20061126125957AAZpkvS",
+    "correct": "True",
+    "original_text": "Can someone help me with this math problem please please!!!!?!?!?!?!?Please show work?\nProblem: Everyone in a class of 30 students take math and history. Seven students received an “A” in history, 13 received an “A” in math, and 4 received an “A” in both courses. How many students receive an “A” in either course?",
+    "flag": 0,
+    "text": "ryone in a class of 30 students take math and history. Seven students received an “A”A history, 13 received an “A”A math, and 4 received an “A”A both courses. How many students receive an “A”A either course?"
+  },
+  {
+    "mapping_text": [
+      "What is the mean and median? (round to the nearest whole number). \n45, 54, 64, 83, 94, 101"
+    ],
+    "ans": "73.5",
+    "mapping_equations": [
+      "m=(45+54+64+83+94+101)/6&&(64+83)/2=x"
+    ],
+    "equations": "unkn: x\r\nequ: (64+83)/2=x",
+    "id": "yahoo.answers.20070329184311AAsStic",
+    "correct": "True",
+    "original_text": "math help?\nwat is the mean and median? (round to the nearest whole number).\r\n\r\n45, 54, 64, 83, 94, 101",
+    "flag": 0,
+    "text": "What is the mean and median? (round to the nearest whole number). \n45, 54, 64, 83, 94, 101"
+  },
+  {
+    "mapping_text": [
+      "Word Problem - Read Details?\n",
+      "One Day Adam, Pat and Walter were experimenting with a scale.  \r\nTogether Adam and Pat weighed 140 pounds.",
+      "Together Adam and Walter weighed 180 pounds,",
+      "and together Pat and Walter weighed 200 pounds.",
+      " What is the weight of each boy?"
+    ],
+    "ans": "60; 80; 120",
+    "mapping_equations": [
+      "null",
+      "x+y=140",
+      "x+z=180",
+      "y+z=200",
+	  "Question"
+    ],
+    "equations": "unkn: x,y,z\r\nequ: x+y=140\r\nequ: x+z=180\r\nequ: y+z=200",
+    "id": "yahoo.answers.20071017165719AAQkiI0",
+    "correct": "True",
+    "original_text": "Word Problem - Read Details?\nOne Day Adam, Pat and Walter were experimenting with a scale.  \r\nTogether Adam and Pat weighed 140 pounds. Together Adam and Walter weighed 180 pounds, and together Pat and Walter weighed 200 pounds. What is the weight of each boy?",
+    "flag": 0,
+    "text": "One day adam, Pand Walter were experimenting with a scale.  \r\nether Adam and Pat weighed 140 pounds. Together Adam and Walter weighed 180 pounds, and together Pat and Walter weighed 200 pounds. What is the weight of each boy?"
+  },
+  {
+    "mapping_text": [
+      "A number is decreased by 10% and then increased by 10%. The number obtained is 10 less n the original number.",
+      "WhatWis the original number?\r\n\r\n"
+    ],
+    "ans": "1000",
+    "mapping_equations": [
+      "x*(1-0.1)*(1+0.1)=x-10",
+	  "Question"
+    ],
+    "equations": "unkn: x\r\nequ: x*(1-0.1)*(1+0.1)=x-10",
+    "id": "yahoo.answers.20080107080646AAHVYgT",
+    "correct": "True",
+    "original_text": "A number is decreased by 10% and then increased by 10% The number obtained is 10 lessthan the original number.\nA number is decreased by 10% and then increased by 10% The number obtained is 10 lessthan the original number.What is the original number?\r\n\r\nurgently i need answer",
+    "flag": 0,
+    "text": "A number is decreased by 10% and then increased by 10%. The number obtained is 10 less n the original number.WhatWis the original number?\r\n\r\n"
+  },
+  {
+    "mapping_text": [
+      "here is the full question to solve the equation.?\n",
+      "In printing an article of 48000 words, a printer decides to use two sizes of type. Using the larger type, a printed page contains 1800 words. Using smaller type, a page contains 2400 words.The article is allotted 21 full pages in a magazine.","How many pages must be in smaller type?"
+    ],
+    "ans": "4; 17",
+    "mapping_equations": [
+	"null",
+    "x*1800+y*2400=48000&&x+y=21",
+	"Question"
+	],
+    "equations": "unkn: x,y\r\nequ: x*1800+y*2400=48000\r\nequ: x+y=21",
+    "id": "yahoo.answers.20080221101959AAhY8oC",
+    "correct": "True",
+    "original_text": "here is the full question to solve the equation.?\nIn printing an article of 48000 words, a printer decides to use two sizes of type. Using the larger type, a printed page contains 1800 words. Using smaller type, a page contains 2400 words.The article is allotted 21 full pages in a magazine. How many pages must be in smaller type?",
+    "flag": 0,
+    "text": "In printing an article of 48000 words, a printer decides to use two sizes of type. Using the larger type, a printed page contains 1800 words. Using smaller type, a page contains 2400 words.The article is allotted 21 full pages in a magazine. How many pages must be in smaller type?"
+  }
+]

@@ -1,0 +1,356 @@
+[
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20071214012055AAnEfy4",
+    "mapping_text": [
+      "During a vacation it rained on 13 days; but when it rained in the morning, the afternoon was fine, and every rainy afternoon was preceded by a fine morning. There were 11 fine mornings and 12 fine afternoons.",
+      "How long was the vacation?"
+    ],
+    "mapping_equations": [
+      "2x=13+11+12",
+      "Question"
+    ],
+    "correct": "True",
+    "equations": "unkn: x\r\nequ: 2x=13+11+12",
+    "ans": "18",
+    "text": "During a vacation it rained on 13 days; but when it rained in the morning, the afternoon was fine, and every rainy afternoon was preceded by a fine morning. There were 11 fine mornings and 12 fine afternoons. How long was the vacation?",
+    "original_text": "Need help with this!?\nDuring a vacation it rained on 13 days; but when it rained in the morning, the afternoon was fine, and every rainy afternoon was preceded by a fine morning. There were 11 fine mornings and 12 fine afternoons. How long was the vacation?"
+  },
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20090106124042AAsZKkC",
+    "mapping_text": [
+      "In a certain school, the ratio of teachers to students is 3 to 40. If one new teacher were to be hired, then the ratio of teachers to students would be 2 to 25.",
+      "How many teachers does the school currently have?"
+    ],
+    "mapping_equations": [
+      "(x+1)/(40x/3)=2/25",
+      "Question"
+    ],
+    "correct": "False",
+    "equations": "unkn: 3x\r\nequ: (3x+1)/(40x)=2/25",
+    "ans": "15",
+    "text": "In a certain school, the ratio of teachers to students is 3 to 40. If one new teacher were to be hired, then the ratio of teachers to students would be 2 to 25. How many teachers does the school currently have?",
+    "original_text": "please explain this ratio question, not just give me the answer?\nIn a certain school, the ratio of teachers to students is 3 to 40. If one new teacher were to be hired, then the ratio of teachers to students would be 2 to 25. How many teachers does the school currently have?"
+  },
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20090809144824AAI308t",
+    "mapping_text": [
+      "the perimeter of a rectangle is 112 m.",
+      "the length is 8 m more than twice the width. find the dimensions.",
+      "find the dimensions."
+    ],
+    "mapping_equations": [
+      "2(x+y)=112",
+      "x=2y+8",
+      "Question"
+    ],
+    "correct": "True",
+    "equations": "unkn: x;y\r\nequ: 2(x+y)=112\r\nequ: x=2y+8",
+    "ans": "40; 16",
+    "text": "the perimeter of a rectangle is 112 m. the length is 8 m more than twice the width. find the dimensions.",
+    "original_text": "Help solve, the perimeter of a rectangle is 112 m. the length is 8 m more...?\nthe perimeter of a rectangle is 112 m. the length is 8 m more than twice the width. find the demensions."
+  },
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20110817001754AAzWEnM",
+    "mapping_text": [
+      "A superhero flies 216 m from the top of a tall building at an angle of 15 deg below the horizontal. what is the vertical component of the superhero’s displacement?",
+      "Answer in units of m.\n\nThe answer is not 55.9 m, 56 m, 57 m , or 208.6m."
+    ],
+    "mapping_equations": [
+      "x/216=sin(15°)",
+      "null"
+    ],
+    "correct": "False",
+    "equations": "unkn: x\r\nequ: x/216=tan(15°)",
+    "ans": "57.877",
+    "text": "A superhero flies 216 m from the top of a tall building at an angle of 15 deg below the horizontal. what is the vertical component of the superhero’s displacement?Answer in units of m.\n\nThe answer is not 55.9 m, 56 m, 57 m , or 208.6m.",
+    "original_text": "A superhero flies 216 m from the top of a tall building at an angle of 15* below the horizontal.?\nA superhero flies 216 m from the top of a\r\ntall building at an angle of 15 degrees below the\r\nhorizontal. \r\n\r\nWhat is the vertical component of the super-\r\nhero’s displacement?\r\nAnswer in units of m.\r\n\r\nThe answer is not 55.9 m, 56 m, .57 m , or 208.6m."
+  },
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20070801165011AA1WavP",
+    "mapping_text": [
+      "Find the height of a triangle with area of 81 square centimeters and a base of 9 cm? d the height of a triangle with area of 81 square centimeters and a base of 9 cm. \r\n\r\n cm \r\n\r\n  18 cm 182.25 cm \r\n\r364.5 cm"
+    ],
+    "mapping_equations": [
+      "81=9*m/2"
+    ],
+    "correct": "True",
+    "equations": "unkn: m\r\nequ: 81=9*m/2",
+    "ans": "18",
+    "text": "Find the height of a triangle with area of 81 square centimeters and a base of 9 cm?d the height of a triangle with area of 81 square centimeters and a base of 9 cm. \r\n\r\n cm \r\n\r\n  18 cm 182.25 cm \r\n\r364.5 cm",
+    "original_text": "Find the height of a triangle with area of 81 square centimeters and a base of 9 cm.?\nFind the height of a triangle with area of 81 square centimeters and a base of 9 cm. \r\n\r\n 9 cm \r\n\r\n 18 cm \r\n\r\n 182.25 cm \r\n\r\n 364.5 cm"
+  },
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20080110104424AAaicaf",
+    "mapping_text": [
+      "number is 3 less than another.  ",
+      "If 10 times the smaller number minus 4 times the larger number is 24,",
+      "find the two numbers"
+    ],
+    "mapping_equations": [
+      "x=y-3",
+      "10*x-4*y=24",
+      "Question"
+    ],
+    "correct": "True",
+    "equations": "unkn: x,y\r\nequ: x=y-3\r\nequ: 10*x-4*y=24",
+    "ans": "6; 9",
+    "text": " number is 3 less than another.  If 10 times the smaller number minus 4 times the larger number is 24, find the two numbers",
+    "original_text": "One number is 3 less than another.  If 10 times the smaller number minus 4 times the larger number is 24, find\nOne number is 3 less than another.  If 10 times the smaller number minus 4 times the larger number is 24, find the two numbers"
+  },
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20080203210605AAe27VU",
+    "mapping_text": [
+      "The ratio of elves to fairies was 7 to 2, ",
+      "and the number of fairies was 11 greater than 3 times the number of es. ",
+      "How many of each were there?\r\n\r"
+    ],
+    "mapping_equations": [
+      "x/y=2/7",
+      "3*x+11=y",
+      "Question"
+    ],
+    "correct": "True",
+    "equations": "unkn: x,y\r\nequ: 3*x+11=y\r\nequ: x/y=2/7",
+    "ans": "22; 77",
+    "text": "The ratio of elves to fairies was 7 to 2, and the number of fairies was 11 greater than 3 times the number of es. How many of each were there?\r\n\r",
+    "original_text": "The ratio of elves to fairies was 7 to 2, and the number of fairies was 11 greater than 3 times the number of?\nelves. How many of each were there?\r\n\r\n*Please show your work so I can see how to solve these kinds of problems.*\r\n\r\nThanks!"
+  },
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20080210204804AAHT5WZ",
+    "mapping_text": [
+      "sales tax on an $800 purchase is $24.at a rate, what is the tax on a $600 purchase?"
+    ],
+    "mapping_equations": [
+      "600*24=x&&x/800=y"
+    ],
+    "correct": "True",
+    "equations": "unkn: x,y\r\nequ: 600*24=x\r\nequ: x/800=y",
+    "ans": "14400; 18",
+    "text": " sales tax on an $800 purchase is $24. at a rate, what is the tax on a $600 purchase?",
+    "original_text": "algebraic homework??\nthe sales tax on an $800 purchase is $24. at a rate, what is the tax on a $600 purchase?"
+  },
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20080310182522AAbOKrU",
+    "mapping_text": [
+      "Jerry was 1/3 as young as his grandfather 15 years ago. ",
+      "If the sum of their ages is 110, ",
+      "how old is Jerry's grandfather?"
+    ],
+    "mapping_equations": [
+      "3*(110-y-15)=y-15",
+      "x=110-y",
+      "Question"
+    ],
+    "correct": "True",
+    "equations": "unkn: x,y\r\nequ: x=110-y\r\nequ: 3*(110-y-15)=y-15",
+    "ans": "35; 75",
+    "text": "Jerry was 1/3 as young as his grandfather 15 years ago. If the sum of their ages is 110, how old is Jerry's grandfather?",
+    "original_text": "Algebra Age Problem?\nJerry was 1/3 as young as his grandfather 15 years ago. If the sum of their ages is 110, how old is Jerry's grandfather?"
+  },
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20080312193907AA2jHRM",
+    "mapping_text": [
+      "ase help with the following problem.  Gabriel has a box of money under his bed.  He has $10 and $20 dollar bills in it totaling $780.00.There are 49 bills in all.How many are $20 dollar bills?  T"
+    ],
+    "mapping_equations": [
+      "x+y=49&&10*x+20*y=780"
+    ],
+    "correct": "True",
+    "equations": "unkn: x,y\r\nequ: x+y=49\r\nequ: 10*x+20*y=780",
+    "ans": "20; 29",
+    "text": "ase help with the following problem.  Gabriel has a box of money under his bed.  He has $10 and $20 dollar bills in it totaling $780.00.  There are 49 bills in all.  How many are $20 dollar bills?  T",
+    "original_text": "Help with word problem?\nPlease help with the following problem.  Gabriel has a box of money under his bed.  He has $10 and $20 dollar bills in it totaling $780.00.  There are 49 bills in all.  How many are $20 dollar bills?  Thank you."
+  },
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20080325130508AA6hgLJ",
+    "mapping_text": [
+      "The perimeter a triangle is 24 cm.",
+      " One side 2 centimeters longer than the shortest side.",
+      " The longest side is 2 centimeters less than twice the length of the shortest side.",
+      "Find the length of each side of the triangle."
+    ],
+    "mapping_equations": [
+      "x+y+z=24",
+      "y=x+2",
+      "z=2*x-2",
+      "Question"
+    ],
+    "correct": "True",
+    "equations": "unkn: x,y,z\r\nequ: x+y+z=24\r\nequ: y=x+2\r\nequ: z=2*x-2",
+    "ans": "6; 8; 10",
+    "text": "The perimeter a triangle is 24 cm. One side 2 centimeters longer than the shortest side. The longest side is 2 centimeters less than twice the length of the shortest side. Find the length of each side of the triangle.",
+    "original_text": "perimeter hard one hehehe?\nThe perimeterof a triangle is 24 cm. One side 2 centimeters longer than the shortest side. The longest side is 2 centimeters less than twice the length of the shortest side. Find the length of each side of the triangle."
+  },
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20080605050133AA4NzJO",
+    "mapping_text": [
+      "an fly her plane 100 mph in still air. When the wind is blowing, she flies 345 miles with the wind in the same time that she flies 255 miles against the wind.",
+      "What is the wind speed?\r\n\r"
+    ],
+    "mapping_equations": [
+      "345/255=(x+100)/(x-100)",
+      "Question"
+    ],
+    "correct": "False",
+    "equations": "unkn: z,m\r\nequ: 345=(100+z)*m\r\nequ: 255=(100-z)*m\r\nequ: m=345/(100+z)",
+    "ans": "15; 3",
+    "text": "an fly her plane 100 mph in still air. When the wind is blowing, she flies 345 miles with the wind in the same time that she flies 255 miles against the wind. What is the wind speed?\r\n\r",
+    "original_text": "Algebra word problems?\nM can fly her plane 100 mph in still air. When the wind is blowing, she flies 345 miles with the wind in the same time that she flies 255 miles against the wind. What is the wind speed?\r\n\r\nPlease give the equation to this problem with its solution.\r\nThanks!"
+  },
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20080911130637AA79GSu",
+    "mapping_text": [
+      "A triangle has one angle that is 56 degrees and another one that is 38 degrees. What is the third angle's measure?",
+      " a.\timpossible to tell from info given OR none of the following is correct\nb.\tless than 90 degrees\nc.\tat least 90 but less than 100 degrees\nd.\tat least 100 but less than 110 degrees\ne.\tat least 110 degrees"
+    ],
+    "mapping_equations": [
+      "56+38+z=180",
+      "null"
+    ],
+    "correct": "True",
+    "equations": "unkn: y,z\r\nequ: 3*y=z\r\nequ: 56+38+z=180",
+    "ans": "28.6666666667; 86",
+    "text": "A triangle has one angle that is 56 degrees and another one that is 38 degrees. What is the third angle's measure? a.\timpossible to tell from info given OR none of the following is correct\nb.\tless than 90 degrees\nc.\tat least 90 but less than 100 degrees\nd.\tat least 100 but less than 110 degrees\ne.\tat least 110 degrees",
+    "original_text": "A triangle has one angle that is 56 degrees and another one that is 38 degrees. ?\nA triangle has one angle that is 56 degrees and another one that is 38 degrees. What is the third angle’s measure?\r\n\r\na.\timpossible to tell from info given OR none of the following is correct\r\nb.\tless than 90 degrees\r\nc.\tat least 90 but less than 100 degrees\r\nd.\tat least 100 but less than 110 degrees\r\ne.\tat least 110 degrees\r\n"
+  },
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20081209205948AAdub2g",
+    "mapping_text": [
+      "y types 200 words in 10 minutes and Mike types 450 words in 25 minutes.",
+      "Who types faster ?\r\n\r"
+    ],
+    "mapping_equations": [
+      "200/10=x&&450/25=y",
+      "Question"
+    ],
+    "correct": "True",
+    "equations": "unkn: x,y\r\nequ: 200/10=x\r\nequ: 450/25=y",
+    "ans": "20; 18",
+    "text": "y types 200 words in 10 minutes and Mike types 450 words in 25 minutes. Who types faster ?\r\n\r",
+    "original_text": "I need some math help . Please ?\nMary types 200 words in 10 minutes and Mike types 450 words in 25 minutes. Who types faster ?\r\n\r\nPlease show your work . &gt;-<\r\nThanks ! I'm really stuck ."
+  },
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20081210145833AAB9ndK",
+    "mapping_text": [
+      "s say there is 30 students ",
+      "and the ratio of boys ans girls are 2:3  h o.w",
+      "would I figure out what the scale factor is? I "
+    ],
+    "mapping_equations": [
+      "2*x=3*y",
+      "x+y=30",
+      "Question"
+    ],
+    "correct": "True",
+    "equations": "unkn: x,y\r\nequ: 2*x=3*y\r\nequ: x+y=30",
+    "ans": "18; 12",
+    "text": "s say there is 30 students and the ratio of boys ans girls are 2:3  h o.w would I figure out what the scale factor is? I ",
+    "original_text": "How to figure out the scale factor i should use in ratios?\nlets say there is 30 students and the ratio of boys ans girls are 2:3 how would I figure out what the scale factor is? I know it is 8 but it took me along time to get that answer. How can I get the scale factor faster? "
+  },
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20081228024302AAf2jEZ",
+    "mapping_text": [
+      "do not know the three middle digits of a 7-digit number, but we know that they are identical. The number is the following form: 84aaa 48. We also know that you can get this number by multiplying three consecutive even numbers.",
+      " What is unknown digit?\r\n\r"
+    ],
+    "mapping_equations": [
+      "0*2*4=x&&2*4*6=y&&4*6*8=z&&8411148^1/3=o&&8499948^1/3=p&&202*204*206=r",
+      "Question"
+    ],
+    "correct": "True",
+    "equations": "unkn: x,y,z,o,p,r\r\nequ: 0*2*4=x\r\nequ: 2*4*6=y\r\nequ: 4*6*8=z\r\nequ: 8411148^1/3=o\r\nequ: 8499948^1/3=p\r\nequ: 202*204*206=r",
+    "ans": "0; 48; 192; 2803716; 2833316; 8488848",
+    "text": "do not know the three middle digits of a 7-digit number, but we know that they are identical. The number is the following form: 84aaa 48. We also know that you can get this number by multiplying three consecutive even numbers. What is unknown digit?\r\n\r",
+    "original_text": "I need help with this math problem:?\nWe do not know the three middle digits of a 7-digit number, but we know that they are identical. The number is the following form: 84aaa48. We also know that you can get this number by multiplying three consecutive even numbers. What is unknown digit?\r\n\r\nPlease give me the answer and the working/process. I have tried very hard but cannot get it"
+  },
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20090301195252AA7n0gZ",
+    "mapping_text": [
+      " sum of 3 consecutive odd numbers is 39.",
+      "\r\n\re Perimeter of a rectangle is 600.",
+      " The length of the rectangle is 2 more than 3 times the width. \r\n\r\n.",
+      "Gardner went to the market. She purchased some lettuce heads and some tomatoes. There were 12 items purchased.",
+      "She bought twice as many tomatoes as lettuce heads."
+    ],
+    "mapping_equations": [
+      "x+x+2+x+4=39",
+      "2*y+2*z=600",
+      "z=3*y+2",
+      "m+n=12",
+      "n=2m"
+    ],
+    "correct": "False",
+    "equations": "unkn: y,z\r\nequ: 2*y+2*z=600\r\nequ: z=3*y+2",
+    "ans": "74.5; 225.5",
+    "text": " sum of 3 consecutive odd numbers is 39. \r\n\re Perimeter of a rectangle is 600. The length of the rectangle is 2 more than 3 times the width. \r\n\r\n. Gardner went to the market. She purchased some lettuce heads and some tomatoes. There were 12 items purchased. She bought twice as many tomatoes as lettuce heads. \r\n\r\nimes the first of three consecutive numbers is 4 more than 2 times the second. \r\n",
+    "original_text": "Need help with math problems?\nThe sum of 3 consecutive odd numbers is 39. \r\n\r\nThe Perimeter of a rectangle is 600. The length of the rectangle is 2 more than 3 times the width. \r\n\r\nMrs. Gardner went to the market. She purchased some lettuce heads and some tomatoes. There were 12 items purchased. She bought twice as many tomatoes as lettuce heads. \r\n\r\n3 times the first of three consecutive numbers is 4 more than 2 times the second. \r\n\r\n\r\n\r\nyea i suck with word probs...."
+  },
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20090416100426AAda2RQ",
+    "mapping_text": [
+      "average of 8 numbers is 6.5. ",
+      "If each of the numbers is decreased by 3, what is the average of the 8 new numbers?\r\n\r"
+    ],
+    "mapping_equations": [
+      "x=8*6.5",
+      "x-3*8=8*y"
+    ],
+    "correct": "True",
+    "equations": "unkn: x,y\r\nequ: x=8*6.5\r\nequ: x-3*8=8*y",
+    "ans": "52; 3.5",
+    "text": " average of 8 numbers is 6.5. If each of the numbers is decreased by 3, what is the average of the 8 new numbers?\r\n\r",
+    "original_text": "Could anyone answer this question?\nThe average of 8 numbers is 6.5. If each of the numbers is decreased by 3, what is the average of the 8 new numbers?\r\n\r\nIf could answer correctly, could you go about telling how to got the answer or maybe if there's a formula for this question? Any help is appreciated. Thanks."
+  },
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20090709144012AAGHAsW",
+    "mapping_text": [
+      "The number of revolutions of two pulleys is inversely proportional to their diameters. If a 24-inch diameter pulley making 400 revolutions per minute is belted to an 8-inch diameter pulley, ",
+      "find the number of revolutions per minute of the smaller pulley."
+    ],
+    "mapping_equations": [
+      "(24)*(400)=z&&9600=8*m",
+      "Question"
+    ],
+    "correct": "True",
+    "equations": "unkn: z,m\r\nequ: (24)*(400)=z\r\nequ: 9600=8*m",
+    "ans": "9600; 1200",
+    "text": "The number of revolutions of two pulleys is inversely proportional to their diameters. If a 24-inch diameter pulley making 400 revolutions per minute is belted to an 8-inch diameter pulley, find the number of revolutions per minute of the smaller pulley.",
+    "original_text": "Problem solving please Help. Thank You.?\nThe number of revolutions of two pulleys is inversely proportional to their diameters. If a 24-inch diameter pulley making 400 revolutions per minute is belted to an 8-inch diameter pulley, find the number of revolutions per minute of the smaller pulley."
+  },
+  {
+    "flag": 0,
+    "id": "yahoo.answers.20090903144519AArUxhp",
+    "mapping_text": [
+      "uppose you have a paper bag containing only pencils and pens. The total number of items is 25.",
+      "From the data given below, set up and solve and algebraic expression to determine the number of pens and pencils in the bag.\r\n \nITEM AND MASS \none pencil          2.00g \none pen             5.00g \nempty bag         0.50g \nbag + mixture of pencils and pens     104.50g"
+    ],
+    "mapping_equations": [
+      "x+z=25",
+      "2*x+5*z=104"
+    ],
+    "correct": "True",
+    "equations": "unkn: x,z\r\nequ: 2*x+5*z=104\r\nequ: x+z=25",
+    "ans": "7; 18",
+    "text": "uppose you have a paper bag containing only pencils and pens. The total number of items is 25. From the data given below, set up and solve and algebraic expression to determine the number of pens and pencils in the bag.\r\n \nITEM AND MASS \none pencil          2.00g \none pen             5.00g \nempty bag         0.50g \nbag + mixture of pencils and pens     104.50g",
+    "original_text": "algebraic math problem?!?!?\nsuppose you have a paper bag containing only pencils and pens. The total number of items is 25. From the data given below, set up and solve and algebraic expression to determine the number of pens and pencils in the bag.\r\n\r\nITEM AND MASS\r\none pencil          2.00g\r\none pen             5.00g\r\nempty bag         0.50g\r\nbag + mixture of pencils and pens     104.50g"
+  }
+]

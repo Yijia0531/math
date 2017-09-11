@@ -1,0 +1,4077 @@
+null
+x1 = x2 - a
+ ( x1 + a ) / ( x2 + b ) - c = x1 / x2
+x1 = x2 / x3
+null
+a / b * x1 + c / d * x1 - e * x1 = - f
+x1 - a / b * x2 = - c
+null
+null
+x1 = a * x2
+ ( x1 + a ) = b * ( x2 + c ) 
+question
+null
+a * x1 = b * ( c ) 
+null
+null
+x1 / x2 + x1 + x3 = a
+ ( x1 / x2 ) * x1 * x3 = a
+question
+null
+a / b = x1 && x2 = c * d / e
+null
+null
+a = b * c + d * x1
+question
+null
+a / b = x1
+question
+a * b * c = x1
+question
+a * x1 + b = c * x1
+question
+null
+x1 = ( a + b + c + d + e ) / f
+question
+null
+a * b * c ^ d = x1
+question
+null
+ ( a ) = x1
+a * ( b * x1 ) = c
+a / b = x1
+null
+question
+a / b = x1
+null
+a * x1 = b
+a / b * x1 = c
+question
+null
+null
+a * b = x1 && c * d = x2
+question
+a / b * c = x1
+null
+null
+a - b = x1 && x1 / c = x2
+question
+null
+x1 + x2 = a
+a * x1 + b * x2 = c
+question
+null
+ ( a ) * x1 + ( b ) * ( x1 - c ) = d
+question
+a - b = x1
+question
+null
+null
+ ( a - b ) / c = x1
+question
+ ( a - b ) / c = x1
+question
+null
+null
+question
+a * x1 + b * x2 + c * x3 = d
+a * x1 + b * x2 + c * x3 = d
+a * x1 + b * x2 + c * x3 = d
+x1 = a * b * c
+null
+a * b = x1 && c * d = x2 && e * f = x3 && g * h = x4 && i + j = x5 && k * l = x6
+a * x1 = b * x1 + ( c * ( d / e ) ) 
+question
+a - b = x1
+null
+null
+x1 ^ 2 + a ^ 2 = ( b * x1 ) ^ c
+null
+null
+a * ( b ) = x1
+question
+null
+a / b = x1 / c
+null
+question
+a / b = x1 && c = x2 && d = x3
+a ^ b = x1 && c / d = x2
+null
+x1 + x2 = a && b * x1 + c * x2 = d
+question
+null
+a * x1 + b * x2 = c
+a * x1 + b * x2 = c + d
+question
+x1 + x2 + x3 = a && x1 = x2 - b && x3 = x2 + c
+x1 = x2 - a && x3 = x2 + b
+null
+null
+a / b = c / x1
+question
+null
+question
+x1 = a * x2
+a / ( x1 + b ) + c / ( x2 + d ) = e
+null
+null
+x1 = a * x2
+a * ( x1 + x2 ) = b
+question
+null
+x1 = ( a - b ) / ( - c - d ) 
+null
+a * b * c * d * e * f = x1
+null
+null
+x1 / a * b - c + d = e
+question
+null
+a * ( x1 + b ) = c * ( x1 + d ) 
+question
+null
+a = x1 + x2 * b
+a = x1 + x2 * b
+question
+null
+a / b = x1
+a / b = x1
+question
+x1 = a / b
+null
+null
+x1 = a * b
+question
+null
+a = x1 / b && c = ( d + x2 ) / ( e + x2 ) 
+a = x1 / b
+x1 = ( a - b ) + c && ( - d ) + e = x2
+question
+null
+a + b - c = x1
+question
+a / b = x1
+x1 * a = x2
+null
+null
+a / b = c / x1
+question
+a / b = x1
+null
+null
+x1 + x2 = a
+x1 - x2 = a
+question
+null
+ ( a + b + c + d * x1 ) / e = f
+null
+null
+a * x1 + b * x2 = c
+a - x1 = x2
+question
+a / b = c / x1
+null
+x1 + a * x1 = b
+question
+null
+null
+a / b * c / d = x1
+null
+a * b + x1 * c = d
+a * b + c * d = x1
+question
+null
+a / ( b + c ) = x1
+question
+null
+a * ( b ) ^ c = x1
+x1 * ( a ) = x2
+a + b + c + d * ( e ) = x1
+question
+null
+a * b * c = x1
+question
+null
+a / b = c / x1
+a / b = x1
+a / b = x1
+null
+null
+a * x1 + b * x1 + c * x1 = d
+question
+null
+a / b = x1
+null
+a * b = x1
+a - b = x1
+question
+null
+ ( a + b + c ) = x1
+x1 * a = x2
+question
+null
+null
+a * x1 + b * x2 = c
+x1 = x2 / a + b
+question
+null
+null
+ ( a * x1 + b ) = c * ( x1 + d ) - e
+question
+null
+null
+x1 = ( a + b ) / c
+
+null
+ ( a / b ) ^ c = x1
+question
+null
+null
+a ^ 2 = x1 && b + c = x2 && d ^ 2 = x3 && x3 + e = x4
+question
+x1 = ( a - b ) / ( c - d ) 
+null
+x1 + x2 = a && b * x1 + c * x2 = d * e
+x1 + x2 = a
+null
+null
+a / b = x1
+question
+ / a * b / c = x1 && d / e * f / g = x2
+a * b = x1
+null
+question
+null
+x1 * ( a ) = b / x2 * ( c ) && x2 * ( d ) = - e && - f - g = x3
+null
+null
+a * x1 + b * x2 = c
+a * x1 + b * x2 = c
+question
+a * ( b ) + c * ( d ) = x1
+question
+null
+a / b = x1
+a * b = x1
+null
+null
+a / b = x1
+question
+null
+a * x1 = x2 + b * x3
+a = x1 + b * x2
+a * x1 + b * x2 = c
+question
+null
+x1 = x2 / a + b
+x1 = x2 - a
+x1 + x2 + x3 = a
+null
+null
+a / b = x1
+x1 / a = b
+null
+a * x1 + b * x2 = c * d && x1 + x2 = e
+x1 + x2 = a
+null
+question
+a * b + c * d + e * f = x1
+a * b = x1 && c * d = x2
+null
+a = x1 + x2
+x1 = x2 + a
+question
+null
+x1 + a = x2
+a = b * x1 + c * x1 + d
+question
+null
+a * x1 - b * x1 = c
+question
+null
+null
+a / b = x1 / c
+null
+x1 = a ^ b * c * d ^ e
+null
+null
+a * b = x1
+question
+null
+question
+x1 + x2 + x3 = a
+x1 = x2 - a
+x1 = a * x2
+null
+a * b = x1
+null
+ ( a ) * ( b ) = x1
+null
+x1 + x2 = a
+a * x1 + b * x2 = c
+question
+null
+null
+a = x1 / b
+a = x1 / b
+question
+a * b = x1
+ ( a / b ) * ( c / d ) * ( e / f ) = x1
+question
+null
+ ( x1 + a ) / ( x2 + b ) = c
+ ( x1 - a ) / ( x2 - b ) = c
+question
+a / b = x1
+null
+x1 = a * b
+question
+null
+null
+x1 + x2 + x3 = a
+x1 + a = x2
+x1 - a = x2
+question
+null
+a * b * c = x1
+question
+null
+a / b * c = x1
+question
+x1 + x1 + a + x1 + b + x1 + c = d
+question
+null
+null
+a - b = x1 && c - d = x2
+a / b = x1
+null
+question
+a - b - c + d = x1
+null
+question
+a / b = x1
+null
+a / b = x1
+a / b * c / d = x1
+null
+null
+a * b = x1
+x1 + a = x2
+question
+null
+null
+x1 + a + b + c = d
+question
+null
+null
+a - b = x1 && x1 / c = x2
+x1 / a = x2
+question
+a + b = x1
+question
+null
+a / b + c / d + e / f = x1 && g / h * i = x2 && j * k = x3
+question
+null
+ ( x1 - a ) / b = c
+null
+a * b * c = x1
+question
+null
+a * b = x1
+null
+null
+ ( a ) * ( b ) / c = x1
+null
+x1 = a + x2 && x3 = b + x2
+x1 * x2 = a
+null
+a * ( b - c ) = x1
+x1 * ( a + b ) = x2
+question
+null
+null
+a * ( b / c ) = x1 && d * ( e / f ) = x2 && x1 / x2 = x3
+null
+null
+a + b * x1 = c
+null
+null
+a / b - c / d = x1
+question
+null
+null
+a - b = x1
+null
+x1 = a * b
+null
+x1 = a
+a * x1 = b / c
+question
+null
+a * b = x1 && c * d = x2
+question
+null
+null
+a * b = x1
+null
+a - x1 = x2
+x1 * a + x2 * b = c
+question
+a / b = x1
+question
+null
+null
+null
+ ( x1 + x2 ) = a && ( x1 + x2 + x3 ) = b && c * x3 = d * x1
+question
+null
+a * b = x1
+null
+null
+a + b + c = x1
+question
+null
+a = x1 * ( b + c ) ^ d
+null
+a / b = x1
+question
+null
+a * b = x1
+question
+null
+a * b = x1 && c - d = x2
+question
+null
+ ( a - b - c ) * d * x1 = e
+question
+null
+a / b = x1
+question
+null
+a = b * x1
+question
+null
+null
+a * b = x1
+null
+null
+x1 + x2 = a && x1 + b * x2 = c * d
+x1 + x2 = a
+null
+question
+a / b * ( c ) * ( d ) = x1
+a / x1 = b / ( x1 + c ) 
+question
+null
+a / b = x1
+question
+null
+question
+a * b = x1
+x1 * a = x2
+a / b * c / d = x1
+question
+null
+a / b = x1
+question
+null
+a * b * c = x1 && d / e = f / x2
+a * b * c = x1
+question
+null
+a - b = x1
+null
+null
+a * x1 + x2 = b && c * x1 + d * x2 = e
+question
+a * x1 + b * x2 = c
+x1 + x2 = a
+question
+a / b = x1
+null
+null
+a + b + c = x1 && d / x1 = x2
+question
+question
+a + b = x1
+null
+null
+a + b * x1 = c * x1
+question
+question
+a * b / c = x1
+a * b / c = x1
+a = x1
+null
+x1 * ( a ) = b && ( c ^ 2 ) * ( d ^ e ) = x2 && f * ( g ) * ( h ) = x3
+question
+null
+null
+x1 + x2 = a
+a * x1 + b * x2 = c
+null
+a * b * c * d * e = x1
+question
+null
+a * b = x1
+a / b = x1 && x1 / c = x2
+null
+null
+a * b = x1
+question
+null
+null
+a / b = x1
+question
+a + b = x1
+null
+ ( a ) / ( b - x1 ) = c
+a ^ b = x1
+null
+null
+a * b * c = x1
+question
+null
+a = x1 + x2 && ( b / c ) * d = ( e ) * x1 + ( f / g ) * x2
+a = x1 + x2
+null
+x1 ^ 2 = a ^ 2 + b ^ c
+question
+null
+null
+ ( a / b ) * c = x1
+null
+null
+a / b ) * ( c / d ) = x1
+null
+cosa = b / x1
+null
+x1 = a / b
+question
+null
+x1 = ( a - b ) 
+null
+a / b = x1
+question
+null
+a ^ b / c ^ 2 = x1 && d ^ e / f ^ g = x2
+null
+null
+question
+a + b + c = x1 && d * e / x1 = x2 && f * g / x1 = x3 && h * i / x1 = x4
+null
+x1 = a * x2 + b
+a = b * x1 + c * x2
+question
+null
+null
+a * b + c * d = x1
+null
+a * b = x1
+null
+a + b = x1
+x1 + x2 = a
+x1 - x2 = a
+question
+a - b = x1
+null
+null
+a - b = x1
+null
+x1 = a * ( b - c - d ) 
+question
+a / b = x1
+question
+null
+null
+a * x1 + b * x2 = c
+x1 * x2 = a
+question
+null
+a = b * x1 + c * x2
+x1 = a * x2 + b
+question
+null
+a * b * c = x1
+question
+null
+null
+a * b + c * d + e = x1
+question
+null
+ ( a / b ) * c = x1
+question
+null
+null
+a / b = c / x1
+null
+null
+a * b * c = x1
+null
+null
+x1 + x2 + x3 = a
+x1 + x2 + x3 = a
+x1 + x2 + x3 = a
+x1 + x2 = a
+a * x1 + x2 + x3 = b
+question
+null
+null
+x1 = x2 + a
+x1 = x2 + a
+x1 + x2 + x3 = a
+question
+null
+a / b = c / x1
+null
+ - a - b = x1
+question
+null
+null
+a / b = x1
+question
+null
+ ( a + b + c ) / d = x1
+question
+null
+a * b = x1
+null
+a - b * ( c ) = x1
+question
+null
+a * x1 = x2 && x1 + x2 = b
+a * x1 = x2
+question
+null
+null
+a + b = x1
+a + b + c + d = x1
+question
+a * x1 - x1 = b
+null
+x1 + x2 = a && b * x1 + c * x2 = d * e
+x1 + x2 = a
+null
+a * b / c = x1
+question
+null
+x1 + x2 + x3 = a
+a * x1 + b * x2 + x3 = c
+question
+null
+null
+a - b = x1
+question
+question
+a * b * c = x1
+x1 = a / b
+a * b / c - d = x1
+question
+a / b = x1
+question
+null
+null
+ ( a - b ) / ( c - d ) = ( x1 - e ) / ( x2 - f ) && ( g - h ) / ( i - j ) = ( k - x1 ) / ( l - x2 ) 
+question
+null
+null
+a * b = x1
+null
+null
+x1 = a * x2 + b
+a = x1 * x2
+question
+null
+a / b * c / d = x1
+question
+null
+null
+ ( a - b ) = x1
+question
+null
+x1 + x2 = a && x1 / b + x2 / c = d
+x1 + x2 = a
+question
+null
+a - b * c = x1
+a - b * c = x1
+question
+null
+a * x1 + b * x2 = c
+x1 = a * x2 - b
+question
+null
+a - ( b * c + d * e ) = x1
+null
+null
+x1 = ( a + ( x2 * b ) ) - c
+null
+question
+null
+a * b = x1
+null
+a + b + c = x1
+x1 - a - b - c - ( d * e ) = x2
+question
+null
+null
+x1 + x2 = a
+a * x1 + b * x2 = c
+question
+null
+a ^ b = x1
+question
+null
+a * b = x1
+question
+null
+null
+ ( x1 - x2 ) * a = b
+ ( x1 + x2 ) * a = b
+question
+a * b = x1
+a / b = x1
+null
+a - b = x1
+null
+null
+a + b - c = x1 && d - e = x2
+question
+null
+a * b = x1
+Question'
+null
+a * b * c = x1
+null
+null
+a * b + c = x1
+null
+a * x1 + b = c * x1
+question
+null
+a / b = x1
+a * ( b + c / d ) ^ ( e * f ) = x1
+null
+x1 = a + b + c + d + e && f / g = x2
+null
+a - b + c = x1
+question
+null
+null
+x1 = a * b
+x1 = x2 / ( a / b * c / d ) 
+x1 = a * x2
+question
+null
+x1 + a = x2
+a / x1 = b / ( x1 + c ) 
+question
+a / b = x1 && c * x1 = x2 && d / e * x1 = x3 && x2 + x3 = x4
+null
+null
+ ( a ) = x1
+question
+x1 - a = x2
+question
+a / b = x1
+null
+null
+ ( a - b ) / c = x1
+question
+null
+a / b = x1 / x2
+ ( a / b ) / ( c / d ) = x1 / ( x2 + e ) 
+question
+null
+x1 + x2 = a
+a * x1 + b * x2 = c
+question
+null
+a ^ 2 - b * ( c ) * ( d ) = x1
+question
+null
+null
+a = x1 * x2 && b = ( x1 + c ) * ( x2 - d / e ) 
+a = x1 * x2
+question
+null
+a * b = x1
+x1 = a * b
+null
+null
+a = b * ( c + x1 ) + d * x1
+question
+a * b * c = x1
+question
+null
+x1 = a * b / c
+x1 = x2 * a * b * c * d * e
+null
+null
+a / b = x1
+null
+null
+x1 = ( a * b ) / c
+question
+null
+null
+question
+a + b + c = x1
+null
+null
+question
+ ( a + b + c ) / d = x1 && ( e + f + g ) / h = x2
+null
+a * b = x1
+question
+null
+a = b * ( x1 + x2 ) 
+a = b * ( x1 - x2 ) 
+question
+null
+a / b = c / x1
+question
+null
+a * b = x1
+question
+null
+null
+a / b = x1
+question
+null
+null
+a * x1 + b * x2 = c
+a * x1 + b * x2 = c
+question
+a / x1 + b / c = d / e
+question
+null
+a * b = x1
+a * x1 = x2
+question
+null
+null
+a * b = x1
+a - b = x1
+ ( x1 - x2 ) / a = x3
+null
+null
+a / b = x1
+x1 * a = x2
+question
+ ( a / b ) ^ c * ( d / e ) ^ f = x1
+a / b = x1
+question
+null
+a * ( x1 + x2 ) = b
+x1 + a = x2
+question
+a / b * c / d = x1
+question
+null
+a * b - c = x1
+null
+a / b = x1
+null
+a * b = x1
+null
+a / b / c = x1
+null
+a * ( b - c ) = x1
+question
+null
+a * b + c * ( d + e ) = x1
+question
+a * ( x1 + b ) = c
+null
+a = b * ( x1 + x2 ) 
+x1 = x2 + a
+question
+x1 ^ 2 = a
+question
+null
+a * x1 ^ 2 = b * x1
+question
+null
+a * b = x1 && c - x1 = x2
+a * b = x1
+null
+null
+a * x1 + x2 = b
+a * b * x1 * c / d = x2
+question
+null
+a * √b = x1
+a = b * x1 + c * x2
+x1 + a = x2
+question
+null
+ ( x1 - a ) / b = ( c ) * x1 + d
+question
+a / b * c / d = x1
+question
+null
+a * b = x1 && c * d = x2
+null
+null
+a * x1 + b * x2 = c && x1 + x2 = d
+x1 + x2 = a
+question
+null
+a = x1 / b
+question
+null
+a * b = x1
+null
+x1 + x2 + x3 = a
+x1 = x2 + a
+x1 = a * x2 + b
+question
+null
+question
+x1 = a * b ^ c * d ^ 2 * e * f
+a * b = x1
+null
+x1 = x1 ^ 2 - a
+question
+null
+a * x1 + b * x1 + c * x1 = d
+null
+x1 + a = x2
+a = b * ( x1 + x2 ) 
+question
+null
+a * b = x1
+question
+null
+x1 = a * x2
+x1 = x2 - a
+question
+a * b = x1
+question
+x1 = a / b
+question
+null
+a * ( b + c ) / d = x1
+question
+null
+question
+x1 = ( a + b ) * ( c - d + e ) / f && x2 = x1 / ( g - h + i ) 
+null
+a / b = x1
+null
+x1 = a / b
+null
+null
+x1 + x2 = a && b * x1 + c * x2 = d
+x1 + x2 = a
+question
+null
+a * x1 + x1 / b = c
+question
+a / b = c / x1
+question
+null
+ ( a + b * x1 ) * ( c + d * x1 ) - e * f = g
+question
+a / b = x1 && x1 * c / d = x2
+question
+null
+a / b = x1 / c
+a - b = x1
+null
+null
+x1 + x2 = a
+a * x1 + b * x2 = c
+question
+null
+null
+a * ( b + c ) * d = x1
+question
+ ( a - b ) / c = x1
+question
+null
+a * b = x1
+question
+null
+x1 = a * ( b + c ) 
+a * b * c = x1
+null
+null
+a + x1 = b && c / x1 = x2
+null
+null
+a * b = x1 && x2 = x1 / c
+null
+question
+a * b - c = x1 && d / x1 = x2
+a + b + c + d = x1 && x1 / e = x2
+x1 / a = x2
+a / b = x1
+null
+a / ( b ) = x1
+question
+a = ( x1 - b ) / ( c - d ) 
+question
+a * x1 + b * x2 = c && Isolddbo * x1esfor$e
+question
+x1 + x2 = a
+x1 * a + x2 * b = c
+question
+ ( a + b + c + d + e ) / f = x1
+x1 + x2 = a
+a * x1 = x2 + b
+question
+null
+null
+a * ( b + c ) = x1
+question
+null
+null
+x1 + x2 + x3 = a
+x1 = a * x2
+x1 = x2 + a
+question
+null
+a * b = x1
+x1 * a = x2
+question
+x1 + a = x2
+a * x1 = b * x2 + c
+null
+a * b * c * d = x1
+null
+null
+x1 = a * ( b / c ) ^ 2 * d && x1 / e / f = x2
+null
+ ( a + b + c ) + ( d + e + f + g ) = x1
+question
+a * b - ( x1 + c ) - d * e = f * x1
+question
+a + b = x1
+a * b = x1
+question
+null
+null
+x1 + x2 = a && b * x1 + c * x2 = d
+x1 + x2 = a
+question
+null
+a / b = x1
+question
+null
+a * x1 + b * x2 = c
+x1 + a = x2
+null
+a * b = x1 * c
+null
+a / b = x1
+null
+null
+x1 = ( a - b ) / c
+question
+a - b = x1
+null
+a * x1 / b = c * x1 / d
+question
+null
+x1 = a / ( b * c ) 
+question
+question
+a + b = x1
+x1 - a = x2
+question
+null
+a * b * c = x1
+question
+null
+null
+a * b * c = x1
+question
+null
+null
+a * x1 + b * c = ( d + x1 ) * e
+null
+null
+ ( a - b ) / c = x1
+null
+a * b = x1 * c
+question
+x1 + x2 = a
+a * x1 + x2 = b
+question
+null
+null
+a * b = x1 && c / x1 = x2
+null
+null
+x1 + x2 = a && b * x1 + c * x2 = d
+x1 + x2 = a
+question
+null
+x1 ^ 2 = a * x2
+x1 + a / b * x2 = c
+question
+x1 ^ 2 = ( a + b ) ^ 2 + ( - c - d ) ^ e
+null
+a * b + c * d = x1
+question
+null
+a + b + c + d + x1 = e * f
+question
+null
+x1 = a * ( b + c / d ) 
+question
+a * b * c * d = x1
+question
+ ( a + b ) / c = x1 && ( d - e ) / f = x2
+a + b + c = x1
+null
+a * ( b ) ^ c = x1
+question
+a * b * ( c / d ) = x1
+question
+null
+a * ( b + c ) = x1
+question
+x1 * ( a - b ) = x2
+question
+null
+null
+x1 - a = x2 + b
+x1 + a = b * ( x2 - c ) 
+question
+null
+a / b = x1
+null
+null
+a * b * c = x1
+null
+null
+a / b = c / ( x1 + d ) 
+a / x1 = b / ( x2 + c + d ) 
+question
+null
+ ( a + b ) * ( x1 - c ) = d
+question
+null
+null
+x1 + x2 = a
+a * x1 + b * x2 = c
+question
+null
+null
+a * ( b ) = c * x1
+null
+a + x1 = b * ( c + x1 ) 
+null
+a * b = x1
+question
+null
+a * b = x1
+x1 = ( - a - b ) / ( - c - d ) 
+null
+a / b = x1 / c
+null
+x1 = a * x2
+x1 = a * x2
+question
+null
+x1 = a * x2
+x1 = ( a / b ) * x2
+x1 = x2 - a
+x1 + x2 + x3 + x4 = a
+null
+a * b = x1
+question
+ ( a / b ) ^ 2 * c * d = x1
+a * b = x1
+null
+ ( a * x1 + b ) / ( c + x1 ) = d
+null
+x1 = x2 / ( x2 + a ) 
+x1 = x2 / ( x2 + a + b ) 
+x1 - a = x2
+question
+null
+a * b / c = x1
+null
+null
+a / b = c / x1
+null
+a * b = x1
+question
+null
+null
+a / b = x1
+question
+null
+null
+x1 - x2 = a
+x1 * x2 = a
+ ( x1 + a ) * ( b * x2 ) = x3
+null
+null
+a * b = x1
+x1 * a = x2
+question
+null
+null
+a / b = x1
+null
+null
+a * x1 + b * x2 = c
+x1 + a * x2 = b
+question
+null
+x1 + x2 = a && b * x1 + c * x2 = d * e
+x1 + x2 = a
+question
+null
+null
+a / b = x1
+question
+null
+null
+a * b * c = x1
+null
+a * b * c = x1
+null
+a * b * c = x1
+question
+null
+null
+ ( a ) * ( b ) = x1
+ ( a ) * x1 = x2
+null
+a / b = x1
+null
+a * x1 + b = c
+question
+null
+ ( a ) * ( b ) = x1
+null
+a * x1 + b * x2 = c
+a * x1 + b * x2 = c
+question
+null
+a * b = c * x1
+null
+null
+question
+a + b + c = x1
+null
+a * b = x1
+a - x1 = x2
+question
+null
+a * b = c * x1
+null
+x1 / a * ( x1 - b ) / c = d
+question
+question
+null
+x1 = a / b * c
+null
+x1 + x2 = a
+a * x1 + b * x2 = c
+null
+question
+null
+question
+a * b * c * d = x1
+null
+a * x1 + b * x2 = c && x2 - x1 = d
+x1 - x2 = a
+null
+x1 = a ^ b
+a / b * c * d = x1
+question
+null
+x1 + a = x2
+x1 ^ 2 + a ^ 2 = b ^ c
+null
+x1 + a * x2 = b
+x1 + a = x2
+question
+x1 = x2 / a
+x1 + a = x2 / b
+question
+null
+a / b = c / x1
+null
+ ( a + b + c ) / d = x1
+null
+null
+x1 + x2 = a && b * x1 + c * x2 = d
+x1 + x2 = a
+question
+null
+null
+question
+a * b * x1 * c / d = e
+question
+a * x1 * b / c = d
+null
+a / b = x1
+null
+a ^ 2 = x1 ^ 2 + x2 ^ b
+x1 = x2 + a
+null
+null
+x1 = a * x2 + b
+a * x1 + b * x2 = c
+question
+null
+a / b - c / d = x1
+a * b * c = x1
+null
+a + ( b + c ) = x1
+question
+null
+x1 + x2 = a
+x1 = a * x2 + x3 && x4 = b * x3 + x2
+x1 - x2 = a
+question
+null
+a * b = x1 && c * d = x2 && e * f = x3 && g * x1 + h * x2 + i * x3 = x4
+question
+null
+a / b = x1
+null
+null
+a * b = x1
+null
+null
+ ( a - b ) * x1 + c * x1 / d - e = ( f - g ) * x1
+question
+null
+a = ( b / c ) * x1 * d + ( e / f ) * x1 * g + ( h / i ) * x1 * j
+question
+null
+a - b - c = x1
+question
+null
+a ^ b = x1
+null
+a / b * c * d * x1 = e
+question
+null
+null
+a * b * c * d = x1
+question
+a / x1 = b / x2
+x1 - a = x2
+question
+null
+ ( a * b * c * d * e ) / ( f * g * h * i * j ) = x1
+question
+null
+null
+ ( a + b ) / c = x1
+x1 - x2 = a
+x1 * x2 = a
+question
+null
+x1 = a * x2
+a + x1 - x2 = b
+question
+x1 + x2 = a
+x1 - x2 = a
+ ( a + b ) ^ 2 + ( c - d ) ^ 2 = x1 ^ e
+question
+null
+a * x1 = x2
+x1 - a = x2
+x1 + x2 + x3 = a
+question
+ ( a ) * ( b ) * ( c ) = x1
+null
+null
+x1 / a + x1 / b = c
+question
+null
+a * b = x1
+question
+null
+a + b - c - d + e = x1
+question
+null
+null
+x1 = ( a - b ) ^ c + d * ( e - f ) ^ g * h
+question
+null
+a = b + ( x1 - c ) * ( d ) 
+null
+null
+a / b = x1
+question
+null
+null
+a * b = x1
+ ( a - x1 ) * b = x2
+question
+ ( a / ( - b ) ) * ( c / ( - d ) ) = x1
+null
+null
+x1 + a * x2 = b
+x1 + a * x2 = b
+question
+null
+tan ( a ) = x1 / b
+question
+null
+x1 + x2 = a
+x1 + a = x2
+question
+null
+a + b / c = x1
+null
+null
+a = b * ( c ) + d * x1
+question
+null
+null
+a / ( b + c + d ) = x1
+a * x1 = x2
+question
+null
+x1 + x2 + x3 = a
+x1 = a * x2 + b
+x1 = a * x2 - b
+question
+null
+null
+a * ( x1 + x2 ) = b
+a * ( x1 - x2 ) = b
+question
+null
+null
+a * b * c = x1
+question
+null
+a * b * c * d * e = x1
+null
+a + b * x1 = c + d * x1
+question
+null
+null
+ ( a + x1 ) / b = c && d - e = x1 / x2
+question
+null
+a * x1 + b * x2 = c && x1 + x2 = d
+x1 + x2 = a
+question
+null
+ ( a - b ) ^ 2 + ( - c - d ) ^ 2 = x1 ^ e
+question
+null
+null
+x1 + x2 = a && b * x1 + c * x2 = d
+x1 + x2 = a
+question
+a / x1 = b / ( c ) 
+question
+null
+a * ( b + c ) ^ x1 = d
+question
+null
+null
+a / b = x1
+null
+null
+a * b = x1
+question
+null
+a + b - c = x1
+x1 + a = x2
+question
+null
+x1 + x2 = a
+x1 = a * x2 + x3 && x4 = b * x3 + x2
+x1 - x2 = a
+question
+null
+null
+a = ( b / c ) * x1 * ( d ) ^ e
+a = ( b / c ) * x1 * x2 ^ d
+question
+null
+a + b + c + d = x1
+question
+null
+x1 = a * b * c
+question
+null
+a * x1 + b * x2 = c
+x1 = a * x2
+question
+null
+a * b * c = x1
+question
+null
+a = b + c - x1
+question
+null
+x1 ^ 2 = ( - a - b ) ^ 2 + ( c - d ) ^ e
+null
+a - b - c = x1
+a * x1 + b * ( c - x1 ) = d * ( e ) 
+question
+a / b = x1 / c
+null
+x1 * x1 - ( x1 - a ) * ( x1 - b ) = c
+x1 - a = x2
+x1 - a = x2
+question
+null
+null
+x1 + x2 = a
+x1 / a + b = x2
+question
+null
+null
+a - b = x1
+question
+null
+question
+ ( x1 - a ) / ( b - c ) = d
+a * b * c = x1
+question
+null
+a / b = x1 / c
+null
+a / b = x1 / c
+question
+null
+a * x1 = b * x2
+x1 + a = x2
+question
+null
+a + b * x1 = c + d * x1
+question
+a / b = x1 / c
+question
+null
+x1 - a = x2
+x1 * x2 = a
+question
+null
+a * b * c * d = x1 && x1 / e = x2 && f - x2 = x3
+null
+ ( a / b ) = ( c / x1 ) 
+x1 + x2 = a
+x1 - x2 = a
+null
+ ( a ) * ( b ) = x1
+ ( a ) * ( b ) * ( c ) = x1
+null
+null
+a - x1 = x2
+a * x1 + b * x2 = c
+question
+null
+null
+x1 / ( a * b * c ) = d
+question
+null
+a + b = x1 && c / x1 = x2 && x2 * d = x3
+question
+null
+a * ( b ) / ( c + x1 ) = d
+null
+tan ( a ) = b / x1
+question
+null
+a * b * c * d = x1
+question
+null
+null
+a * x1 + b * x2 = c && x1 + x2 = d
+x1 + x2 = a
+question
+x1 = a / ( b / c ) 
+null
+x1 - x2 = a
+ ( x1 + x2 ) / a = b
+question
+null
+a + b * x1 = c + d * x1
+question
+ ( a * b * c * d * e ) / f ^ g = x1
+a / b = x1 / c
+null
+x1 = a ^ 2 * b ^ 2 * c ^ d
+question
+a / b = c / x1
+null
+x1 - a = x2
+a / x1 = b / x2
+question
+null
+null
+a * x1 + b * x2 = c
+x1 + a = x2
+null
+null
+x1 ^ 2 = a ^ 2 + ( b / c ) ^ d
+x1 * a = x2
+question
+null
+x1 + a * x1 + b * c + d = e
+question
+null
+a / b * c = x1
+null
+null
+a / b = x1 / x2
+a - b = c * ( x1 + x2 ) 
+question
+null
+a * b = x1
+a * b = x1
+question
+null
+null
+x1 = ( - a - b ) / ( c - d ) && e = x1 * f + x2
+question
+question
+x1 = a / ( b - c ) 
+null
+a + b * ( c ) = x1
+question
+null
+question
+a / b = x1 / c
+null
+null
+a * b + c = x1
+question
+null
+a * x1 = x2
+x1 = a / x2
+x1 + x2 = a
+question
+null
+a / b + c / d = e / x1
+question
+null
+question
+a * b = x1
+a * b = x1
+a * b = x1
+null
+null
+a = x1 / b
+question
+x1 + x2 + x3 = a
+x1 = a * x2 + b
+x1 = x2 / a
+question
+question
+a * b = x1
+null
+a * ( x1 + x2 ) = b
+x1 = x2 + a
+question
+ ( a / b ) / ( c ) = x1
+null
+a + b + c = x1 && d + e + f = x2 && x1 * x2 = x3 && x3 - g * h = x4
+question
+null
+a * b + ( c - d ) * e = x1
+question
+null
+x1 = a * ( b ) ^ c
+null
+a * b = x1
+question
+null
+a * b = x1
+null
+null
+ ( a ) ^ b = x1
+null
+a * b = x1 && c * d = x2
+question
+null
+a * b = x1
+a * b * c * d = x1 && e * x1 = x2
+question
+null
+null
+a / ( b + c ) = x1
+question
+null
+a / b * ( c / d ) = x1
+null
+x1 = a + b * x2
+a * x1 + b * x2 = c
+question
+null
+question
+a / b = x1
+a / b = x1
+null
+a - b / c = x1
+null
+x1 + x2 = a
+a * x1 + b * x2 = c
+question
+null
+ ( x1 + x2 ) / a = b
+ ( x1 + x2 ) / a = b
+ ( x1 + x2 ) / a = b
+question
+ ( a / b ) = x1
+aozfor$b
+question
+a * b = x1
+question
+null
+x1 - a * x2 = - b
+x1 - a * x2 = b
+question
+null
+ ( a / b ) * ( c / d ) = x1 && x1 * e = x2
+null
+a - b = x1
+question
+null
+a / b = x1 / c
+question
+null
+a / b = x1 * c
+null
+null
+a * x1 = b && ( c + d + e ) * x1 = x2
+null
+x1 + x2 = a
+x1 - x2 = a
+question
+null
+ ( a - b ) / c = x1
+question
+question
+a ^ 2 = b ^ 2 + x1 ^ 2 - c * d * x1 * cos ( e ) && x2 = f / g * h * x1 * sin ( i ) 
+null
+null
+x1 - a = x2 + b
+a * ( x1 - b ) = x2 + c
+question
+null
+x1 = a / b && ( c - d / e ) ^ x1 = x2
+null
+x1 = a * ( b + x1 ) 
+null
+null
+a * b = x1 && c * d = x2 && e * f = x3
+null
+x1 = a + b * ( c * d - e ) 
+null
+ ( a - ( - b ) ) / ( - c - ( - d ) ) = x1 && - e / x1 = x2
+null
+null
+a * ( b ) ^ c = x1
+question
+null
+a * b * c = x1
+question
+null
+x1 = a / b * c / d
+question
+null
+x1 = a * b
+null
+ ( a + b ) * x1 - ( c - d ) * x1 = e
+question
+x1 = a / b - c / d
+null
+a / b * c / d * e / f * g / h * i / j = x1
+question
+null
+x1 = a * x2
+x1 - a = x2
+question
+null
+null
+a / b = x1
+a * x1 = x2
+question
+null
+null
+a * b = x1
+x1 = x2 * a
+question
+null
+null
+a * b / c = x1 && d - e = x2
+question
+null
+a * x1 + x2 = b
+x1 = x2 + a
+question
+null
+a * x1 + x2 = b
+a * x1 + b * x2 = c
+question
+null
+ ( a ) ^ 2 * sqrt ( b ) / ( c ) * ( d ) = x1
+null
+question
+a * ( b ) + c * ( d ) + e * ( f ) + g * ( h ) = x1
+null
+null
+a ^ b = x1
+null
+a - b * c = x1
+question
+a * b = x1
+null
+null
+a * b / c = x1
+null
+a - b = x1
+null
+a = x1 && b = x2 && c = x3
+null
+a / b * c / d * e / f * g / h * i / j = x1 && k / l = x2
+null
+x1 - x2 = a
+a * x1 = b * x2
+question
+null
+a * x1 + x2 = b && x1 + x2 = c - d
+question
+null
+a * x1 = x2 && b * x1 = x3 && c * x1 = d
+question
+null
+question
+a * b = x1
+null
+null
+question
+a * b + c * d + e * f = x1 && g + h + i = x2 && x1 / x2 = x3
+null
+null
+a / b = x1
+null
+a * ( b - c ) = x1
+null
+a * b * c * d = x1
+a * b = x1
+question
+null
+a / b + c / d - e / f = x1 && x1 + g - h = x2
+question
+null
+a * x1 + b * x2 = c
+question
+x1 + x2 = a
+null
+x1 ^ 2 + ( x1 - a ) ^ 2 = ( x1 + b ) ^ c
+question
+null
+null
+a - b = x1 && x1 / c = x2
+null
+null
+a * b = x1
+null
+x1 + x2 = a
+a * x1 + b * x2 = c
+question
+null
+a * x1 + b * x2 = c * d && x1 + x2 = e
+x1 + x2 = a
+null
+x1 = a * x2 - b
+x1 * x2 = a
+null
+a * b = x1 && c * d = x2 && x3 = x1 / x2
+null
+a * b = x1
+question
+null
+a - b = x1
+x1 * a = x2
+question
+null
+ ( a * b ) / ( c * d ) = x1
+null
+a * ( b - c ) + d = x1
+null
+null
+a + x1 = x2
+a * b = x1
+question
+null
+x1 + x2 = a
+x1 * a + x2 * b = c
+question
+x1 + x2 = a
+x1 = a * x2
+question
+null
+null
+a * b * c * ( d + e ) - f = x1
+null
+a * ( x1 + b ) + c * ( x1 - d ) = e
+question
+null
+a / b = x1
+a * x1 + b = x2
+question
+a / b = x1 / c
+null
+x1 = a * b * c
+x1 = a * b * x2 && x3 = c * d * x2
+question
+null
+null
+a * x1 + b * x2 = c * d && x1 + x2 = e
+x1 + x2 = a
+question
+x1 * a / b = c
+question
+a ^ 2 + b ^ 2 = x1 ^ c
+null
+a * x1 + b * ( c - x1 ) = d
+question
+null
+a * ( b / c ) = x1
+question
+null
+x1 = a * x2
+x1 * a + x2 * b = c
+question
+a * b = x1
+null
+null
+a + b + c = x1
+question
+null
+a * b = x1 && c * x2 = x1
+null
+x1 + x2 + x3 = a
+a * x1 + b * x2 = c
+question
+null
+a ^ 2 + b ^ 2 = x1 ^ c
+null
+null
+a * b = x1 && c + d + e + f = x2
+question
+null
+a * b - c * x1 = d
+question
+a * b * c = x1
+question
+null
+null
+ ( a ) * ( b ) * ( c ) = x1
+question
+null
+x1 = x2 - a
+a * x1 + b * x2 = c
+question
+null
+a * b = x1
+a / x1 = x2
+question
+null
+a * b / c = x1 * d / e
+null
+null
+a / b = x1
+null
+null
+a = ( x1 - ( - b ) ) / ( c - d ) 
+a / b = x1
+question
+null
+null
+a * x1 + b * x2 = c
+x1 * x2 = a
+null
+x1 + a * x2 = b
+x1 + a * x2 = b
+question
+x1 = ( - a - b ) / ( c - ( - d ) ) 
+null
+null
+ - a - ( - b ) = x1 && - c + ( - d ) = x2
+null
+a * b = x1
+a - x1 = x2 && x2 * b = x3
+question
+null
+a * b * c = x1
+question
+null
+null
+a / b * c / d = x1
+question
+null
+null
+a * b * c * d = x1
+question
+null
+null
+a - b = x1 && x1 / c = x2
+null
+null
+a = x1 * ( b + c ) ^ ( d ) 
+question
+null
+a / ( b - c ) = x1
+question
+null
+a / b = x1 && c / d = x2
+null
+null
+a / b = c / x1
+null
+a / b = x1
+question
+null
+question
+ ( x1 - ( - a ) ) / ( - b - c ) = d
+null
+ ( a + b ) / c = x1
+x1 * a = x2
+question
+null
+a * b = x1
+a * b * c * d = x1 && e * x1 = x2
+question
+null
+a / x1 = b / c + d / e + f / g
+question
+a * b * c = x1
+null
+x1 = a / b * c && x2 = x1 / d && x2 = x1 / ( e - x2 ) 
+question
+null
+x1 = ( - a / b ) * x2 + c && x1 = ( d / e ) * x2
+null
+null
+a * b = c * x1
+null
+x1 = a * b + c * d + e * f
+question
+a * b = x1
+x1 * a = x2 && ( b + x3 ) * ( c + x3 ) = x2
+question
+null
+a + b = x1 && x1 / c = x2 && d + e = x3 && x3 / f = x4
+null
+a = x1 * b
+question
+null
+x1 = a * x2
+x1 + a = b * ( x2 + c ) 
+question
+null
+null
+a / b * c = x1
+question
+null
+a * b = c * x1
+null
+a / ( b + c ) = x1
+null
+null
+x1 + a ) * ( x2 + b ) = c
+a * x1 * x2 = b
+question
+null
+null
+a * ( b ) = x1
+question
+a / b * ( x1 - c ) = d * ( x1 + e ) 
+question
+null
+a / b = x1 && x1 * c = x2 && d * x1 = x3
+question
+null
+null
+ ( a - b ) / c = x1 && ( d * e ) = x2
+question
+null
+a * x1 + b * x2 = c
+a * x1 + b * x2 = c
+question
+ ( a + b ) / c = x1
+a * x1 + b = c * x1
+question
+null
+a * b = x1
+a + b - c * x1 = d
+question
+null
+a * b = x1 && x1 + c = x2
+question
+null
+ ( a - b ) / c = x1
+question
+a / b = x1
+null
+null
+ ( a / b ) * ( c / d ) = x1
+question
+null
+null
+a / b * c = x1 && x2 - d + e = f
+question
+a ^ ( b / c ) * d ^ ( e / f ) = x1
+null
+x1 + x2 = a
+a * x1 + b * x2 = c
+null
+x1 = a / b
+null
+null
+a * b + c * x1 = d * e + f * x1
+null
+null
+x1 / a + x1 / b = c
+question
+null
+a * b * c * d * e = x1 && f * g * h * i * j = x2 && x2 / x1 = x3
+null
+null
+a * b + c * d = x1
+question
+null
+a / b = c / x1 && d + x1 = x2
+ ( a / b ) * ( c ^ d - e ) + f = x1 && x1 * ( g ^ h - i ) + j = x2 && x1 * k + l = x3
+null
+a * ( b - c ) = x1
+x1 * ( a - b ) = x2
+question
+x1 = a * x2
+x1 + a = b * ( x2 + c ) 
+question
+null
+question
+ ( a * b + c * d + e * f ) / g = x1
+null
+a / b * c = x1
+null
+null
+a * x1 = b * x2 && c * x2 + d * x1 = e
+null
+a = x1 * ( b / c ) + x1 * ( d / e ) 
+question
+null
+null
+a / b = c / x1
+question
+null
+a + b * x1 = c * x1
+question
+null
+a ^ 2 + b ^ 2 = x1 ^ c
+question
+a ^ b / c ^ d = x1
+null
+a / b + c / d = e / x1
+question
+null
+a = b * ( c + x1 ) / d
+question
+ ( a / b ) * x1 = c
+question
+null
+a = x1 * x2 && b * x1 + c * x2 = d
+a * b / c * x1 = d
+question
+null
+a * ( x1 + b ) + c * ( x1 + d ) = e
+question
+a = x1
+question
+null
+null
+a * b = x1
+null
+null
+a * x1 + b * x2 = c * d && x1 + x2 = e
+x1 + x2 = a
+a * b * c = x1
+null
+null
+a / b = x1 / c
+question
+null
+null
+a / b = c / x1
+null
+a * b = x1
+question
+null
+null
+a * x1 + b * x2 = c
+x1 + x2 = a
+question
+null
+null
+ ( a / b ) + ( c / d ) = x1
+null
+a + b - c + d = x1
+null
+null
+ ( a / b ) / ( c / d ) = x1
+null
+question
+a * b * c = x1 && d * ( e * f ) = x2 && g * ( h * i ) = x3 && j * ( k * l ) = x4 && x2 + x3 + x4 = x5
+null
+null
+x1 + x1 + a + x1 + b = c
+null
+null
+a / b = x1 / c
+null
+null
+x1 + x2 = a && b * x1 + c * x2 = d
+x1 + x2 = a
+question
+null
+a = b / ( x1 + c ) + d / ( x1 - e ) 
+question
+null
+a * x1 - b = c * x2 && d * x1 = e - f * x2
+question
+null
+a * b * c * d = x1
+null
+a * x1 = b
+null
+null
+a * b = x1 && c * x1 = x2
+question
+null
+question
+a * b ^ c * d * e ^ 2 = x1
+null
+null
+a * x1 + b * x2 = c && x1 + x2 = d
+x1 + x2 = a
+question
+null
+null
+a / b = x1 && x1 * c = x2
+question
+null
+null
+a = x1
+null
+null
+ ( x1 + a ) / ( x1 + x1 + b ) = c && x1 + x1 + d = x2
+question
+null
+x1 = ( - a - ( - b ) ) / ( c - ( - d ) ) 
+null
+x1 = a * b * c && x2 = d * e / f * g / h && x3 = x1 + x2
+question
+null
+x1 + x2 = a && b * x1 + c * x2 = d
+x1 + x2 = a
+question
+null
+ ( a + b ) * x1 = c + d
+question
+null
+null
+x1 + x2 = a && b * x1 + c * x2 = d
+question
+null
+null
+a + b * x1 = c * x1
+question
+null
+a * b * c = x1 && x2 = d * e * f + g * h * i + j * k
+question
+null
+a * x1 = x2
+x1 * x2 = a
+question
+null
+a / b = x1
+question
+null
+null
+a / b = x1
+question
+null
+null
+ ( a - b ) * x1 = c
+question
+null
+null
+a * x1 + b * x1 + c * x1 = d
+question
+null
+question
+ ( a / b ) / c = x1
+null
+null
+x1 + x2 = a && b * x1 + c * x2 = d
+x1 + x2 = a
+question
+null
+x1 = x2 - a && x1 = b * x2 && x2 = c * x3
+null
+null
+a - b = x1
+question
+null
+null
+a * b = x1
+ - a * x1 ^ 2 + b * x1 + c = d
+question
+null
+a = b * ( c + x1 ) 
+null
+ ( x1 ) / ( a ) = b / c
+question
+null
+a * b / c = x1 && d / e = x2 && x2 / f = x3 && x3 * g = x4 && x1 - x4 = x5
+question
+null
+a * x1 = b * x1 + c
+question
+null
+a * b = x1 && c * d = x2 && e * f = x3 && ( x2 + x3 ) / x1 = x4
+question
+null
+x1 = x2 + a && x3 = x1 + b
+x1 ^ 2 - x2 ^ 2 = a
+question
+null
+a * b = x1 && c * d = x2 && x1 - x2 = x3
+question
+null
+null
+a * x1 = b * ( x1 + c ) 
+question
+a + b * x1 = c * x1 - d
+null
+a + b + c = x1 && x1 / d = x2
+a / x1 + b / ( x1 + c ) = d / e
+question
+null
+a / b = x1
+a * b = x1
+a * b = x1
+null
+a * b = x1 && c / x1 = x2
+question
+null
+ ( a / b ) ^ c = d / x1
+question
+null
+a / b = x1 && c / d = x2 && x1 * e + x2 * f + g / h * ( - i ) = x3 && - x3 = x4
+question
+null
+a * x1 + b * x2 = c
+a * x1 + b * x2 = c
+question
+null
+null
+question
+x1 + a = b * x1
+x1 - a = b * ( x1 + c ) 
+question
+null
+ ( a - b ) = x1
+null
+null
+a * b = x1 && x1 - c = x2 && x2 / d = x3
+question
+a / b = x1 / c
+question
+a - b = x1 && x1 + c - d = x2 && e + f = x3
+question
+null
+a / b = x1
+null
+null
+a / b = x1
+question
+null
+null
+a / x1 = b / c + d / e
+question
+null
+null
+a + b = x1 && c - d = x2 && e + x1 + x2 = x3
+question
+null
+a / b = x1
+question
+null
+a * x1 + b * x2 = c
+a * x1 + b * x2 = c
+question
+null
+a * b = x1
+a * ( b ) = x1
+null
+null
+a - b = x1 && x1 + c = x2
+question
+null
+null
+a * ( x1 + b / c ) = d * x1 && x1 * ( e ) = x2
+question
+a * x1 = b * c
+question
+null
+a * b = ( c + d + e + x1 ) 
+question
+null
+null
+a * b = c * x1
+a * b = x1 && c * d = x2
+question
+null
+null
+a * x1 / b = c
+question
+a * b = x1
+null
+null
+ ( a + b + c + x1 ) / d = e
+null
+a + b + c + x1 = d
+question
+null
+null
+question
+x1 = ( - a - b ) / ( - c - d ) 
+x1 = ( a - b ) / ( c - x2 ) 
+null
+null
+a * ( b / c ) = x1
+a = b + c * x1 && d + e * x1 = x2
+null
+null
+x1 * x2 = a
+a * x1 + b * x2 = c
+question
+null
+null
+a * ( b / c ) = x1
+null
+x1 = a * x2 - b
+a * x1 + b * x2 = c
+question
+a - b = x1
+null
+null
+question
+ - a - b = x1 && - c - d = x2 && - e - f = x3
+a - b - c = x1 && x1 / d = x2
+null
+null
+a + b + c + d + e + f = x1
+question
+null
+a * b * c = x1 && x1 * d = x2
+a * x1 + b = c * x1 - d
+question
+null
+x1 = a / b * c * d
+null
+x1 = x2 + a
+a = ( b * x1 ) + ( c * x2 ) 
+question
+null
+x1 = a * b / ( c / d ) 
+null
+x1 + x2 = a
+a * x1 + b / c * x2 = d
+question
+x1 ^ 2 = a ^ 2 + b ^ c
+question
+null
+null
+x1 = a + b && x2 / x1 = c / d
+question
+null
+null
+a / b = x1
+question
+null
+a * x1 + b * x2 = c && x1 + x2 = d
+x1 + x2 = a
+question
+null
+null
+x1 = a * x2 + b
+a * x1 + b * x2 = c
+question
+null
+ ( a ) * x1 + b = ( c ) * x1
+question
+a * x1 + b * x2 = c
+x1 = x2 + a
+question
+x1 + a = ( b ) * ( x1 + c ) 
+question
+a / b * c = x1
+null
+a * b * c = x1
+null
+question
+x1 * x2 = a
+x1 + x2 = a
+null
+question
+a * b = x1
+null
+question
+a + b = x1
+question
+a - b = x1
+null
+a * x1 = b * x2
+x1 + x2 = a
+question
+null
+null
+x1 + x2 = a
+x1 - x2 = a
+null
+null
+a - b * c = x1 && x1 + d * e = x2
+null
+a / b = c / x1
+question
+null
+null
+a * x1 + b * x2 = c
+a * x1 + b * x2 = c
+question
+null
+null
+a / x1 = b
+question
+question
+a / b = x1
+a / b = x1
+null
+a * b = x1 && c - x1 = x2
+null
+null
+a / b = x1
+question
+a / b * c / d * e / f = x1
+question
+x1 ^ 2 = a
+question
+null
+null
+a * x1 ^ 2 = b
+question
+null
+ ( a - b ) / ( c - d ) = x1
+question
+null
+a + b + c = x1
+a / b = x1 / c
+question
+null
+x1 = a * b * c
+question
+null
+ ( a / b ) * ( c / d ) = x1
+question
+null
+null
+a + b = x1
+question
+null
+a * x1 + b = c
+question
+null
+a * b = x1
+null
+a = x1
+null
+a / b = x1
+x1 = ( a * b ) / c
+question
+null
+null
+a * x1 + b * x2 = c && x1 + x2 = d
+x1 + x2 = a
+question
+null
+null
+a * b = x1
+null
+a * b + c * d = x1
+question
+null
+a - b = x1 && x1 * c * d = x2
+question
+null
+null
+a * x1 + b = c * x1 - d
+question
+ ( a - b ) / ( c - ( - d ) ) = x1 && e = f * ( - g ) + x2
+null
+a * x1 + b * x2 = c
+a * x1 + b * x2 = c
+question
+null
+null
+a - b = x1 && c * x2 = x1 && x3 = d + e + f
+null
+null
+a = b / x1 && c / d = x2
+a / ( b * c ) = x1
+question
+null
+a + b * ( c ) = x1
+question
+null
+a * x1 + x2 + b * x3 = c && x1 + x2 + x3 = d
+question
+a + b + c + d + e + f = x1 && x1 / g = x2 && h / i * j / k = x3
+a * b = x1
+null
+null
+a * b * c * d * e * f = x1
+question
+a * b = x1
+null
+null
+a - b = x1 && x2 * x1 = c
+question
+a / x1 = b / c
+null
+ ( a / b ) * c = x1
+question
+a / b + c / d = e / x1
+question
+null
+x1 = x2 + a
+x1 + x2 = a
+question
+a * b = x1
+null
+x1 = a * b && c - x1 = x2
+null
+a / ( b / c ) = x1 / ( d ) 
+a / b = x1
+question
+null
+null
+a * ( b * c ) = x1
+question
+a * b = x1 && c - x1 = x2
+null
+null
+a * b = x1
+null
+a / b = x1
+question
+a * x1 + b * x2 = c && x1 + x2 = d
+x1 + x2 = a
+question
+x1 + x2 = a
+a * x1 - b * x2 = c
+question
+x1 = a * b && c * d / x1 = x2 && e * f / x1 = x3
+question
+a / b = x1
+question
+a * b * c = x1 && d * e = x2 && x1 + x2 + f = x3
+null
+a * x1 + b * x1 + c = x1
+question
+null
+null
+x1 + x2 = a * b
+a + b + c + d + e + f + g = x1
+question
+null
+a * x1 + ( b * c ) = d * ( x1 + e ) 
+null
+null
+a / ( x1 + x2 ) = b && c / ( x1 - x2 ) = d
+question
+null
+a / b = x1
+null
+a * b = x1 && c / x1 = x2
+a + b + c = x1
+null
+null
+x1 + x2 = a
+a * x1 + b * x2 = c
+question
+a / b = x1
+null
+a / b = x1
+question
+null
+ ( a - b ) / ( c - d ) = x1
+null
+ ( a / b ) * c * d = x1
+null
+null
+a * x1 = b * x2
+a * x1 = b * x2
+question
+a * b = x1 && c * d = x2 && e * f = x3
+null
+a + b + c = x1 && x2 = ( d / e ) * ( f / g ) + ( h / i ) * ( j / k ) + ( l / m ) * ( n / o ) 
+question
+a * b = x1
+null
+a * b * c + d * e * f = x1
+question
+null
+a * b = x1
+null
+a * x1 = x2
+x1 = a - x2
+question
+null
+a / b + ( c / d ) * ( e ) = x1 && x1 / f = x2
+question
+a / b = x1 && c + x1 = x2 && d - x2 = x3
+x1 = ( a - b ) * ( c - d ) 
+null
+null
+a + b * x1 = c + d * x1
+question
+x1 = a * b * c
+question
+question
+ ( a + b ) / c = x1
+ ( a + b ) / c = x1
+ ( a + b ) / c = x1
+null
+a * b + c * d = x1
+null
+null
+null
+null
+null
+a * x1 = b * x1 + c
+question
+null
+a ^ 2 = b ^ 2 + c ^ 2 - d * e * f * x1 && x2 = ( g / h ) * i * j
+question
+null
+null
+a * b = x1
+question
+null
+x1 = ( a * b + c ) / d
+question
+null
+a = b * x1
+question
+null
+a + b * x1 = c * x1
+question
+null
+null
+x1 * x1 = a
+question
+null
+a * x1 ^ 2 = b
+question
+null
+null
+a * ( b ) = x1
+question
+null
+a * x1 = b
+null
+a * b = x1
+a / b = x1
+question
+null
+a * x1 + b * x2 = c && x1 + x2 = d
+x1 + x2 = a
+question
+x1 = a ^ b
+a * x1 = x2
+question
+null
+null
+a * x1 + b * x2 = c
+a * x1 + b * x2 = c
+question
+null
+a * b * c = x1
+question
+null
+x1 + x2 = a
+x1 / x2 = a / b
+question
+null
+x1 = a + b
+question
+x1 = a / ( b ) 
+x1 = a * b ^ c
+a * ( x1 + x2 ) = b
+x1 - x2 = a
+question
+a * ( b - x1 ) = c
+question
+x1 = a * ( b + c ) ^ d
+a / b + c / x1 = d / e
+x1 + x2 + x3 = a && b * x1 + c * x2 + x3 = d
+question
+x1 = a / ( b√c ) 
+x1 / a + x1 / b = c
+question
+x1 / a + b + c = d && x2 - e + f + x1 / g = h && x3 - i + x1 / j = k
+question
+tana° = ( b - c ) / x1
+question
+x1 + x2 = a && b * x1 = c * d
+x1 + x2 = a
+a / ( x1 + b ) + c / ( d - x1 ) = e + f / g
+question
+x1 = ( a - b ) ^ 2 / c ^ d
+x1 ^ 2 = ( a + b ) ^ 2 + ( c + d ) ^ e
+x1 - x2 = a
+x1 * x2 = ( x1 + a ) * ( x2 - b ) 
+question
+x1 = a * b
+x1 = a * b * c
+a * x1 = b * ( c / d ) 
+ ( x1 - a ) / x1 = b / ( c * tand° ) 
+null
+x1 = a * b * c + d * ( e + f ) * g
+x1 / a = b / ( c ) 
+null
+null
+x1 = a / b && x2 = c / d
+x1 / a = ( b / c ) ^ d
+x1 = a * b * c * d ^ e
+a * ( b - c ) ^ x1 = d
+x1 ^ 2 = a ^ 2 + b ^ c
+x1 = a * b * c + d * e * ( f ^ 2 + g ^ 2 ) ^ ( h / i ) + j * k * l ^ m
+null
+x1 + a * x2 = b && x1 + c * x2 = d
+x1 + a * x2 = b
+question
+x1 / a - x1 / b = c
+question
+a / x1 + b / ( x1 + c ) = d
+x1 = a * b * c / d
+x1 = a / b * ( c - d ) / ( e - f ) 
+x1 = ( a + b ) * ( c - d ) / e
+x1 = ( a + b ) / c
+x1 = a * b * c
+x1 = a! / ( b! * c! ) + d * e! / ( f! * g! ) 
+x1 * ( x1 + a ) + b = ( x1 + c ) ^ d
+x1 = a * b
+x1 = ( a - b ) ^ c * ( d ) ^ e * f! / ( g! * h! ) 
+x1 = a * ( b * c ) / d + e * ( f * g / h ) / i
+null
+ ( x1 - a ) / b - c - d ) / e - f = g
+null
+x1 + x2 = a && b * x1 + c * x2 = d
+x1 + x2 = a
+question
+null
+a * x1 - b * x1 = c
+x1 = x2 - a
+x1 + x2 = a
+x1 - x2 = a
+question
+a / x1 = b / c
+question
+a * x1 + b * ( c - x1 ) = d
+a = x1 * ( b + c ) ^ d
+x1 = a * b * c * d / e
+a * x1 / b - c * x1 / d = e
+x1 + x2 = a && b * x1 + c * x2 = d
+question
+x1 = a - b * c
+x1 = a / b * c ^ 2 * d
+null
+a * x1 = b * c + d * e + f * g
+x1 = a * b
+ ( x1 - a ) / ( x1 + b - c ) = ( x1 + d - e ) / ( f * x1 + g * h ) 
+x1 * ( a - b ) * ( c - d ) * ( e - f ) * ( g - h ) * ( i - j ) = k
+question
+x1 + a * b = c * ( x1 + d ) 
+x1 = a * ( b - c ) 
+x1 + x2 + x3 = a && b * x1 = x2
+a * x1 = x2
+a * x1 + b * x2 + c * x3 = d
+question
+x1 = ( a - b ) / ( c / d ) 
+null
+x1 = a * b
+ ( x1 + a ) ^ 2 = b ^ 2 + c ^ d
+question
+a * x1 - b * x1 = c * d
+x1 = a * b / c
+x1 = a * ( b - c ) + d
+a * x1 * b = c
+x1 - a = x2
+x1 ^ 2 + x2 ^ 2 = a ^ b
+question
+a / x1 = b * c / d
+x1 + x2 = a && x1 / b + x2 / c = d
+x1 / a + x2 / b = c
+ - a / x1 = ( - b + c ) / ( d - e ) 
+x1 = a ^ b
+x1 + x2 = a && b * x1 + c * x2 = d
+x1 + x2 = a
+x1 + x2 = a && b * x1 + c * x2 = d
+x1 + x2 = a
+a / x1 = b / c + d / e
+x1 = a * b + c * d * e + f * g * h ^ 2 + i * j * k ^ l
+x1 = a * b * c
+x1 + x2 = a && b * x1 + c * x2 = d
+x1 + x2 = a
+x1 + a * x1 = b
+a * x1 + b * ( c - x1 ) = d
+ ( a ) ^ 2 / x1 = b
+x1 = a / b / ( - c ) 
+x1 = a / b
+null
+a * x1 + b = x2
+a * ( x1 + x2 ) = b
+x1 = a * x2 + b
+x1 - x2 = a
+a / b * ( c / d + x1 ) + x1 / e = f
+x1 / a = b / c
+x1 = a * b + c * d
+x1 = a * b + c * ( d * e * f + g * h * i * j ) 
+a * ( b + x1 ) = c
+x1 = a * b * c
+x1 = a * b * c / ( d! ) * e! / ( f! * g! ) / ( h! / ( i! * j! ) 
+a * ( x1 + x1 + b ) = c
+a * b = c * x1 + d + e + f
+a * x1 = b * c + d + e + f
+a * x1 + b * x2 = c
+a * x1 + b * x2 = c
+question
+x1 = a * b + c - d
+a + b * x1 = c + d * x1
+x1 ^ 2 = ( a - b / √c ) ^ 2 + ( d - e / √f ) ^ g
+x1 = a * b / c && x2 = d * e
+x1 = a * b / c
+x1 / a = b / c
+a * ( b + c / d ) ^ ( e * x1 ) = f
+x1 = a * b / c
+x1 = ( a - b ) / c
+a * x1 = x1 + b
+x1 / ( a - b ) = c / d
+ ( a + b ) * c / d * x1 = e + f
+x1 = a * b * c * d / ( e * f * g ) * h ^ i * j ^ k
+x1 = a√b + c * √d
+x1 = a / ( b + c ) 
+a / x1 = ( b - c - d - e - f ) * g
+x1 = a * ( b * c + d * e ^ 2 + f * g ^ h
+null
+x1 = a / b
+x1 + a + b * c = d * e
+x1 = a * b / c + d * e / f - g * ( h - i / j - k / l ) 
+x1 = a * b
+a * ( b + x1 ) ^ ( c * d / e ) = f
+x1 = a * b * c
+a * x1 + b * x1 = c
+a * x1 + b * x2 = c && d * x1 + e * x2 = f
+null
+x1y = a && x1 - b = c * x1
+xy = a
+question
+x1 / a = b / c
+a / x1 = b / c
+x1 + x2 = a && b * x1 + c * x2 = d
+x1 = a - b - c
+x1 = ( a / b ) / ( c / d ) 
+ ( x1 / ( a + b ) ) ^ 2 = c / d
+x1 = a * b - c * d
+x1 + a * b = c * ( x1 + d ) 
+x1 = a - ( b + c ) 
+a / b + c / d + e / f = g / x1
+x1 / a = b / c
+a * x1 = b - c * d
+x1 = a * b / c * ( d ) ^ 2 * ( e - f ) ^ g
+x1 ^ 2 = ( a / tanb° ) ^ 2 + c ^ 2 && x2 + d + e = f
+x1 = a * b
+x1 = a * b
+a * x1 + b * c = d * ( x1 + e ) 
+x1 + x2 = a && b * x1 + c * x2 = d * e
+a / x1 - b / ( x1 + c ) = d / e && x2 = f / x1
+x1 = a / b * c / d
+x1 / a = tanb
+null
+x1 = ( ( a + b + c ) * d / e + f + g ) / h
+a * x1 / b + c = d * x1 / e
+x1 = a / ( b + c + d ) 
+x1 = a / b
+a * x1 + b * x2 = c && d * x1 + e * x2 = f
+a * x1 + b * ( c - x1 ) = d
+x1 = a * b / ( c * d ) * e
+x1 = a * ( b - c ) 
+x1 ^ 2 = a ^ 2 + b ^ 2 - c * d * ecosf
+tana° = x1 / b
+x1 = ( a ) ^ ( b ) 
+x1 = a / ( b + c ) * d
+x1 = a * b
+x1 = a / b * c / d * e / f
+x1 = a / ( b + c + d ) 
+x1 = a * b / c * d * e * f / ( g * h * i ) * j!
+x1 = a * ( b + c ) 
+a * x1 / b = c
+a / b = x1 / c
+x1 = a * b / c && x2 = d * x1
+x1 = a * b / c
+a + b * x1 = c + d * x1
+x1 = a * b * c
+x1 = a * b * c
+x1 + x1 + a + x1 + b - c = d
+ ( a * b + c ) * x1 = d , x2 = e / ( x1 - f ) 
+x1 = a / b
+a * b = c * x1
+ ( a * x1 + b ) * ( x1 + c ) = d + e * x1 ^ f
+x1 = a * b + c * d / e
+x1 = a / b * c
+x1 = ( a + b + c + d + e ) / f
+x1 = ( ( a / b ) ^ 2 + ( c / d ) ^ 2 ) ^ ( e / f ) 
+x1 = a * b * c
+a * ( ( b * x1 - c ) + ( d * x1 - e ) ) = f && x2 = g * x1 - h
+x1 = a * x2 - b
+question
+x1 = a / b * c * d ^ e
+B + C - A = a
+A + C - B = a
+question
+x1 = a * b * c * d
+a = b + c * x1 * d / e
+x1 = a ^ ( b / c ) 
+x1 = a / b * x2
+x1 = x2 - a
+question
+x1 = - a * ( - b * ( c - d ) - ( e ) ^ f ) - g
+a * ( b + x1 ) ^ 2 = c
+x1 = a * b * c * d
+x1 = ( - a - b ) / ( c - ( - d ) ) 
+x1 = a + b * c * d
+a ^ 2 = x1 ^ 2 + b ^ c
+x1 + x2 = a
+ ( a - b ) * ( c * x1 + x2 ) = d / e
+question
+a * x1 + b = c - d * x1
+x1 = a ^ ( b / c ) * d ^ ( e / f ) 
+x1 + x2 = a && b * x1 + c * x2 = d * e
+question
+x1 = a / b * c
+x1 = a / b * c * ( d + e + f ) 
+x1 = ( a - b ) / ( c - d ) 
+x1 = tana° * b / c && x2 = d / e * x1 * f
+x1 = tana° * b / c
+x1 = a / ( b + c ) * d && x2 = e / ( f + g ) * h
+x1 = ( a + b + c ) * d / e
+x1 = a * b * c / d
+x1 = a * b / ( c * d ) + e * f / ( g * h ) 
+ ( x1 + a + b + c + d + e ) / f = g
+null
+a / ( x1 - b ) = c / ( x1 + d ) 
+ ( a - b * x1 ) * x2 = c
+ ( a - x1 ) * x2 = b
+question
+x1 + x2 = a && b * x1 + c * x2 = d * e
+a * x1 + b * x2 = c * d && x1 + x2 = e
+x1 = ( - a - b ) / ( - c - d ) 
+a * b = c * x1
+x1 = a / ( b + c ) 
+C = ( a - b ) * c / d
+x1 = a - b && x2 = c - d
+ ( a + x1 ) - b * c = d
+a * x1 = b - c * d
+a - b = c * ( x1 ^ 2 ) && d = e * f * x1 * x2
+question
+x1 = a * b * c
+a + b * x1 = c * x1
+x1 = a * b / c
+a - x1 + b - x1 = c
+a * x1 + b + c = d && x2 = x1 + e && x3 = x2 + f
+x1 = x2 + a && x3 = x1 + b
+x1 = a * b
+a * x1 - b * x1 = c
+x1 / a = b / c
+x1 = ( - a - b ) / c && x2 = ( d + e ) / f
+a = b * ( c + d ) ^ x1
+x1 = a / b
+x1 / a = b / c && x2 = x1 + d
+x1 + x2 = a && x1 - x2 = b
+x1 + x2 = a
+question
+ ( a - x1 ) / ( b - x2 ) = ( c - d ) / ( e - ( - f ) ) && ( g - x1 ) / ( - h - x2 ) = ( i - j ) / ( k - l ) 
+x1 = a * b * c
+a = b * x1
+x1 = a / b
+x1 = a * b * ( c ^ d ) / e / f / g
+null
+x1 = a ^ b
+null
+x1 = a * b * c
+x1 = a ^ ( b / c ) - d
+x1 = a * ( b / c ) 
+x1 = a * b * c
+x1 = a * ( b + c ) ^ d
+x1 = a / b * c / d * e / f
+x1 = ( - a ) ^ b
+x1 = a! / b!
+x1 = a / ( b + c ) * d
+ ( a + x1 ) * b / c = d
+x1 + x2 = a
+a = b * x1 + c * x2
+null
+question
+a / b * x1 + x2 = c && d / e * x1 + f / g * x2 = h
+a / b * x1 + x2 = c
+x1 ^ 2 + x2 ^ 2 = a ^ b
+x1 + x2 = a
+ ( a + b * x1 ) * x1 = c
+x1 = a / b * c
+x1 = cos ( a ) * b && x2 = sin ( c ) * d && x3 = e / f * g * x1 ^ 2 * x2
+x1 = a / b
+x1 = a - b
+x1 = a * b
+x1 = a * b * c
+x1 / a = b / c
+x1 = sin ( a° ) + sin ( b° ) + sin ( c° ) + sin ( d° ) 
+x1 = a / b * c
+x1 = a / ( b + c ) 
+a = ( b + c ) * x1
+a * b = c * x1
+x1 + x2 = a
+x1 - x2 = a
+question
+x1 / a = b * x1 - c
+question
+x1 = a / b ^ ( c / d ) 
+x1 = a - √b
+a * ( x1 + x2 ) = b
+x1 / x2 = a / b
+question
+x1 = a / b
+a ^ 2 = x1 ^ 2 + ( b + x1 ) ^ c
+x1 = x2 + x2 + a
+x1 = a * b * c / ( d * e * f ) 
+x1 = a / b * c
+x1 = a = b
+x1 = a - ( ( b * c * d * e * f * g * h * i * j * k ) / ( l ^ m ) ) 
+null
+x1 * ( a + b * c ) * d * e = f * g * h
+x1 = a * ( b / c * d * e ) * f
+x1 = ( a / b ) * c ^ 2 * d
+question
+x1 = a + b * c
+x1 = a * ( b / c ) ^ d
+x1 + x2 = a && b * x1 + c * x2 = d
+x1 + x2 = a
+question
+x1 - a = ( b - c ) / ( - d + e ) * ( - f + g ) 
+x1 = a / b = c / d
+x1 = a * ( b - c ) 
+a / b * ( x1 + c + x1 + d ) * x1 = e
+S = ( a ^ 2 + b ^ 2 ) ^ ( c / d ) 
+x1 = a! / ( b - c ) ! / ( d! / ( e - f ) ! ) = g / h
+x1 = a - b * ( c - d ) - e * ( f - g ) - h
+x1 = a * b / c * d * e ^ ( f / g ) 
+x1 = ( a * b ) / ( c * d ) 
+a / b = c / x1
+a + b * x1 = c
+ ( x1 / a / b * c ) + x1 = d
+a / x1 + b / ( x1 * ( c + d ) ) = e + f / g
+ ( a ^ 2 ) / b = ( c ^ 2 ) / x1
+ ( x1 + a ) ^ 2 - x1 ^ 2 = b
+x1 = x2 ^ a
+x1 = a / b + c / d
+a * x1 = b + c * ( x1 + d ) 
+a * b * c * d = e * x1
+x1 = a * b + c * d
+x1 / a = b / c
+a * x1 + b * c = d * ( x1 + e ) 
+x1 = a * b / ( c * d ) 
+x1 = ( a + b + c / d ) - ( e + f / g ) 
+x1 - x2 = a / b
+x1 + x2 = a / b
+question
+a + x1 = b * c
+x1 = ( a + b ) ^ 2 - c ^ d
+x1 * ( a + ( b + c ) d ) = e
+x1 * a + b * c = d * ( e + x1 ) 
+x1 = a - ( b + c + d - e ) 
+x1 * a + ( b - x1 ) * c = d * e ) 
+x1 = a + b * c
+x1 = ( a / b ) * ( c / d ) 
+ ( a + b / c ) / ( d ) = x1 / ( e ) 
+x1 + x2 = a
+a * x1 + b * x2 = c
+x1 = a / ( b / c - d / e ) 
+question
+x1 = a * x2
+x1 + a = b + c * ( x2 + d ) 
+x1 = a * b * c * d * e
+x1 = a - b
+x1 = a - b / c * d / e * f / g * h / i * j / k
+x1 = a * b + c * d
+x1 = a * ( b + c / d ) ^ ( e * f ) - g
+x1 = pi * ( a / b / c ) ^ 2 * d
+x1 * ( a + b + c ) = d
+x1 + x2 + x3 = a
+x1 + x2 = a
+x1 + x2 = a
+question
+x1 = a - b - c - d
+x1 * a + ( x1 - b ) * c = d
+x1 + x2 = a && b * x1 + c * x2 = d
+x1 + x2 = a
+a * b = c * x1
+a * ( b - x1 ) + c * x1 = d
+x1 = ( a - b ) ^ c
+a * x1 = b
+ ( a + x1 ) * b = x2 && ( c - x1 ) * d = x2 - e
+x1 = a * ( b - c ) - d
+x1 / a = b / c
+x1 = a * ( b + c / d ) ^ ( e * f ) 
+x1 = ( a ) / ( b / c ) 
+x1 - x2 = a && x1 * x2 = b
+x1 - x2 = a
+question
+x1 * a + ( b - x1 ) * c = d
+x1 + x2 = a
+x1 = a
+a * x1 + b * x2 + c = d * x1 + e * x2
+question
+x1 + x2 = a && b * x1 + c * x2 = d
+x1 = a / b
+x1 = a * ( b + c ) * d / e
+x1 * ( a + b ) / c = d
+x1 = a * b
+x1 / a = ( b + c / d ) / e
+F + M = a && bF + cM = d
+F + M = a
+question
+x1 = a / ( b / c + d / e ) 
+a / b = ( c / d ) ^ ( x1 / e ) 
+x1 * a = b * c + d
+a * ( x1 + x1 + b ) = c
+x1 + x2 = a
+x1 = x2 - a
+x1 + x2 = a && b * x1 + c * x2 = d
+x1 + x2 = a
+x1 = a * b + c * d
+x1 = ( a + b ) / ( c + d ) 
+x1 + x2 = a
+x1 / a + x2 / b = c
+question
+x1 ^ 2 + ( a * x1 ) ^ 2 = b ^ c
+x1 = a / b
+ ( x1 + x2 ) * a / b = c && ( x1 - x2 ) * d / e = f
+ ( x1 + x2 ) * a / b = c
+question
+x1 = a + b * c + d * e * f
+x1 = a * ( - b / c ) ^ d
+ ( x1 ^ 2 - a ) / b = x1 + c
+a + b = x1 && c + d = x2 && e + f = x3 && g + h = x4 && i + j = x5 && k + l = x6
+a = x1 + x2
+a * x1 + b * x2 = c
+a - b * c = x1
+a + b + c + d + e = x1
+a * x1 + b * x1 = c * d
+a * b = x1 && x1 - ( c + d ) = x2
+ ( a - x1 ) * b + x1 = c * d
+x1 = a / b
+x1 = a + b * ( x2 - c ) 
+x1 = a + b * ( c - d ) 
+x1 / a = x2 / b && x1 + x2 = c
+x1 / a = x2 / b
+a * b ^ ( c + d ) = e
+x1 + x2 = a
+a * x1 + b * x2 = c
+question
+x1 + x2 = a && x1 / b + x2 / c = d
+question
+x1 + x2 + x3 = a && b * x1 + c * x2 + d * x3 = e
+x1 + x2 + x3 = a
+a * x1 + b * x2 + c * x3 = d
+question
+a = ( b + x1 ) * c
+question
+a * ( b ) ^ c = x1
+x1 + x2 + x3 = a
+x1 = a * x2 - b
+x1 - a = x2
+question
+a / b = x1 / c
+x1 = a * x2
+a + ( b - x1 ) = c * ( ( d - x1 ) + x2 ) 
+x1 = a + ( b - x2 ) 
+a * b = x1
+ ( a - b ) * ( c + d ) = x1
+x1 - x2 = x3
+a - ( b + c + d ) = x1 && e - x1 = x2
+x1 = a - b && x2 = c + d && x3 = e * f
+a * x1 + b * x2 = c * d && x1 + x2 = e
+x1 + x2 = a
+x1 + a = x2
+x1 + x2 = a
+null
+question
+x1 = a * ( b - c ) 
+x1 = a / b - c / d
+ ( a ) ^ x1 = b ^ ( c / d ) 
+x1 = a / b
+ ( a * x1 + b * x1 - x1 ^ 2 ) + c = ( d ) * ( e ) 
+x1 = a * b ^ c
+x1 = a * b + c * d * e * f + g * h * i * j * k
+x1 = a * b / ( c * d + e * f ) = g / h
+x1 = a * ( b / ( c + d + e ) ) - f / g = h
+x1 + x2 = a * ( x1 - x2 ) 
+x1 = a * x2 + b
+question
+a / x1 = b / ( c + x1 ) 
+a / x1 = x2
+null
+a * b / c - d * e / f = x1
+x1 = a * x2 + x3
+a * x1 + x2 = x1 * x2 + x1 + x2
+x1 = a * x2 < b
+question
+a * x1 = b * c
+a = b / c = x1 && d = e / f = x2 && g / h = x3i && j / k = x3l && m / n = x3o
+x1 ^ 2 * x2 = a
+a * b * x1 ^ 2 + c * d * x1 * x2 = x3
+question
+x1 = a + b
+a + b * x1 = c
+a / b = x1 / c
+a * x1 = b
+a = x1 * ( b ) ^ c
+question
+a * x1 + b * ( c - x1 ) = d
+null
+a * x1 + b * x1 + c * x1 = d && e * ( f / g ) = x2
+a + b = x1 && x1 * c = x2 && x2 - d = x3
+a * x1 + b * x2 = c
+x1 + x2 = a
+a / b = c / x1 && x1 / d = x2
+a = x1 * ( x2 + b / c ) && d = ( x1 + e ) * x2
+question
+ ( a - b * x1 ) * ( c + d * x1 ) = e * f
+ ( a + b + c ) - d = x1
+a * ( b ) = x1 && c / d = x2
+a * ( b ) = x1
+x1 / a = b / c
+a / b = x1
+a * x1 + b * c = d * ( e + x1 ) 
+x1 = a - b * x2
+a - b = x1
+a / b = x1
+x1 * a = x2
+a * b = x1 && c - d = x2 && x2 / e = x3
+x1 = a + b * c
+question
+a - b = x1
+a * b ^ 2 * c = x1 && x2 = ( d / e ) * f * g ^ h && x1 + x2 = i * j ^ 2 * x3
+a / b = x1 && c / d = x2
+a / b = x1
+x1 - x2 = x3
+x1 - a = b && x1 = c * x2 - d && x1 = e * ( - f ) - g
+x1 = a * x2 / b
+x1 + a * x1 / b = c
+a * b / c = x1
+a / ( b * c ) = x1
+a / b = x1
+a / b = x1
+x1 = a + b + c
+a * b = x1 && c * d * e * f = x2 && g * h * i * j * k = x3 && x1 + x2 + x3 = x4
+ ( a - b ) / c = x1
+a * ( b ) = x1 && c * x1 = x2
+x1 = a / b
+a = b / x1 + c / ( x1 - d ) && x1 - e = x2
+ ( a + b + c + d + e * x1 ) / f = x1
+x1 = a / ( b / c ) 
+a * x1 = b + c * x1
+a - b = x1 && x1 / c = x2
+ ( x1 + x2 ) ^ 2 - ( x1 - x2 ) ^ 2 = ( a * x2 ) ^ 2 - b && ( c * x2 ) ^ 2 = d
+a * b = x1 && x1 / c = x2
+x1 = a * x2 - b && c = d * x2 + e * x1
+a = b * x1 + c * x2
+a / x1 = b - c
+a ^ b = x1
+x1 + x2 = a
+x1 = a * x2 + b
+question
+x1 = a * b * c * d * e * f * g
+a * b = x1 && c * d * e * f = x2 && x2 * g = x3 && x1 + x2 + x3 = x4
+x1 - a * x1 = b
+a * b = x1 && c * d + e + f = x2
+a = ( b + x1 ) / c && - d = ( e + x2 ) / f
+a * b / c = x1
+x1 + x2 = a
+a + x1 = x2
+a / b = x1 && ( c / d ) * e = x2
+tana = x1 / b && c - d = x2
+a + b * x1 = c * x1
+a * b = x1
+ ( x1 - a ) * ( x1 + b ) = c
+question
+a * b = x1
+a / b = x1 && c + d * ( e ) = x2
+a / b = x1
+x1 = a + x2 && b * x1 + c * x2 = d
+x1 = a + x2
+question
+a ^ 2 + ( - b ) ^ 2 = x1 && c / d = x2
+a / x1 = b && c + d * e = x2
+a / b = x1 && c / d = x2 && ( x2 - x1 ) / x1 = x3
+a * b = c * x1
+a * b = x1 && c * d * e * f = x2 && x2 * g = x3 && x1 + x2 + x3 = x4
+x1 = a && b + c / ( d - ( e ) ) = x2
+a * b / c = x1
+a * x1 + b = c * x1 + d
+a * ( x1 + b ) = c * x1
+tan ( a ) = b / x1
+a / ( b * c * d * e * f * g * h ) = x1
+x1 + x2 = a && x1 / x2 = b / c
+x1 + x2 = a
+a * ( x1 - x2 ) = b * x1
+a - b - c = x1
+x1 = a * x2 - b
+a * x1 + b * x2 = c
+question
+a / b = x1 && x1 * c * d = x2
+ ( a - b ) / c = x1
+ ( a / b + c / d + e / f ) / g * h = x1
+x1 = a * b * c
+a * b * c * x1 = d
+a / b = x1
+a / b = x1
+loga + logb - logc - logd = log * ( e * f / g / h ) 
+a * ( b + x1 ) = c + d + e + f + g + x1
+x1 / a = b / c
+a / b = x1
+a / b * x1 = c / d * x2 && e * x1 + f * x1 + g + h = x1
+null
+x1 = x2 - a
+a * x1 = b * x2 - c
+question
+a * b = x1 && x1 - c = x2 && x2 / d = x3
+a * b / c = x1
+a / b = x1
+ ( a * b ) * ( c * d * e ) / ( f * g * h * i * j ) = x1
+ ( a * b + c * d ) / e = x1 && f = x2
+x1 = a * b
+a * b = x1 && c = x2 * d
+a / b = x1 && c * d = x2
+x1 = a * x2 && x3 + b = x1
+x1 = a * x2
+a * ( x1 - b ) + c * ( x3 * x3 - d ) = x3 - e
+question
+a - b = x1
+a / b = x1 / c
+question
+x1 + x1 - a + x1 - b + x1 - c = d
+x1 + x2 = a && b * x1 + c * x2 = d * e
+x1 = x2 + a
+x1 = a * x2
+x1 = a * x2
+x1 + x2 + x3 + x4 = a
+question
+x1 + x2 = a
+a * x1 + b * x2 = c
+question
+x1 = ( - a - ( - b ) ) / ( c - ( - d ) ) 
+a * ( b * x1 + c * d ) = e
+x1 + x2 = a && b * x1 + c * x2 = d * e
+a - b * c = x1
+a + b = x1 && x1 / c = x3 * x3 && x3 = ( d * x3 * x3 ) - e
+ ( √a + √b ) * ( √c - √d ) = e - f = - g
+a - ( - b ) - c - ( - d ) = x1
+a / b - c / d = x1
+a * x1 - b * x1 = c && x2 = d * x1
+a * / b = c / x1
+a * b = x1 && c * d = x2 && x1 + x2 = x3
+ ( a * x1 + b ) / c = d
+a - b * x1 = c - d
+ ( a + b + c + d + x1 ) / e = f
+x1 = a / b * ( c / d ) 
+x1 = a * x2 + b * ( x2 - c ) + d * ( x2 - e ) + f * ( x2 - g ) + h * ( x2 - ( x2 - i ) ) 
+a = b * x1 ^ 2 * ( c ) 
+x1 = a + b * c
+a * x1 + b * ( x1 + c ) = d
+a * b = x1
+a * b ^ ( - c ) = x1
+x1 = a = b / c
+x1 / x2 = a / b
+x1 - x2 = a
+question
+x1 ^ 2 + x1 ^ 2 - a * x1 * x1 * cosb = c * d
+x1 ^ 2 + a ^ 2 = b ^ c
+x1 = a * ( b ) ^ ( c / d ) 
+x1 + x2 = a && x1 = b * x2
+x1 + x2 = a
+question
+a * b = x1
+x1 = a'b
+a * x1 + b * x2 = c && x1 + x2 = d
+a * b ^ 2 + c * d ^ e + f * g ^ h = x1
+a * b ^ c + d * e ^ 2 + f * g ^ h + i * j ^ k = x1
+a * b ^ 2 + c * d ^ e + f * g ^ h = x1
+x1 = x2 + a
+x1 = x2 + a
+x1 + x2 + x3 = a
+question
+a + b * x1 = c + d * x1
+a + b * ( x1 ) = c * ( x1 ) 
+x1 = a + b + c && d * e / x1 = x2 && f * g / x1 = x3 && h * i / x1 = x4 && x2 + x3 + x4 = j
+a / ( b / c + d / e + f / g ) = x1
+x1 = a * ( b / c ) * ( d / e ) 
+a + b + c + d = x1
+a - b = x1 * ( c - d ) 
+x1 - x2 = a
+a * x1 + x2 = b * ( x1 + x2 ) + c
+question
+a * x1 + b * c = d * ( x1 + e ) 
+x1 + x2 = a && x1 * b + x2 * c = d
+x1 + x2 = a
+question
+x1 = a / b = c && x2 = d / e = f / g
+a * x1 = b && c - d = x2
+null
+a / b = x1
+a + b + c = x1 && x1 - d = x2
+a - b = x1
+null
+x1 = a / b * c / d * e / f
+x1 = a / b * c / d * e / f
+x1 = a / b * c / d * e / f
+x1 + x2 = a && b * x1 + c * x2 = d
+null
+x1 = a / b * c / d + e / f * g / h = i / j
+a + b - c = x1
+ ( a / x1 ) + b / ( x1 - c ) = d && x2 = x1 - e
+a / b = x1
+x1 = a / b && x2 = c / d + e / f && g / x2 = x3
+x1 = a / b
+a / b = x1
+a / x1 + b / x2 = c / d
+ ( a + b ) / x1 + c / x2 = d
+question
+x1 + x2 = a && ( x1 - b ) / ( x2 - c ) = d / e
+a * b = x1
+x1 = a / b
+x1 = ( a + b ) * ( ( c - d ) / e + f ) * g / h
+a * x1 = b * x2 - c && x1 + x2 = d
+x1 = a * b * c * d
+a + b * x1 = c
+ ( a / b ) * x1 + ( c / d ) * x1 = e
+x1 = ( a + b ) * c / d && x2 = x1 / e
+question
+a * b = x1
+x1 + a = x2 && ( b + x3 ) * ( c + x3 ) = d
+a * pi * ( b / c ) ^ 2 * x1 = x2 * pi * ( d / e ) ^ 2 * x1
+a + ( - b ) + c = x1
+a / b = x1 && c * ( d - e ) = x2
+a / b = x1
+a + b = x1 && x2 = c / x1
+a / b = x1
+ ( a + ( b * c ) ) / d = x1 && ( e + ( f * g ) ) / h = x2 && ( i + ( j * k ) ) / l = x3
+ ( a + ( b * c ) ) / d = x1
+x1 + x2 = a
+a * x1 + b * x2 = c
+question
+a * ( b + x1 ) = c * ( d - x1 ) 
+question
+a / b + c / d = x1
+a * ( b / c + d / e + f / x1 ) = g - x2
+question
+a * b = x1
+a * b * c * d = x1
+a * x1 = x2 && b * x1 = ( c - x2 ) 
+ ( a * x1 + b ) * ( c * x1 + d ) = e * f + g
+a * b * c * d = x1
+a * x1 + b * x2 = c * d && x1 + x2 = e
+question
+a / b * c = d * x1
+ ( - a ) + b * c / ( ( - d ) - ( - e ) ) = x1
+a * b * c = x1
+a + b = x1
+x1 / a = x2
+x1 = a * x2 && x3 = b * x2 && c * x2 - d * x2 = e
+a / b = x1
+ ( a / b ) * c = x1
+x1 = x2 / a
+x1 = x2 + a
+a * x1 = b
+a * x1 = b
+question
+a * x1 = b * ( x1 + c ) && x1 * d = x2
+x1 = a ^ b && x2 = c ^ d
+x1 = a ^ b
+a * x1 = b * c
+x1 = a / b
+a * x1 + b * x2 = c * d && x1 + x2 = e
+x1 + x2 = a
+xy = a
+ ( x1 + a ) * ( x2 - b ) = c
+question
+a * ( x1 - b ) = c * ( x1 + d ) 
+ ( a + x1 ) / b = c && ( x2 + d ) / e = f
+a * b = x1 && c - x1 = x2 && x2 / d = x3
+x1 * x2 = a && x1 + b * x2 = c
+question
+a - b = x1 && x1 / c = x2
+x1 + a * x2 = b && x1 + c * x2 = d
+x1 + a * x2 = b
+a * b + c * d = x1
+ ( a ) * x1 + ( b ) * x2 = c
+x1 = x2 + a
+question
+a = ( b - c ) * x1
+x1 + x2 = a
+a = b * x1 + c * x2
+question
+a + b * x1 = c
+a = x1 && b = x2
+x1 = a / ( b * c ) = d / e
+ ( a + b + c + d + x1 ) / e = f
+x1 + a = x2
+x1 + a = x2 - b
+x1 = a * x2
+question
+a = b * c * x1
+x1 + x2 = a
+a * x1 + b * x2 = c
+question
+x1 = a = b
+a * b * c = x1 && x2 = d / x1
+ ( a + b ) - c = x1
+x1 + x2 = a
+x1 = a + x2
+question
+x1 = a * ( b / c ) * ( d / e ) * ( f ) 
+a + x1 = b
+a * ( b + x1 ) = x2 && c * x1 + d = e * x1 + f
+question
+a = x1
+a / b = x1
+a / b = x1
+x1 - x2 = x3
+x1 + x2 = a
+a * x1 + b * x2 = c
+question
+a + b = x1 && ( c + d ) / e = x2 && x2 * f = x3
+a / b * c = x1
+a / ( b - x1 ) = c * d / ( e - x1 ) 
+ ( a * b + c ) / d * e * x1 = f
+x1a = b * c / d * e / f && x1g = h * i / j * k / l
+x1a = b * c / d * e / f
+a * b = x1 * c
+a * x1 + b * x1 = c && x2 = d : eam + x1
+x1 = a / b * c - d / e * f / g
+a / b = x1 && c * d = x2
+a = x1 * x2
+a * x1 = x2
+a * b + c * ( d + e - f - g ) * h = x1
+a * b / c = x1 && d / e = x2
+a / b * c = x1
+null
+a / b = x1 && c = x2
+question
+a ^ b = x1
+question
+a / b = x1 && c / d * e / f = x2
+a / x1 = b / c
+a + b * x1 = c
+x1 = a * b + c * d
+a / b * c * d = x1
+question
+ - a + x1 = b * c && d + x2 = e * f
+a + b + c = x1 && x2 = d / x1
+x1 = a / x2
+x1 = ( a + b ) / x2
+a ^ b = x1
+a + b * x1 = c
+question
+a * x1 + b * x2 = c - d
+a * x1 + x2 = b - c
+question
+x1 = ( - a - b ) / ( c - ( - d ) ) 
+a * x1 / b * x2 = c / d && x3 = x1 / x2
+a * x1 / b * x2 = c / d
+a / b = x1 / c
+a / b = x1
+a * b = x1
+a = x1 * x2
+x1 - a = x2 + b
+question
+a * ( b + c ) ^ d ) = x1
+x1 = a - b
+a * ( b / c ) * ( d / e ) = x1
+a + x1 = x2 && b * ( c ) + d * ( x1 ) = e * ( f + x1 ) 
+x1 = x2 + a
+ ( x1 + a ) = ( b ) * ( x2 + c ) 
+question
+a * ( b ) = x1 && c * ( d ) = x2
+a + b + c + d = x1 && e / f = x2
+a + b + c + d = x1
+a * ( x1 + b ) = c * x1 - d
+x1 + x2 = a
+a * x1 + b * x2 = c
+question
+a * x1 - ( x1 - b ) = c
+question
+a * x1 - b = c * x1 + d
+question
+x1 + x2 = a
+x1 = a * x2
+question
+a + b + x1 = c
+a ^ b = x1
+x1 = a = b && x2 = c = d && x3 = e = f && x4 = g = h
+a - b = x1 && x2 / c = d / e
+a / b + c / x1 = d / e
+a * b = x1
+a * b + c * d = x1
+null
+x1 = a * b * c * d
+x1 = a / b * c / d * e / f * g / h * i / j
+a / b = x1
+a / b = x1
+a + b * c * x1 = d * e
+a + b + c + d = e - x1 && f = x1 * x2
+question
+a / b = x1 / c
+a + ( b - c ) * ( - d ) = x1
+a * b + c = x1
+a / b = x1
+a * ( b - c ) = x1
+x1 = a * x2 + b
+a * x1 = b * x2 - c
+question
+a / x1 = ( b - c - d ) / ( e ) 
+a * ( b + c / d ) = x1
+a - b = x1 && x1 / c = x2
+ ( a - b - c ) * x1 = d
+a ^ ( b ) = x1
+a = ( - b - c ) / ( x1 - d ) 
+x1 + x2 = a && ( b * x1 + c * ( d - x1 ) ) / e = f
+x1 + x2 = a
+x1 = a + x2 && x3 = x2 - b
+x1 = x2 - a
+x1 + x2 = a
+a / b = c / x1
+a * x1 + b * x1 = c
+ ( a * x1 + x2 ) / = b * ( x1 + c ) 
+x1 / a = b / c
+a / b * c / d = x1
+| - a - b| = c + d = x1
+x1 + x2 = a && b * x1 + x2 = c * d
+x1 = ( a - b ) * ( c - d ) * ( e - f ) * g
+a ^ b = x1
+x1 = a * b * c
+a + b * c * ( d + e ) = x1
+a * b = x1
+a * ( b + c / d ) = x1
+a / b = x1 && x1 * c = x2
+x1 = a / b * ( c + d ) 
+x1 = a + b
+null
+x1 / a = b / c
+question
+x1 = a / b * c / d * e / f
+a / ( b / c * d / e ) = x1
+a * b = x1 && c * d = x2 && x1 / x2 = x3
+x1 = a * b / c
+a * ( b + x1 ) ^ ( c - d ) = e
+a * x1 = b * x2 && x1 + x2 = c
+x1 = a * x2 && x1 + x2 = b
+a * x1 = b
+a * b = x1
+a / b = x1 && x1 * c = x2
+a * b = x1
+x1 / a + b = c
+ ( a ) ^ 2 = x1
+x1 = x2 / a && x3 = x2 / b && x1 + x3 = c
+ ( - a ) ^ ( - b / c ) = x1
+x1 = a ^ ( b / c ) 
+x1 + a = x2 && x3 = x2 ^ 2 && x2 + x2 ^ 2 = x2 ^ b && x4 = x2 ^ 2 && x5 = x2 ^ c
+a * b * c * d * e = x1
+a / b = x1
+a + b = x1 && x1 / c = x2
+a / b * c = x1 / d
+ ( a - b ) / c = x1
+a * ( b ) ^ c = x1
+a * ( b + x1 ) = c
+x1 = a ^ b && x2 = c * d && ( e * x1 ) / ( f * x2 ) = x3
+a - ( - b ) = x1
+a - b + c + d = x1 && x1 + x1 + e = x2
+x1 + x2 = a && b * x2 + x1 = c
+x1 + x2 = a
+ ( a * b ) / c = x1
+ ( a ) * ( b ) = x1
+a * x1 = b && c * x2 = d
+a = ( b / c ) * ( x1 + d ) && e = f + ( g - h ) * x2 && x3 = i + ( j - k ) * ( l ) 
+a * ( b / c ) * ( d / e ) * ( x1 / f ) = g
+ ( a * b ) + ( c * d ) = x1
+a * x1 + b = c
+a / b * c / d * e / f * g / h = x1
+a / b = c / x1
+ ( a + b + c + d + e ) = x1
+ ( a + b ) / c = ( d + e ) / x1
+x1 = a * x2
+ ( x1 + a ) = b + c * ( x2 + d ) 
+question
+x1 ^ 2 = a ^ 2 + b ^ 2 && x2 = c * d * e
+a / b = x1 / c
+x1 = a / b * c * d
+a * b = x1 && c * d = x2 && e + f = x3 && x2 - g = x4
+a * b = x1
+x1 * a = x2
+a / b = x1
+x1 = a * b
+a * b = x1
+x1 = a / b * c / d * e
+ ( a ) * b = x1
+loga = x1
+a - x1 = x2
+a * x1 + ( b - x1 ) * ( c ) = d
+a * x1 + b * ( c - x1 ) = d
+a * b = x1
+a * b = x1
+a * b = x1
+a = b * x1 - ( c * x1 + d ) 
+a * ( b ) = x1
+null
+question
+a - x1 = x2 && b * x1 + c * ( d - x1 ) = e
+question
+a * b + x1 * c + x2 * d = e && f * x2 + x1 + x2 = g
+ ( x1 + a ) / ( x2 + b ) = c
+ ( x1 + a ) / ( x2 + b ) = c
+x1 / ( x2 - x1 ) = a
+question
+a - b = x1 && x1 / c = x2
+a / b = x1 && x1 * c = x2
+a / b = x1 / c
+a * x1 - b = c * x1 - d
+a + b - c = x1
+a + b - c = x1
+a - b = x1
+a * b = x1
+ ( a / b ) * c * d * e = x1
+a * b = x1
+x1 = a / b && x2 = c * x1 ^ d
+a - b = x1
+a * b * c * d = x1
+x1 + x3 * x3 = a && x1 = b * x3 / c && x3 * x3 = d * x3 / e
+x1 + x2 = a
+x1 = a * x2 / b
+x1 = a * x2 / b
+question
+a / b = c / x1
+a * b + c * d + e * f + g * h + i * j = x1
+x1 = a * x2 && x1 = b * ( c - d ) 
+ ( a ) * ( b ) = x1
+a / b + c / d = e / f && g / ( h / i ) = x1
+ ( a + b ) / c = x1
+x1 / x2 = a / b
+x1 = x2 + a
+ ( a - b ) / c = x1
+null
+ ( a - b ) / c = x1 && ( d - e ) / f = x2
+x1 ^ 2 + a ^ 2 = b ^ c
+x1 ^ 2 + ( a + b ) ^ 2 = c ^ 2 && x3 * x3 = x3 - x1
+x1 ^ 2 = ( a - b * x2 ) ^ 2 + ( c * x2 ) ^ d
+pi * ( a / b ) ^ 2 * c = x1
+a / b = x1 / c
+x1 = a * x2 && x3 = b * x2 - c && x1 ^ 2 + x3 ^ 2 = d ^ e
+a * b + c * ( d - e ) = x1
+x1 = a * b / ( c * d ) 
+a * b = x1
+a * b * c = x1
+x1 + a * x2 = b && c * x1 + x2 = d
+x1 + a * x2 = b
+question
+a * x1 = b && c * x2 = d
+a * x1 = b
+ ( a - b ) / ( c - d ) = x1 && ( e - f ) / ( g - h ) = x2
+a * x1b = x2 && c + d + e + f = x3
+a ^ 2 + b ^ 2 = x1 ^ 2 && c * x1 = x2
+a * x1 = x2
+a / b = x1
+a / b = x1 / c
+a * b = x1
+null
+a * ( b / c ) = x1
+a - b = x1 && x1 * c * d * e / ( f * g * h * i ) = x2 && j - x2 = x3
+ ( - a ) ^ 2 - ( - b ) ^ c = x1
+a * b * c * d * e * f / ( g * h * i * j * k * l ) = x1
+a = x1 + x2 && b * x1 + c * x2 = d
+a = x1 + x2
+a * b = x1
+x1 = x2 - a
+x1 * x2 = a
+question
+a * x1 + b * x2 = c && x1 + x2 = d
+x1 + x2 = a
+question
+null
+a * x1 + b * x2 = c && d * x1 + e * x2 = f
+question
+ ( a ) ^ x1 = b
+a * b + c * x1 = d * ( e + x1 ) 
+a + x1 = b
+a * b = x1
+a / b * c / d * e = x1
+x1 + a * x1 + x1 * ( b * x1 ) = c
+question
+a ^ 2 + b ^ 2 = x1 ^ 2 && c ^ 2 + d ^ 2 = x2 ^ e
+a / b = x1
+x1 = a / b && x2 = c / d
+a + b * x1 = c + d * x1
+question
+a / b = c / x1
+loga - logb = logc * ( d / e ) = - f
+ ( a ) = x1 && x2 ^ 2 = b && x2 = c - d
+a * ( b ) = x1
+x1 * ( a ) = x2
+a + b = x1
+a ^ 2 < b ^ 2 + c ^ d
+a * b + c * d / e / f = x1
+a * x1 + x2 = b
+a * x1 + b * x2 = c
+question
+a - b = x1 && x1 * c = x2 && x2 + d = x3 && x3 * e = x4 && x4 * f = x5
+a + b = x1
+a ^ 2 + b ^ 2 = c ^ d
+x1 = a√b / c√d
+a - b = x1 && c * d = x2
+ ( a / b ) * ( c / d ) = x1
+a / b = x1
+a / b = x1
+a * b + c * d = x1 && e * x1 = x2
+a + b + c + d + e = x1
+a / b = x1
+a * ( b + c ) / d = x1
+null
+a * b = x1 && x2 = c / d && e / f * g = x3
+x1 = x2 + a
+ ( x1 + a ) + ( x1 + b ) + x1 + x1 = c
+x1 = a * b
+a * b * c / d = x1
+a * b = x1 && c * d = x2
+x1 = a / b
+ ( a + b / c ) * ( d + x1 ) = x2
+a * ( b - x1 ) = x2
+question
+a - b = x1 && x1 * c * d = x2
+a * x1 = b * x2 + c
+x1 + x2 = a
+question
+a / b = x1 && ( c / d ) * e = x2 && ( x2 ) * ( f / g ) = x3
+a * x1 + b = c * x1 - d
+ ( x1 - a ) * b = c
+ ( a * b ) / ( c * d ) = x1
+x1 = ( a - b + c - d ) / e
+a * b = x1
+x1 / a = b / c
+x1 = x2 + a
+a * x1 + b * x2 = c
+x1 + x2 = a && b * x1 + c * x2 = d
+a + b * x1 = c - d * x1
+a - b = x1
+a * b = x1
+a * x1 = b * ( x1 - c ) && d - e = x2
+question
+ ( a ) = ( b - x1 ) / ( - c - d ) 
+ ( a / b ) * c = x1 && ( d / e ) * f = x2
+x1 = a / b
+ ( a * b ) / c = x1 && ( x1 - d ) = x2
+a / b = x1
+a + b = x1 && c / d * e / f * g / h = x2
+x1 + x2 = a && b * x1 + c * x2 = d
+x1 + x2 = a
+null
+a / b = x1
+a / b + c / d = x1
+a * ( b * c / d - e * f / g ) = x1
+a / ( b ) = x1
+a / x1 - b / ( c - x1 ) = d && e / f = x2 && g / ( h - i ) = x3
+question
+ ( - a - b ) / ( - c - d ) = x1
+x1 = a
+a ^ b = x1
+a / b = x1
+a ^ b = x1
+ ( a - b ) / c = x1
+x1 + a * ( x1 + b ) = c ) 
+x1 + a * ( x1 + b ) = c
+question
+x1 + x1 + a + x1 + b = c
+question
+a * x1 + b = c * ( x1 + d ) && x2 = e * ( f / g ) 
+null
+a + b = x1
+ ( a + b ) * c / d = x1
+a / b = c / x1
+a / x1 = ( b + c ) ^ 2 / ( d ) ^ e
+x1 = ( a + b ^ ( c / d ) ) * ( e + f ^ ( g / h ) ) 
+a - b = x1 && c / d = x2
+a * b = x1 && x1 / c = x2 && d - e = x3
+x1 + a * b = ( x1 + c ) * d
+a / b = x1
+a * b / c = x1
+x1 = a * ( b - c ) + d
+a * x1 + ( b ) * ( c ) = d * ( x1 + e ) 
+a * b / c = x1
+a * b + c * d = x1
+a = b + c * x1
+a - b / c * d / e * f / g * h / i * j / k = x1
+a / b / c = x1
+a - b = x1
+a * x1 = x2 && b * x1 + c * x2 = d
+a * x1 = x2
+a - b = x1
+a * b * c * d * e * f = x1 && g * x2 = h
+a - b * x1 = c - d * x1
+ ( a + b ) = x1 && ( c / d ) * e = x2
+ ( a + b ) / c = x1 && d / ( e + f ) = x2
+ ( a + b ) / c = x1
+a = x1 * ( b ) 
+x1 = ( a ) * ( b ) 
+a * b = x1
+x1 * x2 = - a && x1 + x2 = b
+x1 * x2 = - a
+ ( a - b ) * x1 - c = d
+x1 = - a / b = c / ( - d ) = ( - e ) / f
+a / b = x1
+a ^ ( b / c ) = x1
+x1 = a * x2 + x3 && b * ( x2 + x3 ) + c = x1 && x2 = x3 - d
+a * ( x1 + x2 ) + b = x3
+sin ( a ) = x1 / b
+a = b * x1
+a = b * x1
+a / b = x1
+a - b - c - d - e = x1
+x1 = a * x2 + b && c = d * x2 + e
+x1 = a * x2 + b
+a / b * c = x1 && d / e * f = x2 && g / h * i = x3 && x1 + x2 - x3 = x4
